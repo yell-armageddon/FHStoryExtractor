@@ -1,0 +1,1245 @@
+﻿17 • H6 Haunted Vault
+  
+
+Scenario Goals Special Rules
+The scenario is complete when the Doors 1 to 4 are locked and it. Any figure occupying it suffers trap 
+goal treasure tile is looted. At the end will unlock and open so long as damage and is placed in the closest 
+of that round, read 82.1. any characters occupy two or more empty hex.
+
+corresponding pressure plates  
+(A opens 1, B opens 2,  The first time each door 1 to 4 is 
+
+Introduction C opens 3, D opens 4). Whenever opened, at the start of the following 
+Leaving the door behind you, you arrive any open door no longer meets this round, spawn one monster adjacent to 
+at a room slightly less worn down by time, criteria, it immediately closes and locks. each character based on the map tile they 
+but no less unsettling. The green light is Destroy any overlay tile or tokens on currently occupy:
+far stronger here, the walls practically 
+glowing with its strange emerald bloom. Tile 09-B 02-K 02-I 02-A
+Green ooze has been slathered all over 
+the chamber, and much of the brickwork Monster Elite Living Elite Ice Normal Normal Ice 
+
+Spirit Wraith Living Doom Wraith
+is coated in thin streaks of dried slime. 
+However, beyond the luminescence and If multiple doors are opened for the first characters solely for the purpose 
+the ooze, there is something else that time in the same round, multiple spawns of occupying pressure plates. On 
+draws your attention. occur. Any character occupying a hex initiative 50 each round, they perform 
+
+with an open door may be treated as  4, controlled by you. They do not 
+A series of heavy metal squares are set occupying either bordering tile for the block enemy movement can cannot be 
+into the ground in the center of the room: purpose of spawning. interacted with in any way.
+pressure plates, like the sort normally 
+employed as traps, except these have not Place 4-C numbered tokens in any All trap tiles placed during set up 
+been hidden at all. Instead, they sit out in empty starting hexes. These represent throughout the scenario are considered 
+the open, each marked with a strange rune. spectral helpers, who are considered pressure plates instead.
+Along the walls you see three doors also 
+marked with symbols: The middle plate’s 
+symbol matches the door to the right, Section Links Map Layout
+while the runes on the two outside plates When door 3 is opened, read 42.3.
+match the door on the left. The remaining 02-C
+door, which sits directly in front of you, is 
+etched with a rune that doesn’t match any 
+of the plates. 07-E
+
+02-A
+
+1 02-K 02-I
+09-B
+
+3 2
+
+C B C
+
+Loot Scenario Key
+
+  x10 
+Ice Wraith Dungeon Door 5 Pressure Plate 6
+
+  x5 
+  x2 
+
+Living Doom Pressure Plate 5 Pressure Plate 3
+  x2 
+  x1 
+
+Living Spirit Pressure Plate 6 Treasure 1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+22
+
+
+
+18 • E7 Crystal Fields
+  Crystal Fields
+
+Scenario Goals Section Links
+The scenario is complete when all When door 1 is opened, read 91.2.
+enemies in it are dead. At the end of 
+that round, read 13.1.
+
+Map Layout
+
+Scenario Effects
+Each character gains .
+
+11-A 15-A 11-C
+
+Introduction
+You’ve been following the trail of 
+crystalline spikes—the Icespeakers’ 
+“conduits”—for hours, and the trail has 
+led you around the north edge of the 
+Whitefire Wood. As you go, you wonder 
+what the Algox are up to. Have these icy Scenario Key Loot
+spikes been here forever, functioning as   x6 
+some sort of ancestral crop? Or have the Algox Guard  Trap 3
+Icespeakers begun amassing them only   x3 
+recently, expanding these fields to some Burrowing   x2 
+unknown purpose? Blade Ice Spikes 5   x5
+The conduits have become larger and more   x2 
+
+Frozen Corpse Snow Drift 6
+densely packed as you’ve followed the   x1 
+trail, and now they are so close together   x1 
+that you’re forced to abandon your sled Snow Door 2 Ice Pillar 2
+and move in on foot.
+
+It doesn’t take long to pick up a trail after 
+that. Heavy footprints mark the way, and 
+following them, you come to the remains 
+of a hard-lost battle. A great number of 
+Algox corpses are strewn about in the 
+snow, their huge bodies showing deep 
+cuts, some missing limbs. But something 
+is wrong with this scene: None of the 
+Algox you’ve encountered before wield 
+blades that could cause this sort of 
+damage.
+
+As you crouch to inspect a corpse further, 1
+it suddenly shifts. You jump back as it 
+rises out of the snow, a rotting mass of 
+undeath. You sigh and shake your head. A
+Why can’t things just stay dead?
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+23
+
+
+
+19 • N7 Skyhall
+  Copperneck Mountains
+
+Scenario Goals glyphs, and stout pedestals made of ice nothingness. They are pale, wicked-
+Unknown at this time. stand in patterns around the room. The looking things: ghostly in body but 
+
+chief moves slowly, reverent even despite with sharp spectral claws and a pure, 
+his rush, but you sense the presence of unchecked hatred in their eyes.
+
+Scenario Effects an almost palpable frustration, a twisted 
+Each character gains . anger hovering in the air. Another tremor rises up and the Algox 
+
+chief shouts over it. “You must put the 
+Shadows materialize in front of your spirits to rest. Their anger will bring down 
+
+Introduction eyes—gray spirits wriggling out of the mountain!”
+Snow and rock fall freely as the mountain 
+shakes violently. Boulders zip past your 
+rappel lines, plummeting through space Special Rules
+before crashing into the ground with All altars are immune to damage  At the start of each listed round, spawn 
+incredible thuds. Every second you’re at this time. the following monsters at each listed 
+outside is another second nearer to death, location based on character count:
+so the instant you touch down, you 
+unlatch your harness and run. But rather Round Two Characters Three Characters Four Characters
+than flee for the safety of the plains, you 
+dive down into the tunnels, knowing 1 A: One normal A: One normal  A: One elite  
+that it’s only a matter of time before Flame Demon Flame Demon Flame Demon
+Snowscorn comes crashing down. You  
+have to find the Icespeaker chief in the 2 B: One normal B: One normal  B: One elite  
+hopes that he knows how to stop this. Earth Demon Earth Demon Earth Demon
+
+ 
+Panicked Algox clog the passages as they 3 C: One elite  C: One elite  C: One elite  
+try to escape their crumbling home, but Ice Wraith Ice Wraith Ice Wraith 
+the chief is easy to find. He’s right where D: One normal  D: One normal  
+you expect him to be, standing in the Ice Wraith Ice Wraith
+central chamber, giving rapid orders to his  
+kin, telling them to leave everything and 4, 5, C: One normal C: One normal  C: One elite  
+flee. 7, 8 Flame Demon Flame Demon Flame Demon 
+
+D: One normal D: One elite  D: One elite  
+“The spirits of Skyhall have turned against Earth Demon Earth Demon Earth Demon
+us,” he growls when he sees you. “You  
+must come with me, quickly!” You turn 6, 9 A: One normal  A: One normal  A: One normal  
+and follow as the tremors intensify, the Ice Wraith Ice Wraith and one  Ice Wraith and one 
+entire mountain threatening collapse. The B: One normal elite Ice Wraith elite Ice Wraith 
+Skyhall is a wide, circular room domed Earth Demon B: One normal  B: One elite  
+with glistening crystals—clearly a place Earth Demon Earth Demon
+of great religious significance. The floor 
+is carved with a number of intricate 
+
+Section Links Map Layout
+At the end of the ninth round,  
+read 75.2. 07-A
+
+16-B
+
+– Continued on next page.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+24
+
+
+
+19 CONT. • Skyhall
+
+Scenario Key Loot
+
+  x11 
+Earth Demon
+
+  x2 
+  x2 A B
+
+Flame Demon
+  x2 
+  x1 
+
+Ice Wraith
+  x1 
+  x1 
+
+Cave Corridor 1
+
+Large Cave 
+Corridor 3
+
+Altar 6
+
+Dark Fog 6
+
+D C
+
+20 • L9 Temple of Liberation
+  Copperneck Mountains
+
+Scenario Goals The room is truly massive. The soaring There is little time to wonder at the 
+The scenario is complete when the domed ceiling is carved with intricate sight. Shortly after you enter, one of 
+glowing orb is destroyed. At the end rectangular designs. The walls too share the machines turns and sees you. It 
+of that round, read 57.2. this motif, and four large pillars stand in rises at once and the other mechanical 
+
+four quadrants of the room, each topped parishioners follow like a silent wave. As 
+with a small, glowing yellow node. they do, the four pillars deploy a protective 
+
+Introduction shroud that encases the main orb in a 
+The light here is sparse. You tread The orb, which is the primary source of hazy barrier of light. That orb must be 
+carefully with torches held high, the long the light, is positioned in the center like a driving them, you think, but as soon as the 
+stone hallways bending in the darkness. sun, humming in key with the four pillars thought crosses your mind, the machines 
+You march with your eyes straining around it. charge. Their metal feet click against the 
+forward, and only after a long stretch of stone floor, and through a passage at the 
+time do you find anything new. A hallway A small crowd of mechanical creatures far end of the room, you can see shadows 
+appears, bathed in a faint yellow glow. The have gathered here. Some look like the flickering—reinforcements on their way. 
+light is dim at first but intensifies as you machines you’ve faced already, bipedal You need to shut down the barrier and 
+continue on, and a few moments later you beings made of metal and cord, but others disable the orb, and you need to do it fast.
+arrive at the source: an immense chamber are new and strange. All of them are 
+dominated by a huge, humming yellow orb. turned toward the orb, heads bowed as if – Continued on next page.
+
+in prayer.
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+
+25
+
+
+
+20 CONT. • Temple of Liberation
+
+Special Rules Section Links
+At the start of each even round, spawn Each metal cabinet has Cx(L+2) hit When all metal cabinets are destroyed, 
+one Ruined Machine at each A and points. They are enemies to you and read 14.3.
+B. These spawns are normal for allies to all monsters. They have an 
+two characters, elite at B for three initiative of 01 for the purpose of 
+characters, or all elite for four characters. focusing. Whenever any metal cabinet Map Layout
+
+is destroyed, spawn one Flaming 
+At the start of each odd round after the Bladespinner at to the glowing orb. It 
+first, all characters, character summons, is normal for two or three characters, 02-A 02-C
+
+and Ruined Machines occupying or or elite for four characters. In addition, 
+adjacent to any hex with a power conduit the closest A or B no longer spawns 15-C
+
+or metal cabinet suffer trap damage. anything, and the closest power conduit 
+no longer causes trap damage. 02-K 02-I
+
+The glowing orb is immune to damage 
+at this time.
+
+Scenario Key
+
+Flaming 
+Bladespinner A B
+
+Ruined 
+Machine
+
+Steel 
+Automaton
+
+Metal Corridor 4
+
+Large Metal 
+Corridor 4
+
+Power Conduit 4
+
+Glowing Orb 1
+
+Metal Cabinet 4
+
+Loot
+
+  x10 
+  x2 
+  x5 
+  x2 
+  x1 B A
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+26
+
+
+
+21 • N1 Realm of Endless Frost
+  
+
+Scenario Goals “Yes, movement! Wonderful!” It shrieks. Special Rules
+The scenario is complete when the “Oh please, won’t you follow me onto the Door 1 is locked and will unlock 
+Prince of Frost is dead. At the end of terrace.” when all revealed enemies are dead.
+that round, read 136.3.
+
+The creature leads the way to the 
+entrance of its home: a conical structure Section Links
+
+Scenario Effects with walls of stone and crystalline ice. When door 1 is opened, read 51.1.
+Each character discards two cards and You are somewhere foreign, though, 
+gain . surrounded by unforgiving ice that seems 
+
+to creep closer when you look away. You Map Layout
+glance back to see the path behind you 
+
+Introduction frozen over, and when you look ahead, 07-E
+You’ve been hiking for what seems an your host is conveniently absent. Several 
+eternity. The wind screams in your ears piles of snow rise and then snap into solid 
+and your body is growing stiff. Your hands forms—spindly demons that glitter in the 15-C 13-E
+and feet numbed long ago, and now your pale light. They each take a shrill breath 
+mind is beginning to fog. and stretch their long, wicked-looking 
+
+tails. So much for hospitality.
+When you left the fjords you did so in 
+good spirits. With the exception of a few 14-B
+demonic bird-men, your exploration of Scenario Key Loot
+the coast was going fine... until the storm   x6 
+arrived. Prince of Frost
+
+  x4 
+At first it was a thin flurry of snow, wisps   x3 
+of white flakes playing at your ears. Within Frost Demon
+
+  x3 
+minutes, though, it had turned vicious, the 
+wind and ice whipping up so fiercely that   x1 
+
+Living Bones
+at times you could see nothing but white as   x2 
+you marched.   x1 
+
+Living Spirit 1
+Now you stumble on with your heads 
+down, looking out for anything that can 
+
+Snow Imp
+give you shelter.
+
+Suddenly, the snow and ice give out Dungeon Door 3
+beneath you, and just like that you are 
+falling, plummeting. Your minds scramble. 
+The ground appears. Then blackness.  Trap 3
+
+When you awake, there is pain. Blood Ice Spikes
+trickles from various wounds and gloops 3
+onto the icy ground.
+
+Ice Pillar 3
+A voice calls out, scratchy and high 
+pitched.
+
+Bookshelf 3
+“Oh dear, oh my, I hope you poor 
+wretches are still alive,” it says. “I get Crate 3
+so few visitors, I should hate to miss an 
+opportunity to host.”
+
+Glowing Orb 1
+You blink away the fog and see a small 
+humanoid creature made entirely of ice Treasure
+scampering toward you. 1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+27
+
+
+
+22 • I2 Ice Floes  
+
+  Biting Sea
+
+Scenario Goals Section Links
+The scenario is complete when all When all revealed enemies are dead, 
+enemies in it are dead. At the end of read 26.3.
+that round, read 96.4.
+
+Map Layout
+Scenario Effects
+Each character adds two  cards to 07-G
+their attack modifier deck. 14-A
+
+Introduction
+You’ve followed the shards’ pull on your 02-B
+quest to restore the Lurkers’ crown. It’s 
+been several days of hard sailing, dodging 
+icebergs and huddling against the wind, 
+you’ve arrived at your destination. You 
+float at the exact spot where the shards 
+want you to be, but strangely, there is 
+nothing here. Scenario Key Loot
+
+  x10 
+Your ship sits in open water, sails secured, Lightning Eel
+while you look for any sign of another   x5 
+shard: a spit of land, a wayward berg, Lurker   x2 
+another shoal perhaps, but there is nothing Clawcrusher   x2 
+here except the frigid, steady chop of the 
+sea. Frustrated, you retire below deck, Lurker   x1 
+but as you descend you notice the shards’ Wavethrower
+
+renewed excitement. Only then do you 
+realize where you must go: down into the Huge Water 1
+water.
+
+Large Water
+Just then the ship heaves upward. For a 2
+moment you feel like you’re floating, your 
+body tossed weightless into the air. But Stairs 2
+then that feeling ends, and you slam back 
+down onto the cabin floor with cracking 
+force. Something has struck the hull. Water 10
+
+You heave yourselves back up to the main Barrel
+deck and see jets of saltwater spraying all 2
+around the ship. Lurkers have boarded A
+your vessel, and their huge bodies are Crate 2
+rocking it back and forth like a toy. You 
+draw your weapon, ready to charge, but 
+someone shouts up from the hold—the Mast 1
+crab-people have made it inside and 
+they’re beginning to smash holes in the 
+ship. The Lurkers know you have the 
+shards, and they will sink you to get them.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+28
+
+
+
+23 • B8 Spire Basement
+  Crystal Fields
+
+Scenario Goals Section Links
+The scenario is complete when all When door 1 is opened, read 38.4.
+enemies in it are dead. At the end of 
+that round, read 105.2.
+
+Map Layout
+
+Scenario Effects
+Each character gains . 15-D
+
+Introduction
+11-F
+
+Down the rear stairwell—a corkscrew of 
+stone and iron—you go to see what lies 
+beneath the spire. Tunnels are what you 12-A
+
+find: black, sooty tunnels. From what 
+you can tell, they are purely functional, 
+the stone passages scraped and marred 
+by years of clumsy automatons passing 
+through, but there is a smell on the air 
+that stands out. It’s a mix between funeral Scenario Key Loot
+pyre and an alchemist’s shop: burnt fat,   x8 
+charred metal, and smoke. You can’t see Living Bones
+the beam’s light from here, but you can   x4 
+hear its telltale hum.   x4 
+
+Living Doom
+  x2 
+
+You wind through the tunnels, keeping 
+alert for any sign of movement, but you   x1 
+
+Living Spirit
+soon discover that the workers down here   x1 
+have been disabled and now lie lifeless 
+on the ground. It appears that they fell Metal Door 2
+in the middle of their work, dropping 
+where they stood and spilling whatever  Trap
+they’d been carrying. Their grisly cargo is 4
+strewn over the floor: legs with feet still 
+attached, Algox paws, vulpine torsos, all Rubble 4
+of it splayed out like a macabre trail of 
+breadcrumbs.
+
+Large Debris 3
+It isn’t until you turn the final corner 
+that you see where all this butchery was 
+headed—a hallway, heaped on both sides 1
+with discarded bodies and limbs. The 
+humming noise is louder here, and the 
+red glow reflects off the tunnel walls—
+the beam of energy is close. You move 
+forward but only manage a few steps 
+before the ground stirs around you.
+
+Deathless bodies, ruined and hacked, 
+rise up from the piles. Maimed and half-
+charred Algox and humans, many of them 
+lacking limbs and other essential parts, 
+climb to their feet nonetheless and release 
+weak, throaty groans.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+29
+
+
+
+24 • D6 Upper Spire
+  Crystal Fields
+
+Scenario Goals Special Rules Section Links
+The scenario is complete when all Shuffle the twelve numbered tokens When all revealed enemies are dead 
+characters have escaped. At the end of face-down next to the map. and any character occupies a corridor, 
+that round, read 88.3. after applying any numbered effect, 
+
+All corridor hexes in the scenario read 83.2.
+represent the beam of chaotic energy. 
+
+Scenario Effects All monsters treat all corridors as 
+Each character gains  twice. negative hexes. Whenever any figure Map Layout
+
+enters a corridor hex, immediately 
+reveal one numbered token and apply 
+
+Introduction the corresponding effect to that figure: 04-B
+
+This dark metal tower was built for some 
+purpose, and you’re certain the truth will 1: Gain  
+be at the top. You need to see where this 2: Gain  08-A
+beam of red light leads. When you step 3: Gain  
+into the beam of light, you feel nothing 4: Gain  twice 
+at first. The world around you becomes 5: Perform  2+L, self 
+a crimson stained version of itself . You 6: The closest monster suffers trap 15-D
+feel silly, realizing that maybe this beam damage 
+was meant only for the transportation of 7: Gain  
+machines. But then you take a breath, 8: Gain  
+and everything wobbles. Your vision 9: Gain  
+bends, and the world snaps with sudden 10: Gain  twice 
+violence into an entirely new shape. You 11: Suffer trap damage 
+have no time to react—if you did, you 12: Spawn one normal Living Bones 
+would almost certainly scream—but in at the closest empty non-corridor hex.
+a blink it’s over and you are somewhere 
+else, standing in an entirely new room. Whenever all numbered tokens 
+The redness is gone, but you feel terribly have been revealed, shuffle them all 
+off-balance. It’s as if you’ve been at sea face-down again.
+for months and have just run aground. For 
+whatever reason, there is a dry, smoky If any character becomes exhausted, 
+taste on your tongue. the scenario is lost.
+
+You’re in a smaller room now—an upper 
+level of the spire, you think. The red beam 
+is still coursing through the center of 
+the floor, and all around it are a number 
+of automatons, just like the workers Scenario Key Loot
+downstairs, except these are still active.   x8 
+The reason for this is quite clear: just past Chaos Demon
+the beam hovers another demon, thrashing   x2 
+its long, leathery tendrils in rage.   x4 
+
+Living Bones
+  x2 
+  x2 
+
+Wind Demon
+  x1 
+  x1 
+
+Cave Corridor 4
+
+Large Cave 
+Corridor 4
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+30
+
+
+
+25 • E10 Rusted Tunnels
+  Crystal Fields
+
+Scenario Goals Section Links
+The scenario is complete when all When door 1 is opened, read 58.2. 
+enemies in it are dead. At the end of When door 2 is opened, read 61.2.
+that round, read 16.1.
+
+Map Layout
+Introduction
+
+After leaping off the ruined elevator, you 07-H 11-F
+discover that the metal walkway that 
+saved your life leads directly to a door 
+with a flashing red light. The security 
+system is still in effect, and you might 
+as well dismantle it while you search for 12-A
+
+another way out. Your footsteps clang 
+softly against the metal path, echoing into 
+the vast nothingness.
+
+It isn’t long before you arrive at the edge Scenario Key Loot
+of the cavern and find the entrance to a 
+tall, narrow tunnel. The tunnel’s walls Flaming   x10 
+
+Bladespinner Large Debris 2
+have been carefully carved out and   x2 
+reinforced with thick bars of heavy iron, Robotic   x4 
+all of which are coated in rust. Boltshooter Large Debris 2
+
+  x1 
+The red light hangs only a short distance Ruined   x1 
+within—a single blinking orb mounted Machine Treasure 1
+
+onto a wall—and under its steady flash 
+you can make out the shapes of some sort Metal Door 2
+of creature. They’re moving slowly about 
+in the low gloom, almost as if they’re 
+searching for something. You realize only 
+too late that the thing they’re searching for 
+is you.
+
+One of them, a stout metallic body, stops 
+and peers in your direction. Its glassy eyes 2
+catch the flashing glow from above, and an 
+instant later the tunnel is filled with light. 
+Dozens of red lamps lining the walls burst 
+to life and dye the room in a sharp scarlet 
+fluorescence. In the new light you can see 1
+the tunnel clearly, and it is packed with 
+mechanical guards. Several are already 
+waiting on the steel walkway, and more 
+are beginning to emerge from adjoining 
+tunnels. Flame and sword and gun barrel 
+swing outward, and the machines begin to 
+advance.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+31
+
+
+
+26 • E10 Quatryl Library
+  Crystal Fields
+
+Scenario Goals leaves of corroded iron have begun to flake Special Rules
+The scenario is complete when all off in several places. You listen for any All Ruined Machines focus on moving 
+enemies in it are dead. At the end of signs of activity, but there are none. toward and occupying the pressure 
+that round, read 24.1. plate, then find a focus as normal and 
+
+You continue moving and, after a long perform any other abilities as if they 
+stretch of time, you spot a trace of had no movement. If they cannot find 
+
+Introduction light escaping from a nearby passage. a path to the pressure plate, they will 
+Turning away from the flickering red Following it, you come to a library. It is move to get as close as possible to it 
+right, you opt to move in a direction a large rectangular room bordered on all (as measured by range).
+slightly less ominous, though only slightly. sides with bookshelves sagging under the 
+You take the steel walkway through the weight of their contents, and in the center If any figure occupies the pressure 
+open cavern. The ceiling is too high for of the room are several tables and chairs, plate, the scenario is lost. All 
+you to see in the darkness and no creatures all of them thick with dust and cobwebs. characters and character summons 
+stir around you, but still the vastness of cannot enter the hex with the pressure 
+this place is a marvel in itself. But you are not alone. Shortly after you plate in any way.
+
+enter, you hear the hurried shuffling of 
+After a few minutes, you come to the metal feet. A line of security machines 
+entrance of a well-constructed tunnel. Its emerge from the far entry, weapons at the Section Links
+walls and ceiling are held back with thick ready. They move with rigid certainty, At the start of the seventh round, read 
+metal trellises, hundreds of hexagonal their limbs exact and swift, specialized 131.4.
+beams coming together to form a heavy in seeking and destroying intruders like 
+metal skeleton that, though well-forged, yourselves. Their focus, however, is 
+has succumbed to decades of rust. Wide only partly aimed at you. The majority Map Layout
+
+of them are instead moving toward a 
+pedestal in the center of the room. The 
+
+Scenario Key Loot pedestal is little more than a simple stone 16-D 13-F
+pillar, but atop it you can see a large steel 
+pressure plate. You’re not sure what the 
+
+Ancient   x10 
+Artillery plate does, but judging by how much 
+
+  x2 attention the machines are paying it, you 
+Ruined   x4 know it isn’t good.
+
+Machine   x1 
+Steel   x1 
+
+Automaton
+
+Large Metal 
+Corridor 4
+
+Metal Corridor 3
+
+Pressure Plate 1
+73
+
+Bookshelf 6
+
+Supply Shelf 3
+
+Treasure 1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+32
+
+
+
+27 • H6 Depths of Delirium Shard Seeker
+
+  
+
+Scenario Goals You move carefully into the chamber, but is pulsing faster than ever and the puddles 
+The scenario is complete when all a sudden wave of gravity tilts you to the of ooze have begun to creep over the floor. 
+altars in it are destroyed. At the end of side, and you stumble. Sudden flashes of You raise your arm in front of your face 
+that round, read 8.2. light and shadow appear. Faces from long and squint. It’s difficult to see clearly 
+
+ago—your own memories and nightmares, through the gloom, but, squinting through 
+things you’ve locked away—literally leap the shifting shadows, you catch a glimpse 
+
+Introduction out from your mind and materialize in the of what lurks behind them. A great eye 
+The carved relief in the glowing tomb has room before you. crowns a tall knot of fleshy black tendrils, 
+been at the back of your mind since you and you understand now that this path 
+first saw it, and now, standing in front Were you a newly-minted adventurer, was taken in error. You have not entered a 
+of it once again, you understand why. this deranged magic might unnerve you. simple catacomb; you have entered the lair 
+You move closer, raising a hand to feel Instead, you concentrate. The green light of terrors from the deep.
+its intricacies, but a familiar sensation 
+suddenly comes over you—the shard. It 
+thrums once, twice. Then, as if moved Special Rules Section Links
+by an invisible hand, the relief spins and Whenever any character suffers When door 1 is opened, read 95.1. 
+moves—the door begins to open. The damage from a Deep Terror attack, When door 2 is opened, read 68.3. 
+heavy metal gears grind through the rust they must move one card from When door 3 is opened, read 69.2. 
+as the door slides slowly, grudgingly into their hand or discard pile to their When door 4 is opened, read 148.4. 
+the wall. own separate pile of “taken” cards. When door 5 is opened, read 71.5.
+
+In addition, whenever any door is 
+You move into the next chamber and opened, all characters must move one 
+put away your torch. The green light has card from their hand or discard pile to Map Layout
+become so strong, you can navigate by its their taken pile. Taken cards cannot be 
+glow alone, though now that glow appears interacted with in any way 02-I
+to be pulsing, rising and falling in a steady 02-C
+
+rhythm. Each altar in the scenario has L+2 
+hit points. They are enemies to you 12-D
+
+The chamber is a dank, mildewy expanse and allies to all monsters. Whenever 02-A 09-B 02-K
+of cracked stone and crumbling mortar. any altar is destroyed, the destroying 
+Several splotches of greenish ooze character may return all their taken 
+seep in through the stonework walls, cards to their hand.
+accumulating into large, thick puddles.
+
+3
+Scenario Key Loot
+
+1 2
+  x13 
+
+Deep Terror
+  x2 
+  x2 
+
+Living Bones
+  x2 
+  x1 
+
+Ooze
+
+Dungeon Door 5
+
+Altar 6
+
+Treasure 2
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+
+33
+
+
+
+28 • J8 Summit Meeting
+  Copperneck Mountains
+
+Scenario Goals You look outside the cavern to see the Scenario Key Loot
+The scenario is complete when all guard details each side brought being cut   x11 
+characters and emissaries have escaped. down with cruel efficiency. Spears and Algox Archer
+At the end of that round, read 93.3. spells and fists fly in a swarm of violence.   x2 
+
+Gurndel and Barduu turn to you. It’s time   x3 
+to leave, but both exits are well guarded. Algox Guard
+
+Introduction   x1 
+A secret meeting has been arranged. There “We must be away from this place,” Algox   x1 
+are elements on both sides of this Algox Barduu shouts. “Warm-bloods, aid us, or Icespeaker   x2 
+war that want peace, and they have sent none will escape.”
+emissaries to discuss the possibility of Algox 
+
+Snowspeaker
+reconciliation.
+
+Large Cave 
+You stand as witnesses to this Corridor 3
+apocryphal meeting, and you 
+can’t deny the wary optimism C Ice Pillar
+lingering in the private chamber, 48 5
+
+a long, oval-shaped cave tucked E
+away from the eyes of either sect. Treasure 2
+
+C
+The two emissaries, Gurndel and 
+Barduu, stand in the center of 
+the room, muttering in the Algox 
+tongue, and although you can’t 
+discern their words, it seems to be 
+going well. So far, the discussion 
+has been carried out with 
+measured tones and much pausing 
+for consideration. In fact, from 
+what you’ve seen, you’re almost 
+surprised that the two sects haven’t 
+found peace before—almost surprised, 
+because just as you have that thought, you 
+hear the sounds—enraged Algox storming 
+down the tunnels toward you.
+
+The secret meeting has been 
+discovered, and somehow both 
+sides of the conflict have come 
+to stop it. They are roaring for 
+battle—and for the heads of the A
+traitors who dared sue for peace.
+
+A
+C
+
+E
+– Continued on next page.
+
+C
+60
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+34
+
+
+
+28 CONT. • Summit Meeting
+
+Special Rules Map Layout
+Place one numbered token in each A. Use the  attack modifier deck for the 
+These represent the emissaries, allies to Algox Archers and Algox Icespeakers, 
+you and enemies to all monsters. Each though they are still considered enemies 15-B
+has 2x(L+2) hit points. On initiative 99 to you.
+each round, they perform  4, controlled 
+by you. Any character may lose one At the start of each even round, spawn 
+card from their hand or two from one Algox Guard at D and one Algox 11-D 04-A
+their discard pile to negate one source Archer at E. These are normal for two 
+of damage to an emissary. If either characters, elite each second spawning 07-C
+emissary dies or any character becomes for three characters, or all elite for four 
+exhausted, the scenario is lost. characters.
+
+All Algox Guards and Algox Snowspeakers When all Algox Snowspeakers are dead, 
+are allies to each other and enemies to all each B and D becomes an escape hex.
+other figures. Likewise, all Algox Archers 
+and Algox Icespeakers are allies to each When all Algox Icespeakers are dead, 
+other and enemies to all other figures. each C and E becomes an escape hex.
+
+29 • F8 War of the Spire A
+  Crystal Fields
+
+Scenario Goals You ask what will happen if the spire is Special Rules
+The scenario is complete when all activated. The question brings a shadow Spawn 6-C normal Algox Guards or 
+three ice cores have been destroyed. At over her face. Algox Archers at any empty starting 
+the end of that round, read 50.3. hex. They are allies to you and 
+
+“Utter defeat.” She looks at you and the enemies to all other monster types.
+gathered fighters and nods with absolute 
+
+Scenario Effects certainty. “The very snow itself would be Each ice pillar and ice core has 
+Each character gains . perverted by the Icespeakers’ devilry, and Cx(L+2)/2 hit points (rounded down), 
+
+we would be defenseless against them. We and can only be damaged if there are 
+would be crippled under their fists... but three or fewer ice pillars and/or ice 
+
+Introduction we will not let that happen.” cores adjacent to it. They are enemies 
+With a detachment of Snowspeaker scouts to both you and all Algox Guards and 
+able to survey the path ahead, it doesn’t As she says this, a low beat rises in the Algox Archers and allies to all other 
+take long before you find the enemy horde. air. You turn, expecting drums to have monsters.
+They have gathered, hundreds of them, for suddenly appeared on the attacking line, 
+war. They are positioned in the center of but it is the sound of the Algox slamming Whenever any ice pillar is destroyed, 
+the eastern fields, formed into a defensive their staves and feet into the ground. spawn one Algox Priest at A. It is 
+perimeter around an enormous spire made The effect is awesome: a deep rhythm normal for two characters or elite for 
+entirely of ice. From a hundred yards reverberating off the trees and out over the three or four characters. Whenever 
+away it looks like some monument to a plain. any ice core is destroyed, spawn one 
+demanding god: a pillar of gnarled glass Algox Icespeaker at B. It is normal 
+as tall as a giant cedar, and from it, you The beat quickens. Staves and feet and for two or three characters or elite for 
+sense an immense constrained power. fists pound, building into a great thrum four characters.
+
+of war. Then all at once, it ceases, and a 
+“This is it,” says Denpang, the young terrible roar goes out that shakes the air in 
+leader of the Snowspeakers. She stands to your lungs. Together, you and the Algox 
+your side, surveying the battlefield. “We charge. – Continued on next page.
+will distract the main forces. You must get 
+to the spire and destroy its core.”
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+35
+
+
+
+29 CONT. • War of the Spire A
+
+Map Layout Scenario Key
+
+Large Snow 
+07-B Algox Archer Corridor 6 Ice Core 3
+
+Algox Guard Snow Corridor 5 Ice Pillar 9
+13-A 16-A 13-C
+
+Algox 
+IceSpeaker Ice Spikes 7 Treasure 1
+
+Algox Priest Large Ice 
+Crystal 1
+
+Algox Scout Stalagmites 2
+Loot
+
+  x12 
+  x2 
+
+A B   x2 
+  x1 
+  x1 
+  x2 
+
+45
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+36
+
+
+
+30 • E8 War of the Spire B
+  Crystal Fields
+
+Scenario Goals “But their scouts have discovered our plan, of this war is near. The divine sings to us. 
+The scenario is complete at the end of and so they have no choice but to come and This will be our day.”
+the twelfth round. At the end of the stop it.” Behind Putargal looms the largest 
+round, read 53.2. of the spires. She stamps her foot into the You tilt your head to the wind, listening 
+
+ground and the snow freezes around it. for this song from the Algox gods, but 
+“They will attack right here. Their only all you hear is a steady beating rhythm. 
+
+Scenario Effects hope is to destroy the main spire, which Looking out into the forest, you see 
+Each character gains feeds all the others. But we will stop it.” the opposing army approaching. There 
+
+must be hundreds of them, and they 
+The size of the spire still gives you pause. are chanting. The Snowspeakers are 
+
+Introduction How it was made, you cannot fathom, but striking their weapons against the ground, 
+“The conduits draw strength from its strength is unquestionable. You can feel pounding out a battle rhythm, and it’s 
+Geryuu,” Putargal explains as she draws its power thrumming from deep within: a speeding up. After only a few moments, it 
+a crude map in the snow. “With them, we steady tide of energy being drawn inward becomes so loud that the air itself seems 
+can send a wave of power reaching clear from the forest and stored up like a geyser to shake. Then, without warning, the beat 
+across the Whitefire Wood that will freeze preparing to erupt. stops, and a wild, earsplitting roar fills the 
+every last flake of those heretics’ snow.” air. The Snowspeakers charge. A wave of 
+She swipes her hand across the big area in A perimeter has been set. The Icespeakers white muscle and burning magic crashes 
+the middle, pushing away the snow. stand in a wide circle around the spire, down. You grip your weapon tight and 
+
+prepared to fight. prepare to meet them.
+“They will have nowhere to go. Nowhere to 
+attack from. It will be the end.” She stands “Can you feel it?” Putargal surveys the 
+and you stand with her, looking around at gathering assault. She holds her chin high, 
+the giant spikes of ice emerging from the her face bent in determination. “The end 
+ground around the edge of the wood.
+
+Special Rules Map Layout
+All Algox Icespeakers are allies to you their discard pile to negate one source 
+and enemies to all other monster types. of damage to an ice pillar or ice core. 07-B
+
+If all three ice cores are destroyed, the 
+Each ice pillar and ice core has 1 hit scenario is lost.
+point. They are allies to both you and 13-A 16-A 13-C
+all Algox Icespeakers and enemies to all At the start of each listed round, spawn 
+other monsters. Any character may lose the following monsters at each listed 
+one card from their hand or two from location based on character count:
+
+Round Two Characters Three Characters Four Characters – Continued on next page.
+
+2, 6 A: One normal A: One elite Algox A: One elite Algox 
+Algox Scout Scout Scout
+
+ 
+3, 7 B: One normal B: One normal B: One elite Algox 
+
+Algox Archer Algox Archer Archer
+ 
+
+4, 8 A: One normal A: One elite Algox A: One elite Algox 
+Algox Guard Guard Guard
+
+ 
+5, 9 B: One normal B: One normal B: One elite Algox 
+
+Algox Snowspeaker Algox Snowspeaker Snowspeaker
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+37
+
+
+
+30 CONT. • War of the Spire B
+
+Scenario Key Loot
+  x12 
+
+Algox Archer Large Snow 
+Corridor 6 Stalagmites 2   x2 
+
+  x2 
+Algox Guard Snow Corridor 5 Ice Core 3   x1 
+
+Algox   x1 
+Icespeaker Ice Spikes 7 Ice Pillar 9   x2 
+
+Algox Scout Large Ice 
+Crystal 1 Treasure 1
+
+Algox 
+Snowspeaker
+
+45
+
+A B
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+38
+
+
+
+31 • F10  Crackling Tunnel
+  Copperneck Mountains
+
+Scenario Goals Special Rules Map Layout
+The scenario is complete when all Throughout the scenario, after all 
+characters have escaped. At the end of revealed enemies are dead, whenever 07-H
+that round, read 81.3. a character ends their turn occupying 
+
+any A, they may remove their figure 07-F
+and all their summons and tokens 
+
+Introduction from the map and discard all active 
+The door in the mountain temple groans round bonuses. Do not alter anything 11-F
+as dozens of gears and iron rods, knotted in their play area. They no longer 
+together like some infernal puzzle, finally participate in the scenario in any way 
+move aside, and the rear passage slides until the next room is revealed.
+open to reveal the path forward. A hallway 
+stretches out. It is tall and narrow, built Whenever revealing a new room, place 
+from immense white stones that have been all characters in starting hexes and Scenario Key Loot
+cut and arranged in an alternating pattern then any active character summons or   x11 
+of squares. The floor is similarly built, and tokens in viable hexes closest to their Flaming 
+
+Bladespinner
+it has been well maintained, much of it character.   x2 
+clear of dust or dirt. Overall, the passage Robotic   x3 
+is much better preserved than any other If any character becomes exhausted, Boltshooter   x1 
+you’ve seen so far in the mountain temple the scenario is lost.
+complex, but there is something else about Steel   x1 
+it that draws your attention. Every surface Automaton   x2 
+in the hallway—wall, ceiling, floor—is Section Links
+interwoven with the small silver tubes At the start of the next round after all Power Conduit 3
+that you found in the previous chambers. characters have been removed from 
+There are ten or twenty of them in all and the map, read 37.2. Treasure
+they stretch down toward some unseen 1
+destination. It isn’t the most reassuring 
+sight, since the tubes seem to indicate 
+more machines, but this is the path you’ve 
+chosen. You gather your gear and continue 
+your long walk. The farther you travel, the 
+more metal pipes emerge, and it begins 
+to feel like you’re walking down some 
+garden path that’s been abandoned and A
+overtaken by vines.
+
+A
+But then you catch a glimpse of something 
+glowing up ahead. You proceed carefully, A
+watching as the glow begins to pulse—
+slowly at first, but the undulation 
+accelerates. It appears to be a series of 
+flames that are... spinning? Oh, right. 
+Great. More of those.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+39
+
+
+
+32 • Q3 Ravens’ Roost
+  Radiant Forest
+
+Scenario Goals sneaking through our trees. So brave, so Section Links
+The scenario is complete when the brave they are.” The voice echoes off the When door 1 is opened, read 66.1.
+raven nest A is destroyed. At the end woods, barely louder than the breeze itself.
+of that round, read 59.1.
+
+“Oh, yes. Keep on, sweet things, sweet Map Layout
+breathers come to see.”
+
+Scenario Effects
+Each character gains . 05-B 13-A 15-A
+
+Special Rules
+At the start of each round, place one 
+
+Introduction numbered token on each Frozen Corpse. 
+The fiendish birds that assailed you on the If a Frozen Corpse suffers damage, 
+bone bridge retreated to a forest after your remove its numbered token. At the end 
+fight. You’re curious about what other of each round, each Frozen Corpse with 
+strange creatures might be inhabiting the a numbered token is replaced by an 
+place—and if you get to crush some of elite Shrike Fiend with no damage or 
+the birds that escaped your wrath, all the conditions. These Shrike Fiends do not 
+better. You run over the blowing tundra, act until the following round.
+sprinting over mounds of hardened dirt 
+and frozen shrub. You follow the birds’ 
+path and head into the woods.
+
+The Radiant Forest: a place suffused with 
+divergent energy. You feel it as soon as 
+you enter—a peculiar thinness to the air. Scenario Key Loot
+Even the ground is odd, uneven, so it feels 
+like you’re walking atop a wide, wobbling   x7 
+
+Frozen Corpse
+table. By its name, you had assumed these   x5 
+woods were simply trees that somehow Harrower   x3 
+gained a footing in this barren place, but Infester
+now that you’re here, you can see they are   x2 
+born of the same madness as everything Shrike Fiend   x2 
+else.   x1 
+
+Beyond the wind and the trees, strange Snow Door 1
+lights flicker here as well, dancing in and 
+out of the shadows. At first you take them Large Snow 
+for torchflies, except the tiny orbs follow Corridor 4
+you, curious almost, their multi-colored 
+glows peppering the trees with iridescent Snow Corridor 3
+hues. And yet, the strangest thing by far 
+is the air—it’s warm. The trees, though 
+situated only a short hike away from  Trap 5 1
+the frozen coast, are completely free 
+of snow, and the deeper you hike, the Snow Rock
+warmer it gets, the air becoming muggy 3
+and sulphurous, as if you’ve just been 
+transported to some hunting ground far Tree 1
+across the mountains to the south. It’s 
+distracting, so much so that you almost 
+don’t notice the voice calling to you. Treasure 1
+
+“Oh, great warriors,” it says, whispery 
+thin, “come to find us they have. Sneakers 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+40
+
+
+
+33 • R2 Thawed Wood Into the Forest
+
+  Radiant Forest
+
+Scenario Goals Section Links Scenario Key Loot
+The scenario is complete when three When door 1 is opened, read 20.1.   x8 
+radiant stones have been found. At the Black Imp
+end of that round, read 112.4.   x5 
+
+Map Layout   x3 
+Earth Demon
+
+Introduction   x2 
+The Radiant Forest: proof that map makers 16-B   x1 
+
+Flame Demon
+have a dark sense of humor. The forest,   x1 
+you find, is quite the opposite of radiant. 
+Instead, it is an overgrown tangle of 11-C Shrike Fiend
+ancient trees and dense, knotted ivy. Each 
+step you take is hard earned, requiring Cave Door
+you to climb over slanted logs and high- 1
+arching roots. What’s more, there is a 
+particular weirdness suffusing this place.  and  
+
+Trap 2
+The creatures and insects chirp in foreign 
+ways and even the ground feels somehow 
+deranged, tilting at times, almost as if it’s Tree 1
+bothered by your presence. And yet the 
+strangest thing about this place is the air—
+it’s warm.
+
+Not long after you enter, the snow gives 
+way to lush green underbrush and you 
+find yourself removing your furs to avoid 
+overheating. It’s an oasis, a balmy island 1
+in an otherwise frozen wasteland, and 
+so it should come as no surprise that the 
+Radiant Forest is home to many creatures.
+
+A dark blur whips toward you, razor-
+sharp talons raking through the air. You 
+dodge, more speeding shapes diving at 
+you as you draw your weapons. You dive, 
+and the attack pauses long enough for 
+the aggressor to reveal itself. A lanky 
+humanoid creature emerges from behind a 
+tree. Its sinewy legs and arms are wrapped 
+in dark-gray skin, and its upper body is 
+covered in dozens of flapping black wings.
+
+“Loud walkers, walking in my woods,” it 
+says in a thin voice. “A meal for sharing 
+and new skin to wear.”
+
+Then the many birds perched on the 
+creature’s waxy torso spread their wings 
+and come at you.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+41

@@ -1,0 +1,1247 @@
+﻿65 • L4 A Strong Foundation
+  Design: Marcel Cwertetschka-Mattasits; Writing: Isabella Cwertetschka-Mattasits
+
+Scenario Goals on the edge of your limited vision—some Section Links
+The scenario is complete when all sort of protective structure. When door 1 is opened, read 142.2.
+enemies in it are dead. At the end of 
+that round, read 168.3. The cackling sound of impish creatures can 
+
+be heard long before your eyes find them Map Layout
+through the frozen fog. They throw small 
+
+Introduction stones at the heads of large undead creatures, 
+Responding to an alarm bell, you peer failing to get their attention. Your appearance, 
+over the main gate of Frosthaven to see a however, draws the attention of both. 15-A 11-C 16-A
+group of unfamiliar figures approaching 
+through the night’s freshly deposited 
+snow. As you watch them, it dawns upon Special Rules
+you that this group leaves no trace of their All monsters add  1 to all their 
+movements – no footprints in the snow. attacks. If the scenario level is 4 or 
+
+higher, increase this to  2.
+Aesthers. You signal the gate open and 
+descend to meet them.
+
+“Greetings.” Eight shimmering forms all 
+move their mouths in unison, but a single Scenario Key
+voice appears in your mind. “We have 
+come to ask for your assistance.” Frozen Corpse Ice Spikes Large Snow 
+
+10 Rock 2
+
+You wonder why this group of Aesthers 
+act and speak as one, and they explain as Ice Wraith Rubble 4 Snow Rock 3
+soon as the thought reaches your mind. 
+“When the betrayer brought about our Living Bones Ice 7 Glowing Orb 1
+dissolution, we were not strong enough 
+to bring our forms back on our own, 
+but, through the strong bonds of our Snow Imp Large Ice 4 Treasure 1
+former life, we found each other in the 
+vast emptiness and decided to meld – to Snow Door
+become as one. Only by doing so did we 3
+bring ourselves back.
+
+“We are not strong,” the Voice-of-Eight 
+continues. “Not in the sense that others of Loot
+our kind are, but if you help us, we will   x8 
+provide knowledge in return.” You decide 
+to help, and the figures immediately   x2 
+lighten their expressions.   x2 
+
+  x4 
+“You have our thanks. We have located an 
+old elemental array that will assist in keeping   x2 1
+our forms anchored to this plane. We can not   x2 
+recover it on our own, as lesser spirits and 
+malevolent creatures infest the area.”
+
+Voice-of-Eight leads you to the snow fields 
+north of Frosthaven, where an unnatural 
+fog rolls in, giving you the feeling that the 
+air itself has been frozen. You continue 
+forward, the Aesthers quiet and always a 
+few steps ahead. Before long, ruins appear 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+82
+
+
+
+66 • L4 Elemental Cores
+  Design: Marcel Cwertetschka-Mattasits; Writing: Isabella Cwertetschka-Mattasits
+
+Scenario Goals You turn and walk around the array, where elemental cores. We can only sustain four 
+The scenario is complete when all four you find sections of the floor raised to six of the six portals long enough for you 
+A have been activated. At the end of door frames spaced equidistantly around to return with the cores, but that should 
+that round, read 130.2. the solid wall. suffice to reactivate the elemental array.” 
+
+With a whooshing sound, the portals open, 
+“This is where we will stabilize the and you feel the elemental energies flowing 
+
+Introduction dimensional rift energy to send you to and intermingling with your world.
+You arrive at the outpost to find Voice- the planes where we have localized the 
+of-Eight has been busy rebuilding. They 
+have reformed the missing parts of the Special Rules
+walls with something that looks like ice, All six goal treasure tiles in the end of their turn, they may spend one 
+but with purple tints. As you stare into the scenario represent elemental cores, elemental core to activate that hex.
+material, which also comprises a dome each corresponding to the element 
+above the array, you are convinced you of the door closest to it. When any Whenever any door is opened, at the 
+can see the stars, despite it being midday. elemental core is looted, place it on the start of each round until its elemental 
+
+looting character’s mat. If they become core is spent, move the corresponding 
+The Aesthers continue to bustle about, most exhausted, place the core in the hex element to the strong column. When 
+of them concerned with the array itself, but they occupied. Whenever any character four doors have been opened, the 
+one of them sits at a table, bent over a thick, occupies any unactivated A at the remaining two become locked.
+beautifully bound tome. Her translucent lips 
+seem to be moving at an accelerated speed, 
+silently forming the words she is reading. Section Links Map Layout
+
+When door  is opened, read 175.4. 
+“She is Nera,” Voice-of-Eight says. When door  is opened, read 47.5. 12-D
+
+“She studies the art of enhancement to When door  is opened, read 144.4. 02-E 01-E
+aid in our pursuits. Though we are a When door  is opened, read 68.2. 
+merged mind, sharing all knowledge, our When door  is opened, read 127.2. 
+personalities are separate. Individuality is When door  is opened, read 162.4. 11-C 15-A 11-B
+an important part of developing skill.”
+
+Scenario Key Loot 01-G 02-G
+
+12-B
+  x12 
+
+Earth Demon  Trap 6   x2 
+  x2 
+
+Flame Demon Ice Spikes 6
+  x2 
+  x1 A A
+
+Frost Demon Lava 4
+  x1 
+  x1 
+
+Night Demon Ice 4
+  x1 
+
+Sun Demon Snowdrift   x1 
+4
+
+  x1 
+Wind Demon Glowing Orb 1
+
+Snow Door Large Cave 
+6 Rock 2
+
+Large Snow Large Snow 
+Corridor 2 Rock 3 A A
+
+Snow Corridor 2 Treasure
+2023 CEPHALOFAIR GAMES, LLC. ALL4 RIGHTS RESERVED. USED WITH PERMISSION.
+
+83
+
+
+
+67 • K4  Core Attunement
+  Design: Marcel Cwertetschka-Mattasits; Writing: Isabella Cwertetschka-Mattasits
+
+Scenario Goals Special Rules
+The scenario is complete at the end of Each elemental core A has 4x(L+1) Randomly place one demon standee, 
+the twelfth round. At the end of that hit points. They are allies to you corresponding to each element noted at 
+round, read 154.3. and enemies to all monsters, with the end of scenario 66, next to each portal 
+
+an initiative of 01 for the purpose of B, C, D, and E. These indicate the 
+focusing. Any character may forgo type of demon these portals spawn.
+
+Introduction a bottom action (discarding the card 
+You rush into the central dome of the instead) to perform  L+1,  one At the start of each listed round, spawn 
+Aesthers’ outpost and immediately notice adjacent core. If any elemental core is the following monsters at the listed 
+something is off. The entire structure destroyed, the scenario is lost. locations based on character count:
+rumbles and Voice-of-Eight shifts in and 
+out of sight. Round Two Characters Three Characters Four Characters
+
+“… unstable… need restorative 2, 7 B: One normal B: One elite demon B: One elite demon
+energies…” demon
+
+You understand what you must do: 3, 8 C: One normal C: One normal C: One elite demon
+empower the elemental cores with your demon demon
+own energy. Otherwise, you fear Voice-of-
+Eight will be scattered once again across 4, 9 D: One normal D: One elite demon D: One elite demon
+the planes. demon
+
+Water drips onto your head, and you look 5, 10 E: One normal E: One normal E: One elite demon
+up to see the dome beginning to melt demon demon
+away. Not only that, but new planar rifts 
+tear open along the outside wall. The 6, 11 Both F: One normal Both F: One elite Both F: One normal 
+inhabitants of the elemental planes are set Chaos demon Chaos demon and one elite Chaos 
+on reclaiming the cores, fueled by some demon 
+new force of chaos. It’s now or never.
+
+Map Layout Scenario Key
+
+Chaos Demon Night Demon Portal 6
+
+11-A 15-A 11-C Earth Demon Sun Demon Snowdrift 6 
+
+Flame Demon Wind Demon Glowing Orb 1
+
+Frost Demon Large Snow 
+Corridor 6 Ice Pillar 4
+
+– Continued on next page.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+84
+
+
+
+67 CONT. •  Core Attunement
+
+Loot B D
+  x8 
+  x3 
+  x3 
+
+A A
+  x3 
+  x1 
+
+F F
+
+A A
+
+E C
+
+68 • L3  The Face of Torment
+  Design: Marcel Cwertetschka-Mattasits; Writing: Isabella Cwertetschka-Mattasits
+
+Scenario Goals This Chaos Demon is massive, and its Boss Special 2
+The scenario is complete when the booming voice reverberates in your skull, The Tormentor performs: 
+Tormentor is dead. At the end of that uttering words of a structure-less tongue.  -1 
+round, read 106.4. The only thought you can hold in your  +C-5, , ( : +1 ) 
+
+head is a drive to make it stop. Create 1-hex icy terrain tiles in all 
+featureless hexes adjacent to the 
+
+Scenario Effects targets of the attack 
+Each character adds two  cards to Boss Special 1   1,  all,  1, ( : +2 ) 
+their attack modifier deck and gain . The Tormentor performs: 
+
+ +0;  
+ +C-4,  4, ( : ) 
+
+Introduction Create 1-hex hazardous terrain tiles Map Layout
+As the dreadful feedback of the failed in all featureless hexes adjacent to 
+elemental resonance subsides, purplish the target, and enemies in these hexes 10-D
+smoke emerges from the portal in front of suffer  C-1, ( : +1 ) 
+you. With it comes a terrible laughter, and 
+then... something steps forward into your 
+plane: A seemingly haphazard assortment 15-A
+
+of limbs, tentacles, and wings, attached to 
+a head sporting an unsettling amount of 
+glowing eyes of all shapes and sizes. – Continued on next page.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+85
+
+
+
+68 CONT. •  The Face of Torment
+
+Special Rules
+The elite Chaos Demon is the Round Two Characters Three Characters Four Characters
+Tormentor. It has HxCx3/2 hit points 
+(rounded down), has , and is immune 3, 9, etc. A: One normal A: One elite demon A: One elite demon
+to  and . demon
+
+Set up the Boss monster ability deck 4, 10, etc. B: One normal B: One normal B: One elite demon
+and initiative token. During ordering demon demon
+of initiative each round, reveal one 
+Boss ability card for the Tormentor in 5, 11, etc. C: One normal C: One elite  C: One elite  
+addition to its Chaos Demon ability Chaos Demon Chaos Demon Chaos Demon
+card. It performs two turns each round, 
+one for each card. 6, 12, etc. A: One normal A: One normal A: One elite demon
+
+demon demon
+Randomly place one demon standee, 
+corresponding to the two elements not 7, 13, etc. B: One normal B: One elite demon B: One elite demon
+noted at the end of scenario 66, next to demon
+each portal A and B. These indicate 
+the type of demon these portals spawn. 8, 14, etc. C: One normal C: One normal C: One elite  
+
+Chaos Demon Chaos Demon Chaos Demon
+At the start of each listed round, spawn 
+the following monsters at the listed 
+locations based on character count:
+
+Scenario Key Loot
+
+  x5 
+Chaos Demon Large Snow 
+
+Corridor 3  59
+ x5 
+
+  x5 
+Earth Demon Portal 3   x1 A B
+Flame Demon Snow Corridor 1
+
+Frost Demon Altar 2
+
+Night Demon Glowing Orb 1
+
+Sun Demon Ice Pillar 4
+
+Wind Demon Treasure 1
+
+C
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+
+86
+
+
+
+69 • P2 Sacred Soil Into the Forest
+
+  Radiant Forest Design: Isaac Childres; Writing: Chris Handley
+
+Scenario Goals Special Rules
+The scenario is complete when three Whenever any Earth Demon in the discard two cards (if able). Then, in any 
+soil samples have been looted. At the scenario dies, instead of a loot token, order, they are placed in the lettered hex 
+end of that round, read 27.3. it drops one goal treasure tile. These on the other side of the passage they 
+
+represent soil samples. entered or the closest empty hex. All 
+their summons and tokens that were 
+
+Introduction All lettered hexes A to F represent removed are placed in viable hexes 
+“More tea?” You sit in the cabin of a local passages to other rooms. closest to the character.
+botanist, a Savvas named Listeritus. It 
+holds an iron pot with a cloth and pours Whenever any character ends their turn A and C are two sides of the same 
+out another steaming herbal draft for you. occupying a passage, they and any of passage, B and D are two sides of the 
+“Of course, I can’t really drink it myself, their summons or tokens within  2 same passage, and E and F are two 
+but I do so love the smell.” may be removed from the map to travel sides of the same passage.
+
+through the passage.
+You have asked Listeritus to help study No figure can teleport or find focus 
+the wood you’ve been bringing back At the start of each round (before card between rooms.
+from your missions for some sign of the selection), all traveling characters must 
+Great Oak. On the table between you is 
+a piece of bark. “Now that looks like oak 
+to me,” it says. “Divine? I can’t tell, but Section Links Map Layout
+definitely the same type as the Great Oak When any character travels from any 
+in the capital. And you say you found this A or F for the first time, at the start 
+far from here, near the Radiant Forest? of the round read 143.3. 08-B
+Interesting indeed.” When any character travels from any 11-A
+
+B or E for the first time, at the start 
+Liseritus sits and sniffs at its tea, savoring of the round read 122.1. 15-A
+the hint of mint and nutmeg. “I’m 
+confident we’ll find a grove of oaks out 
+there, but it may require a bit of legwork.
+
+Scenario Key Loot
+“Given how the roots of trees can grow   x8 
+deep and far, I have a plan. Head to the Earth Demon
+Radiant Forest and gather some soil   x5 
+samples from three different regions of the   x4 
+forest. Bring them here, and I should be able Forest Imp
+
+  x2 
+to triangulate where the oaks should be.”
+
+  x1 
+Rending Drake
+
+You finish your tea, and then stand to B B
+gather your things. “Oh, and be careful. 
+That forest is home to all manner of Snow Rock 5 A
+dangerous creatures. Here, take some 
+more tea with you.”
+
+Tree 2 A
+
+Treasure 3
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+87
+
+
+
+70 • Q2 The True Oak
+  Radiant Forest Design: Isaac Childres; Writing: Chris Handley
+
+Scenario Goals Section Links Scenario Key Loot
+The scenario is complete when all When any door 1 is opened, read    x7 
+enemies in it are dead. At the end of 46.1. City Guard
+that round, read 35.2.   x5 
+
+  x3 
+Map Layout Hound
+
+Scenario Effects   x2 
+Each character adds one  card to   x2 
+
+Sun Demon
+their attack modifier deck. 16-A   x1 
+
+Snow Door 6
+Introduction
+
+07-D
+“Those damned zealots. Ignorant fools. If Large Snow 
+they find the True Oak, they will destroy 01-G Corridor 1
+it!” Liseritus’ words ring in your ears as 
+you set off in haste, seeking to catch up Snow Rock 4
+to this Radiant Order from White Oak. 03-D
+Following Listeritus’ directions you are 
+soon within the Radiant Forest once more, Tree 2
+passing clearings and ancient menhirs.
+
+Treasure
+And ahead, standing in the shadows of a 1
+massive oak grove, are the rear guard of 
+the Radiant Order, ready to block your 
+passage. “Come no further, heretics! The 
+false tree, and the lies it represents, must 
+be destroyed.”
+
+1 1
+The commander points his sword at you, 
+and the others unleash a pack of snarling 
+hounds, which race forward, bounding 
+over trunks and shrubs, snapping as you 
+stand your ground.
+
+Special Rules
+The Great Oak has 2xCx(L+3) hit 
+points and is considered to occupy 
+each tree and border hex A in the 
+scenario. It is an ally to you and 
+an enemy to all monsters, with an 
+initiative of 01 for the purpose of 
+focusing. When the Great Oak is 
+attacked, it treats all  attack 
+modifier cards as . If the Great Oak 
+is destroyed, the scenario is lost.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+88
+
+
+
+71 • FR Invasion of the Dock
+  Frosthaven Design and writing: Robb Rouse and Christian Wakeman
+
+Scenario Goals Map Layout
+The scenario is complete when the 
+artificer C occupies any G. At the 01-H
+end of that round, read 121.3. 09-D
+
+02-D
+14-A 10-B
+
+Introduction
+The tranquility of your breakfast is 
+broken by cries of alarm echoing through 
+town, dock workers and peddlers flee past 
+with fear in their eyes. Abandoning your 
+salted fish and dried fruits, you rush to Scenario Key
+the docks and find them under siege, with 
+attackers coming from two directions Abael Scout Dungeon Door 3 Barrel 2
+at once. Approaching the mayhem, 
+you realize the two forces are actually 
+battling each other – and whatever gets Lightning Eel Dungeon 
+
+Corridor 2 Crate 3
+in their way. They appear to be focusing 
+their attacks on the harbormaster’s office, Lurker 
+from which you hear a feeble cry for help. Clawcrusher  Trap 2 Mast 1
+
+Choked with skirmishing Abaeli and 
+Lurkers, the waterfront avenues are all Lurker 
+
+Mindsnipper Rubble 6 Supply Shelf 2
+but impassable. This will force you to get 
+creative if you want to rescue whomever Lurker 
+is trapped in the office. Wavethrower Water 4 Treasure 2
+
+Special Rules Piranha Pig
+
+All Abael Scouts and Piranha Pigs in 
+the scenario are allies to each other 
+and enemies to both you and all other 
+monster types. Use the  attack 
+modifier deck for the Abael Scouts 
+and Piranha Pigs, though they are still Loot
+considered enemies to you.   x8 1
+
+If no characters have ended their turn   x4 
+adjacent to the artificer C (who does   x4 
+not start on the map) by the end of the   x4 
+twelfth round, the scenario is lost.
+
+Section Links
+When door 1 is opened, read 129.2.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+89
+
+
+
+72 • A5 A Giant Block of Ice
+  Design and writing: Robb Rouse and Christian Wakeman
+
+Scenario Goals unfortunately not transportable by hand.” all the defenses Lihrey thought were 
+The scenario is complete when the You shrug and put your shoulder into the dormant come very much to life.
+ice pillar enters E. At the end of that block. As soon as you touch it, however, 
+round, read 79.1.
+
+Special Rules
+Introduction The ice pillar can be targeted by abilities automatically succeed. In 
+
+Upon the Artificer’s urging, you take characters with attacks or  or  addition, while  is strong or waning, 
+his ship, the Cinnabar, to the base of a abilities in an attempt to slide it. the current slide difficulty is reduced by 
+mountain far to the east. Trekking deep Whenever the ice pillar is attacked, 1, and while  is strong or waning, it is 
+inside, you discover an ancient structure, compare the damage it would suffer increased by 1.
+though it is unclear if this place was a to the current slide difficulty.  If the 
+mausoleum or a jail for the damned. Using damage meets or exceeds that difficulty, The ice pillar destroys any traps in hexes 
+his equipment, Lihrey makes short work the pillar is forced to move (in any it enters, but is not affected by any other 
+of the entry door. He leads you through direction) two hexes for two characters overlay tile except obstacles.
+a passageway littered with bones and or one hex for three or four characters.
+discarded machinery. The current slide difficulty is 3.
+
+Any attack with a  or  effect 
+“I guess my research was wrong after reduces the difficulty by 2 for the Doors 1 are locked, but the ice pillar 
+all,” Lihrey murmurs. “If this place had attempt, while non-attack  or  can enter them.
+defenses once, they seem to have fallen 
+victim to time. A shame really.”
+
+Section Links Map Layout
+You reach the final room, and the When the ice pillar enters any door 
+Valrath gestures to a massive ice block 1, read 141.1.
+at its center. “It is here! Help me get this 13-D 02-L 02-H 15-D
+ice back to the ship. The equipment I 
+need to extract the piece of the scale is 
+
+Scenario Key Loot
+
+  x9 B
+Frozen Corpse Rubble 5   x3 
+
+  x5 1
+Ice Wraith Stairs 1   x2 
+
+  x1 1
+Living Bones Ice Pillar 1
+
+1
+Steel 
+
+Automaton Metal Cabinet 3 C 1
+Cave Door 4 Sarcophagus 4
+
+Dungeon Door 1 Stalagmites 4 A
+
+Large Cave 
+Corridor 4 Treasure 1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+90
+
+
+
+73 • D3 Flotsam
+  Biting Sea Design and writing: Robb Rouse and Christian Wakeman
+
+Scenario Goals Special Rules Section Links
+Unknown at this time. All hexes in the scenario without When any door 1 is opened, read  
+
+overlay tiles are treated as water 28.3.
+(difficult terrain). They are still treated 
+
+Scenario Effects as empty when unoccupied and free of 
+Each character suffers 2 and gains . overlay tiles. Map Layout
+
+Any character occupying a supply 
+Introduction shelf, bookshelf, or barrel when 
+
+You are playing cards with the deckhands entering any unoccupied water hex, 13-D 16-B 13-B 02-B
+
+of the Cinnabar, losing what little coin you may move the tile they occupy with 
+have left, when a strange mist surrounds them. If they do so, the movement 
+the ship, and the once tranquil waters turn costs only 1 movement point. 
+violent. Enormous waves propel the ship Whenever any 2-hex tile is moved in 
+into the jagged rocks of a shoal, brutally this way, the tile’s other hex enters the 
+ripping the Cinnabar to pieces. one the character exited, along with 
+
+any figures, tokens, and non-corridor 
+You and the crew are cast overboard overlay tiles in the same hex.
+to fend for your lives among the rocks 
+and debris. You gasp for air as you’re 
+submerged deep into the icy water, your Scenario Key
+muscles spasming against the freezing 
+pain. You surface moments later, hungrily Fish King Cave Door Large Snow 
+
+4 Corridor 3
+gulping in fresh air. Luckily, the strange 
+storm subsided almost as quickly as it 
+came, and in the new calm, you look Abael Herder Snow Door 3 Supply Shelf 2
+around at the carnage. The crew is 
+nowhere to be found, and the only thing Abael Scout Barrel 2  Trap 6
+left intact is the Cinnabar’s jolly boat, 
+run aground on a small patch of rocks on 
+the far side of the field of flotsam. The Lightning Eel Bookshelf 3 Stalagmites 6
+debris should provide a respite from the 
+icy waters and ease the swim towards 
+
+Piranha Pig Large Cave 
+Corridor 2 Treasure
+
+the jolly boat. Unfortunately, quite a 1
+large number of Abaeli and their marine 
+minions have shown up on the scene as 
+well. You’d rather have the warmth of a Loot
+fire than the heat of battle, but it’ll have   x9 
+to suffice until you reach the boat and can 
+get dry.   x5 
+
+  x3 1
+  x2 
+  x1 1
+
+1
+
+1
+1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+91
+
+
+
+74 • G6 Gaps in the Road
+  Design and writing: Robb Rouse and Christian Wakeman
+
+Scenario Goals Special Rules Section Links
+The scenario is complete when all If “Friend of the Fish King” is on When door 1 is opened, read 55.2.
+enemies in it are dead. At the end of the campaign sheet, spawn two elite 
+that round, read 163.4 if “Friend Piranha Pigs at any empty starting 
+of the Fish King” is on the campaign hexes. They are allies to you and Map Layout
+sheet. Otherwise, read 176.1. enemies to all other monster types.
+
+Each small tree in the scenario has 04-D
+
+If “Friend of the Fish King” is on the CxL/2 hit points (rounded up). They 
+campaign sheet, read Introduction A. are enemies to you and all Piranha 
+Otherwise, read Introduction B. Pigs and allies to all other monster 09-A 07-B 13-A
+
+types. Whenever any small tree is 
+Introduction A destroyed, place one log on any two 
+
+You follow the directions of the water hexes with at least one adjacent 
+convalescing Lihrey to the highlands near to the hex the tree occupied.
+the Whitefire Woods. As you arrive, a small 
+group of piranha pigs waddles up behind 
+you. Initially on guard, they sniff you and 
+then wag their tails. Apparently the Fish Scenario Key
+King has sent along some assistance.
+
+Algox Archer Dungeon Door 1 Debris 2
+You move forward and are greeted 
+by squalling winds, howling as they 
+disappear into the deep trenches that were Algox Guard Snow Door 2 Large Debris 2
+long ago carved by receding glaciers. 
+Large, ancient trees dot the landscape Algox Priest  Trap 5 Large Water 4
+and offer some shelter from the snow 
+and biting gusts. Not only do you need 
+to discover a way across the trenches, Forest Imp Log 2 Tree 2
+but there is a group of menacing Algox 
+waiting on the other side. Guardians of the 
+
+Piranha Pig Rubble 2 Small Tree
+scale, no doubt. 2
+
+Introduction B Wind Demon Altar 1
+
+You follow the directions of the convalescing 
+Lihrey to the highlands near the Whitefire 
+Woods. In the snow, you note tracks of 
+what could only be a herd of piranha pigs. 1
+Did the Fish King send them up ahead of 
+you to retrieve the last piece of the scale? 
+You just hope you are not too late.
+
+You move forward and are greeted by 
+squalling winds, howling as they disappear Loot
+into the deep trenches that were long ago   x7 
+carved by receding glaciers. Large, ancient 
+trees dot the landscape and offer some shelter   x5 
+from the snow and biting gusts. Not only   x2 
+do you need to discover a way across the   x3 
+trenches, but there is a group of menacing 
+Algox waiting on the other side. Guardians   x2 
+of the scale, no doubt, but you can’t depend   x1 
+on them to keep the Fish King at bay.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+92
+
+
+
+75 • C2 Infiltrating the Lair  
+
+  Biting Sea Design and writing: Robb Rouse and Christian Wakeman
+
+Scenario Goals Special Rules Scenario Key Loot
+The scenario is complete when all If any character ends their turn on any   x8 
+enemies in it are dead and both water hex in the scenario, they suffer Abael Herder
+hallways have been blocked. At the  L/2 (rounded up).   x2 
+end of that round, read 147.5.   x5 
+
+Abael Scout
+Section Links   x1 
+
+Introduction When door 1 is opened, read 99.2.   x2 
+Chaos Demon
+
+It takes some time, but with Lihrey in When door 2 is opened, read 81.2.   x1 
+tow, you pinpoint the location of the Fish When either door 3 is opened,  
+King: a vibrant coral castle built into the read 163.2. Frost Demon
+side of a small, rocky island. Thankfully, When door 4 is opened, read 177.2.
+it’s only partially submerged, so not too Lightning Eel
+much swimming should be required to 
+gain entrance. Lihrey insists on going with Map Layout
+you, but you refuse in his injured state. Piranha Pig
+Eventually, he relents but hands you a 
+number of metal cylinders with fuses. 04-A
+
+Cave Door 1
+“Explosives of my own design,” he says. 07-A
+“Just in case.” You nod and dive into Dungeon Door
+the freezing water. You swim toward an 4
+opening in the side of the castle and then 11-D 13-D
+up into an air pocket. The water at your 01-F  Trap 4
+waist seems alive, swirling with chaotic 
+energy flowing and roiling unnaturally. 
+A deep sense of foreboding takes hold of Large Water 4
+you. You expected Abael defenses, but this 
+is something different. You rush forward, Water 5
+resolved to break through anything that 
+gets in your way.
+
+Debris 2
+
+Ice Pillar 4
+
+Stalagmites 2
+
+1
+Treasure 3
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+93
+
+
+
+76 • B2 Apotheosis  
+
+  Biting Sea Design and writing: Robb Rouse and Christian Wakeman
+
+Scenario Goals Special Rules
+The scenario is complete at the end of At the start of the scenario, spawn one act, cannot be targeted by heal abilities, 
+the twelfth round. At the end of that normal Piranha Pig adjacent to each is immune to all conditions, and has 
+round, read 56.2. character. The Fish King and all Piranha an initiative of 01 for the purpose of 
+
+Pigs are allies to you and enemies to all focusing. If the Fish King is killed, the 
+other monster types. scenario is lost.
+
+Introduction
+With the final piece of the Leviathan scale Divide the Fish King’s maximum hit At the start of rounds 3, 6, and 9, spawn 
+in hand, you sail to the Fish King’s lair: a point value by 2 (rounded down). Do not the following monsters at the listed 
+vibrant coral castle built into the side of a set up the Boss monster ability deck or locations based on player count:
+small, rocky island. Overjoyed, the Abael initiative token. The Fish King does not 
+greedily snatches it from you and gurgles 
+with glee. Two Characters Three Characters Four Characters
+
+“Well done, scaleless,” the Fish King says, A: One normal  A: One normal  A: Two normal  
+then turns to address his subjects. “The Algox Guard and  Algox Guard and  Algox Guards and  
+time is almost at hand for us to ascend to one normal Algox Archer one normal Algox Archer one elite Algox Archer
+greatness and claim this sea as ours. No 
+more war… No more death! I will become B: One normal  B: Two normal  B: Two normal  
+the Eternal Leviathan. I will become a Lurker Mindsnipper Lurker Mindsnippers Lurker Mindsnippers
+God!” The Abaeli roar as the Fish King 
+joins the pieces of the scale together. All spawned Lurker Mindsnippers can be placed in water.
+
+Instantly, you feel the chaotic energy 
+beginning to build; a swirling, freezing Section Links Map Layout
+darkness seeping along the floor, howling At the start of the seventh round, read 
+through the coral statuary. The Fish 105.4. 10-B
+King’s body begins to pulse and expand; 
+his newly sinuous limbs warping into the 
+swirling aether. The Abaeli around him 
+prostrate themselves, transfixed by their 15-C 01-F
+King’s metamorphosis.
+
+04-A
+Suddenly, an explosion deeper within the 
+castle rocks the foundation and you hear 
+the din of approaching battle. You briefly 
+see fear in the Fish King’s eyes. “They are 
+here to stop me! Go, my children! Protect – Continued on next page.
+me during the ritual!”
+
+The Abeali rush out to face whatever 
+attackers have come. You move to join 
+them in the defense, but the Fish King 
+beckons you closer. His eyes void-dark and 
+his voice a strained, layered echo. “Please 
+scaleless, stay with me and shield me from 
+my enemies. I need you only once more, 
+and then you will have the debt of a god!” 
+With that, his focus returns solely to the 
+ritual and the painful changes wracking 
+his body. You ready your weapons and are 
+pleased to see your trusty piranha pigs at 
+your side for one final battle.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+94
+
+
+
+76 CONT. • Apotheosis
+
+Scenario Key Loot
+
+  x9 
+Fish King
+
+  x2 
+  x5 A
+
+Algox Archer
+  x1 
+  x2 
+
+Algox Guard
+  x1 
+
+Flaming 
+Bladespinner
+
+Lurker 
+Mindsnipper
+
+Piranha Pig
+
+Dungeon 
+Corridor 1
+
+Large Cave 
+Corridor 2
+
+Rubble 4
+
+Water 7
+
+Altar 3
+
+Barricade 4
+
+Ice Pillar 2 B
+
+Treasure 2
+02
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+95
+
+
+
+77 • B1 Fish King’s Ascension  
+
+  Biting Sea Design and writing: Robb Rouse and Christian Wakeman
+
+Scenario Goals Special Rules Section Links
+The scenario is complete when the The Fish King occupies all three ice The first time the Fish King is reduced 
+Fish King is dead. At the end of that spikes. He cannot perform any move to at most three-quarters of its 
+round, read 173.4. abilities and is immune to forced maximum hit point value (rounded up), 
+
+movement. read 131.2. 
+The first time the Fish King is reduced 
+
+Scenario Effects There is no line-of-sight between map to at most half of its maximum hit point 
+Each character gains . tiles, and no figure can teleport or find value (rounded up), read 102.2. 
+
+a focus between them. The first time the Fish King is reduced 
+to at most one-quarter of its maximum 
+
+Introduction hit point value (rounded up), read  
+The Fish King’s apotheosis is nearly Boss Special 1 165.2.
+complete, and you are all that remains The Fish King performs:  
+to stop his metamorphosis into the  +0 
+Leviathan.  -1,  all adjacent enemies,  2 Map Layout
+
+Then it summons one Piranha Pig. It is 
+“What is this?” The Fish King bellows normal for two characters or elite for 
+as you prepare to strike him down. He three or four characters.
+spasms as raw power courses through him, 16-C 04-A
+
+and you see his jaw clench in pain. “You 
+are just a speck of sand in front of a tidal Boss Special 2
+wave. You are nothing, scaleless. I will—” The Fish King focuses on the farthest 
+Whatever he was about to say is cut off attackable enemy and performs: 
+with another jerk of pain. The squall is +0 
+deafening as elemental wind swirls about +0,  5,  4,  
+you, quickly filling and reshaping the Then it kills the closest Piranha Pig, 
+very reality of the room. Perhaps you can and all enemies adjacent to the hex 
+counter this chaos with some elemental the Piranha Pig occupied suffer trap 
+power of your own. damage.
+
+Scenario Key Loot
+
+  x4 
+Fish King Ice Spikes 3   x2 
+
+  x2 
+Frost Demon Rubble 3   x2 
+
+  x2 
+Night Demon Dark Fog 4
+
+  x2 
+  x1 
+
+Piranha Pig Debris 3
+
+Wind Demon Glowing Orb 1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+96
+
+
+
+78 • H5 The Lurker Problem
+  Design: Julie Ahern; Writing: Shannon Campbell
+
+Scenario Goals Section Links Scenario Key Loot
+Unknown at this time. When door 1 is opened, read 19.1.   x6 
+
+When door 2 is opened, read 59.2. Abael Herder
+  x3 
+
+Introduction   x3 
+You wait for the wet directions to dry Map Layout Abael Scout
+
+  x4 
+out so they’re legible. When they are 
+finally intelligible, you are not surprised   x2 
+
+Lightning Eel
+to discover they lead you to the northern 04-A 02-J   x2 
+seaside. It’s not too distant a trek, but you 
+must make a harrowing descent once you Lurker Soldier
+arrive. Rappelling down the basalt cliffs, 
+you land before your destination: a stone 13-D 13-B
+
+Lurker 
+edifice carved out of the rock, its jagged Wavethrower
+entrance tide-bitten and spangled with salt 
+and seagull excrement. 10-B 02-C Piranha Pig
+
+You wind between maze-like, pockmarked 
+limestone columns. It makes you feel Cave Door 3
+absurd, all this sideways scuttling. The 
+tide is currently low, and you wonder if Dungeon Door
+that should concern you. Suddenly, the 3
+columns end, and beyond them lies a 
+yawning cavernous space. With a torch, Large Cave 
+
+Corridor 1
+you examine your surroundings. An 
+ancient, once glorious, stone hall. 1  and  
+
+Trap 3
+And, sure enough, some crabby 
+companions. Red-eyed and ten-limbed, Huge Water 1
+the Lurkers rear up and emit a sound like a 
+hiss, if shells could hiss. They’re furious. 2
+Apparently, they’re staking out this damp Large Water 3
+domain for themselves. You’d let them 
+have it, as it smells like fish guts in here, 
+but now you’re intrigued about what they Water 7
+might be after.
+
+Altar 2
+Beyond the Lurkers, you see two 
+driftwood doors. The instructions from the 
+trench-coated “man” clearly exhort you to Debris 3
+take the door on the right.
+
+Treasure
+“DO NOT,” it says, “UNDER ANY 1
+CIRCUMSTANCES, GO LEFT.”
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+97
+
+
+
+79 • B5 Relic  
+
+  Design: Petri Häkkinen and Antti Tiihonen; Writing: Crystal Mazur
+
+Scenario Goals Special Rules Map Layout
+The scenario is complete when the Any character adjacent to sled B 
+sled enters any A. At the end of that can forego a top or bottom action 04-A
+round, read 164.4. (discarding the card instead) to move 
+
+the sled in any direction along a 01-F
+straight line of hexes until its path is 
+
+Introduction blocked by a figure, obstacle, or wall. 02-J 11-D 16-B
+When you are ready to go searching for the If the path is blocked by a figure, that 
+Relic, you seek out directions. All of the figure suffers damage equal to the 
+townspeople turn and point toward the hills number of hexes the sled moved. The 
+outside of town and speak again in unison, sled destroys any traps in hexes it 
+“Through the hills is a cave within the ice. enters.
+You will find it marked by moonlight. Free Loot Scenario Key
+the Relic. Retrieve the Relic.” Door 1 is locked and will unlock   x8 
+
+and open when any character occupies Frozen Corpse
+You bundle up and head out into the hills, pressure plate C.   x3 
+the moon shining full, creating shadows   x5 
+stretching across the landscape. As Ice Wraith
+
+Section Links   x2 
+promised by the townsfolk, the moonlight 
+shines upon the entrance to the cave, When door 1 is opened, read 76.1.   x2 
+
+Polar Bear
+a crystalline opening sparkling in the 
+hillside.
+
+Snow Imp
+Your footsteps echo throughout the cave 
+as you investigate and, eventually, you Cave Door
+find a large metal cube covered in gears 1
+and cogs, buried in the ice and snow. You 
+marvel at the gears clicking and turning B
+
+Cave Corridor 3
+as you start to chip away the ice, revealing 
+a large metallic box with gears and sliding Large Cave 
+compartments whirring as you begin to Corridor 1
+free it.
+
+Pressure Plate
+The cube is incredibly difficult to move, 1
+so you pull in your sled from outside 
+and, with great effort, lift  Trap 2
+the cube onto that. It settles 
+with a loud crash that echoes 
+through the cavern, awakening Ice 3
+other creatures deep in the 
+cave. The skittering grows Barricade 1
+closer, and the somber echo of 
+“AAaaaaahhhhhh” gives you a 
+feeling of dread. Ice Pillar 4
+
+The voices move closer, and you 1 C
+Metal Cabinet
+
+can now see what is making 1
+them: small creatures covered in 
+ice and specters that scream in Stalagmites 6
+torment. They are not happy you 
+are here, disturbing their sleep.
+
+Ice Block 2
+
+Treasure 1
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+
+98
+
+
+
+80 • FR Relic Renewed
+  Frosthaven Design: Antti Häkkinen and Petri Tiihonen; Writing: Crystal Mazur
+
+Scenario Goals and gears on the outside 
+The scenario is complete when the of the Relic, a soft glow 
+Relic is dead. At the end of that round, starting to emanate from 
+read 86.3. within it.
+
+The helper robots B
+Introduction crawl over the cube, 69
+
+You agree to tracking down the cube, a task running tubes to C
+that appears to be rather simple, given the recharging stations placed 
+unique tracks it left in the snow as it crashed in the corner of the cave. The 
+through the wall of the town. “The Relic! small robots now take notice 
+Retrieve the Relic!” The townspeople are now of you and emit a high-pitched 
+frantic, crying and wailing in horrific unison. whine. In turn, the hum from 
+
+the cube grows louder, and the 
+You head out of town and follow the trail, movement of its gears accelerates. It 
+fully convinced this isn’t normal. The Relic is growing in power, and its helpers 
+made no effort to hide its movement, and you have clearly grown hostile. Given that, 
+track it to another cave. While scouting, you and its eerie effect on the townsfolk, 
+quickly realize it has summoned other robot you decide to put an end to this Relic 
+helpers, who are poking and turning the cogs once and for all.
+
+Special Rules
+Each metal cabinet A to D has attackable enemy and performs: 
+(2+L)xC/2 hit points (rounded up). +2,  
+They are enemies to you and allies +0,  focus (if adjacent) A
+to all monsters. The Relic receives and all enemies in or adjacent 
+the following bonuses until the to hexes entered during the 
+corresponding metal cabinets are movement. 
+destroyed: D: Change Special 2 to the 
+A: Add  to all attacks targeting the following: The Relic summons 
+primary focus. two Ruined Machines. These 
+B: Gain  1+(L/2) (rounded up). are normal for two characters, 
+C: Change Special 1 to the following: one is elite for three characters, or 
+The Relic focuses on the farthest both are elite for four characters.
+
+Map Layout Scenario Key Loot
+
+  x8 
+The Relic
+
+  x2 
+12-A Robotic   x3 
+
+Boltshooter   x2 62
+
+15-D Ruined   x1 D
+Machine
+
+  x1 
+Steel   x1 
+
+Automaton
+04-B
+
+Large Metal 
+Corridor 2
+
+ Trap 2 Barricade 1 Metal Cabinet 4
+
+Rubble 2 Debris 5 Treasure
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION. 2
+
+99
+
+
+
+81 • A12 Ruinous Research Lab
+  Crystal Fields Design: Marcel Cwertetschka-Mattasits; Writing: Isabella Cwertetschka-Mattasits
+
+Scenario Goals Unfortunately, they are not the only threats Scenario Key Loot
+The scenario is complete when the down here. Ancient machines, awoken in the   x9 
+goal treasure tile is looted. At the end tumult, now stir and advance toward you. Aesther 
+
+Ashblade
+of that round, read 114.1.   x2 
+
+Special Rules Aesther Scout   x5 
+Introduction   x2 
+
+All Aesther Ashblades and Aesther 
+While resting at your campfire, you take Scouts are allies to each other and Ancient   x1 
+
+Artillery
+out the ancient tome that led you here. enemies to all other figures. However,   x1 
+The book is bound in a stiff fabric that they cannot be focused on or targeted Flaming 
+gives off a soft glow, shifting in color. You in any way by other monster types. Bladespinner
+deciphered its contents well enough to Use the  attack modifier deck 
+deduce its place of origin, and, from what for the Aesther Ashblades and Ruined 
+you have gathered, the book was written Aesther Scouts, though they are still Machine
+
+by a Quatryl researcher—a log of their considered enemies to you. If any Steel 
+work and life. It ends abruptly, but hints Aesther Ashblade or Aesther Scout Automaton
+at several devices and techniques to better ever enters the hex with the goal 
+protect against the unnatural weather treasure tile, the scenario is lost. Metal Door
+conditions that occurred at the time. 3
+With the prospect of uncovering ancient At the start of the sixth, ninth, and 
+technology on your mind, you break camp. twelfth rounds, spawn one Aesther Large Metal 
+
+Corridor 2
+Scout at any empty starting hex. It is 
+
+As you arrive at the location within the normal for two characters, elite in the 
+Pressure Plate
+
+crystal field, where the research laboratory ninth round for three characters, or 2
+once must have stood, you see only elite for four characters.
+broken, snow-covered walls. Exploring the  Trap 6
+ruins, it seems as if there is nothing left to All doors 1 and 2 are locked and 
+be found here. That is, until one of your are treated as objectives with  
+steps produces a hollow sound. You brush (L+1)x2 hit points. They are enemies Rubble 6
+away the snow to discover a hatch into an to you and all Aesther Ashblades and 
+underground structure. You open it and Aesther Scouts and allies to all other Debris 4
+descend, valves and gears litter the walls. monster types, with an initiative of 
+
+20 for the purpose of focusing. When 
+By the time your feet find solid ground, a door would be destroyed, it opens Large Debris 4
+your eyes have adjusted to the dim light instead.
+of the ancient Quatryl lamps. But you Barricade
+don’t need your eyes to detect something 1
+else down here. Something almost Section Links
+imperceptible until you realize what it When door 1 is opened, read 174.3. Barricade 5
+is: Aesther telepathic communication. The first time either door 2 is 
+Maybe it is due to your experience opened, read 133.2. Treasure
+communicating with Aesthers, or maybe it 2
+is due to those communicating not taking – Continued on next page.
+precautions, but when you concentrate, 
+you’re able to pick up snippets of the Map Layout
+conversation. Things like, “Hurry”, 
+“Others may know of this place”, and 
+“Will meet death.” You surmise that they 01-B
+are a group still under the influence of the 
+Corruption, and whatever they are looking 02-F 07-F 16-D 11-F
+for, you need to find it first.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+100
+
+
+
+81 CONT. • Ruinous Research Lab
+
+B
+1 2 B
+
+B
+
+82 • P8 Expedition North
+  Imperial Mountains Design: Marcel Cwertetschka-Mattasits; Writing: Isabella Cwertetschka-Mattasits
+
+2 E 2
+
+A A
+
+H
+
+4 B 3
+4
+
+D A
+2
+
+A B
+2 3
+
+3 B F
+
+4
+C A
+
+2 G 2 – Continued on next page.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+101

@@ -1,0 +1,1591 @@
+﻿117 • F7 A Waiting Game
+  Design: Adam and Brady Sadler; Writing: Shannon Campbell
+
+Scenario Goals Special Rules
+The scenario is complete when all All Polar Bears are enemies to both the rest of the scenario. Do not remove 
+three traps A are occupied by Polar you and all other monster types. Any that trap from the map. A trapped bear 
+Bears and all non-Polar Bear enemies character can lose one card from their is also immune to forced movement. All 
+are dead. At the end of that round,  hand or two from their discard pile to other traps function as normal.
+read 140.2. negate one source of damage to any 
+
+Polar Bear. If three Polar Bears die, the Whenever any character damages a 
+scenario is lost. Polar Bear with an attack, they can 
+
+Scenario Effects reduce the damage by any amount, 
+Each character adds two  cards to All figures, except Polar Bears, treat and suffer damage equal to the amount 
+their attack modifier deck. all traps A in the scenario as obstacles it was reduced by to add  X to the 
+
+which cannot be destroyed or moved in attack, where X is the amount the 
+any way. If any Polar Bear enters a trap damage was reduced by.
+
+Introduction A, it no longer performs any actions for 
+Entering the Whitefire Woods to meet with 
+the Trapper, you come across a slaughtered 
+polar bear. The white fur is muddied, the Section Links Map Layout
+ribs stripped of flesh. The Trapper closes When door 1 is opened, read 168.6. 
+the bear’s eyes respectfully. “Those hunters When door 2 is opened, read 36.3.
+can’t even skin the beasts properly,” they 10-D
+
+lament, sighing over the waste.
+
+The Trapper has already 15-A 02-E
+placed their snares. They lead 02-G
+
+you to a clearing where you 
+hide behind some elderberry 
+bushes. In front of you, a 
+family of polar bears lumbers 
+in from the river, fish clutched 
+in their strong jaws. The Scenario Key Loot
+snares are hidden beneath the   x6 
+scant snow. All you need to do Hound
+is wait for the bears to tread   x4 
+on them.   x6 
+
+Polar Bear
+  x2 
+
+But the bears sniff the air, 
+bristling. The Trapper curses,   x1 
+
+Vermling Priest
+and suddenly, the clearing   x1 
+is filled with little bodies 
+dropping from the trees. Vermling Scout
+The Vermling hunting party 
+surrounds their quarry, deftly Snow Door
+avoiding claws and snares 2
+alike. Hemmed in, the bears 
+draw to their hind legs, Large Snow 
+
+1 2 Corridor 1
+roaring.
+
+The Trapper curses. “So much Snow Corridor 1
+for stealth!” They dash in to 
+save the bears, spurring you to A Bear Trap
+follow and prepare for battle. 3
+
+Snow Rock 3
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+142
+
+
+
+118 • F4 Lurker Necromancy
+  Design: Vlaada Chvatil; Writing: Shannon Campbell
+
+Scenario Goals Special Rules
+The scenario is complete when Throughout the scenario, place one Whenever any character performs a loot 
+all enemies in it are dead and all numbered token face-up on each newly ability, they may loot tokens normally 
+numbered tokens have been looted. At revealed Frozen Corpse and Living or, instead, take one numbered or 
+the end of that round, read 192.3. Bones with an even-numbered standee lettered token from a monster within 
+
+(representing an amulet of reanimation) range of the loot ability.
+and place one lettered token face-down 
+
+Introduction on each newly revealed Frozen Corpse All monsters with a lettered token 
+The Boneshaper leads you to a desolate or Living Bones with an odd-numbered gain  3. Whenever the Living Bones 
+stretch of coast, a place of icy drifts. standee (representing an amulet of monster set comes up in the initiative 
+You’re cresting a mound of what seems protection). This includes the monsters order, if there are any numbered 
+like unnaturally piled snow when the currently on the map in the starting tokens on the map, spawn one normal 
+Boneshaper grabs your shoulder and room. If any monster with a numbered Living Bones at each, and place those 
+hisses, “There!” or lettered token dies, these tokens are numbered tokens on the spawned Living 
+
+placed in the hex it occupied and can Bones. During ordering of initiative 
+Where the snow has been removed is a be looted like normal loot tokens. All each round, reveal one Living Bones 
+gaping hole, burrowing into darkness. It Frozen Corpses and Living Bones do monster ability card if any numbered 
+resembles a cursed sort of mining quarry, not drop loot tokens. token is on a monster or on the map.
+and indeed, the tunnel is guarded by 
+listless figures— a hoard of the undead. 
+Their decayed clothing is in tatters, but Section Links Map Layout
+around their necks are amulets which When door 1 is opened, read 125.2.
+glow with a dark, undulating power. 12-B
+
+The Boneshaper seems both disturbed 
+and exhilarated. “Those amulets must 15-B
+be the energy I sensed. Yet why do these 03-D
+mindless drones carry them?” Hands 
+crackling with energy, the Boneshaper 
+stands, which sends snow cascading down. 
+Alerted to your presence, the undead begin 
+lurching toward you. The Boneshaper 
+cackles. “Time to find out!”
+
+1
+Scenario Key Loot
+
+  x8 
+Frozen Corpse Cave Door 2   x3 
+
+  x3 
+Living Bones Rubble 5
+
+  x3 
+Lurker   x1 
+
+Mindsnipper Snow Rock 1
+  x2 
+
+Lurker Soldier Stalagmites 4
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+143
+
+
+
+119 • Q1 Radiant Dust Into the Forest
+
+  Design: Jens Drögemuller; Writing: Shannon Campbell
+
+Scenario Goals Special Rules Section Links
+The scenario is complete when the Place the  miniature (if available) in When door 1 is opened, read 96.2.
+Infuser occupies B. At the end of that A (otherwise use token A). They are 
+round, read 176.2. the Infuser, an ally to you and an enemy 
+
+to all monsters. They have 5+(3xL) hit Map Layout
+points. On initiative 99 each round, 
+
+Introduction they perform  2, focusing on moving 
+The Radiant Forest lives up to its name, its toward and opening door 1. If the 13-A
+vegetation shrouded in dusty gold. With a Infuser dies, the scenario is lost.
+careful fingertip, the Infuser brushes some 
+of this powder off of a leaf, collecting All loot tokens represent dust, which are 
+
+02-E 15-A
+it into a vial. “Exquisite,” they breathe, not traded in for loot cards when looted 
+peering into the vial, eyes refracting the but, instead, are placed in a shared pool 
+glitter. “From where does it derive, do you which starts with four dust already in it. 
+suppose? There must be a source—” The Infuser and all character summons 04-C
+
+also perform end-of-turn looting, adding 
+A chorus of menacing hisses interrupts. any dust to this pool.
+While you were preoccupied, a spitting 13-C
+drake descended from the tree branches. Before the Infuser ends their turn each 
+And it’s not alone. The ground rumbles round, they may spend dust from the 
+and splits open with the segmented bodies pool to perform one of the following 
+of centipede-like horrors, burrowing abilities (as determined by you):
+blades. Their bristling legs glitter with 
+powder, as do the drakes’ long tongues. Spend one:  2, controlled by you. 
+The Infuser stiffens. “They’ve been Spend two:  L+2, self. 
+ingesting it,” they whisper. “And now Spend five: Convert any monster within 
+seem eager for more. It must be making  2. The monster is now an ally to all 
+them less cautious.” characters, character summons, and 
+
+the Infuser and an enemy to all other 
+You translate “less cautious” as also more monsters until it dies or another monster 
+dangerous. You reach for your weapons is converted.
+and the Infuser looks back down at the 
+contents of the vial. “Perhaps,” they say You will receive more rewards at the 
+with a mischievous smile, “I can help even end of the scenario for having more 
+these odds.” unspent dust.
+
+1
+
+Scenario Key Loot
+
+Burrowing - 
+Blade Snow Corridor 2
+
+Polar Bear Large Water 4
+
+Rending Drake Water 4
+
+Shrike Fiend Ice 7
+
+Spitting Drake Large Ice 4 A
+Snow Door Large Snow 
+
+2 Rock 2
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+
+144
+
+
+
+120• FR Under the Influence
+  Frosthaven Design: Paul Grogan; Writing: Shannon Campbell
+
+Scenario Goals Section Links Loot Scenario Key
+The scenario is complete when the When door 1 is opened, read 101.1.   x8  
+glowing orb has been destroyed. At the City Guard
+end of that round, read 147.3.   x4 
+
+Map Layout   x4 
+Hound
+
+Scenario Effects   x4 
+04-D
+
+Each character gains  and . Robotic 
+Boltshooter
+
+07-E 02-A
+Introduction 10-B Steel 
+
+Automaton
+Since you’re not inclined to try killing 
+yourself again, you depart from 
+
+Vermling Priest
+Frosthaven and head to the decrepit 
+building. The structure appears in worse 
+shape up close. The rafters buckle under Vermling Scout
+heavy snow, and the foundation looks near 
+collapse. Beneath the cold, the smell of 
+dried blood permeates. Dungeon Door 2
+
+Wrenching open the door exposes a 
+grisly scene: you have stepped right into 1 Large Dungeon 
+
+Corridor 1
+the middle of a fight between a group of 
+guards, who, for some reason, are trying Barrel 3
+to kill each other. Two already lay dead on 
+the floor, one of them currently being torn 
+apart by a hound, the companion of another Glowing Orb 1
+guard.
+
+Treasure 1
+Upon your arrival, however, the remaining 
+guards forget their quarrel with each other 
+and turn on you, shouting incoherent 
+accusations. They advance toward you in 
+that stilted, shuffling walk you’ve come to 
+associate with beings whose mind is not 
+entirely under their command.
+
+You recognize these guards, having shared 
+drinks with them. You hope you can subdue 
+them without causing too much injury.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+145
+
+
+
+121• C13 Black Memories
+  Design: Richard Ham; Writing: Shannon Campbell
+
+Scenario Goals Section Links Scenario Key Loot
+Unknown at this time. When door 1 is opened, read 115.2.   x9 
+
+Polar Bear
+  x3 
+
+Introduction Map Layout
+Steel   x3 
+
+The road is treacherous, heading south Automaton   x2 
+through the pass and then winding 
+around the south side of the Copperneck 10-B   x1 
+
+Vermling Priest
+Mountains, but you finally arrive at your   x1 
+destination: the Black Barrow. It stands 13-E 07-E   x1 
+lonesome against the dark sky, an ancient Vermling Scout
+hill studded with decrepit gravestones and 
+stunted grass. Exploring the perimeter of Dungeon Door
+the mound, you discover an embedded 15-C 2
+entrance to a crypt, covered in vines and 
+old sigils. Scuffed footprints indicate Dark Pit 2
+you’re not the crypt’s only recent visitors.
+
+ and  
+Inside, nets of cobwebs and rusted Trap 2
+gravedigger tools greet you. At first, it 
+seems empty, and you wonder if Kefra Large Debris
+led you wrong. But then, out of the gloom 2
+emerge little faces: pointed noses, pointed 
+ears. Chittering uneasily, the Vermlings Sarcophagus 3
+scurry in and out of the shadows, hissing 
+at your entrance. They’re wary, and they 
+won’t let you pass.
+
+1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+146
+
+
+
+122• H10 The Eternal Crave
+  Design: Marcel Cwertetschka-Mattasits and David Turczi; Writing: Noralie Lubbers
+
+Scenario Goals can only be found within the Maw’s cave, Section Links
+The scenario is complete when the but the place has been overrun by deadly When door 1 is opened (fighting the 
+Hungry Maw is dead. At the end of bears and strange, flying imps! And with Hungry Maw), read 98.1. 
+that round, read 11.2. the Maw about to wake up, we have been When door 2 is opened (solving the 
+
+put in a dire situation. If the Hungry Maw puzzle), read 152.1.
+Alternately, the scenario is complete is not fed and leaves its cave, it could mean 
+when the mammoth bark, axenut, and destruction for the entire north!”
+firepepper are combined and stirred in Map Layout
+the pot. (Warning: this route requires Noore stops just outside the mouth of a 
+solving a challenging puzzle.) foreboding cave entrance. Stalactites hang 
+
+from the ceiling like vicious teeth. “My 15-C
+great-grandmother was the last one to 
+
+Introduction successfully cook a batch of the stew,” she 
+The Hungry Maw... The old Quatryl you says, passing you a scrap of paper. “This 02-K
+met along the road has intrigued you with is the recipe passed down in my family. 
+a tale of firepeppers and dangerous beasts, Hope you can figure it out and complete 
+and now you find yourself following her the stew.”
+toward an ancient cave. 01-F
+
+With determination, you head into the 12-B
+“As far as I know, nobody has been to cave with Noore and find a black cauldron 
+the cave of the Hungry Maw in almost hanging above a pile of sticks. “I’ll start 07-A 11-B
+a hundred years!” The Quatryl, named the fire and get the water boiling,” she 
+Noore, says. “Ever since it last woke up says. “Just go and bring back the bark.” 
+and demanded another plate of firepepper Noore points toward the left passage.
+stew, we’ve been dreading this day.
+
+“Or, if you want to try putting the Maw to 
+“You’ve got the firepepper, and I’ve rest with steel,” she says, pointing to an 
+brought along an axenut, but the third ornate door to the right, “Go that way,  but 
+ingredient—the dried mammoth bark— I can’t imagine it ending well.”
+
+Scenario Key Loot
+
+  x6 
+Frozen Corpse Ice Spikes 9   x3 1
+
+  x3 
+Ice Wraith Rubble 4
+
+  x4 
+  x1 
+
+Polar Bear Ice 8
+  x2 A
+  x1 
+
+Snow Imp Large Ice 4
+
+Cave Door 4 Alter 1
+
+2
+Dungeon Door 2 Ice Pillar 6
+
+Large Cave 
+Corridor 1 Cave Wall 3
+
+ Trap 6 Treasure 2
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+147
+
+
+
+123 • K5 The Titan
+  Design: Justin Jacobson; Writing: Shannon Campbell
+
+Scenario Goals Special Rules Section Links
+The scenario is complete when the Any hex in the scenario is considered When door 1 is opened, read 104.2. 
+Power Core is dead. At the end of that stable if at least one hex directly below When door 2 is opened, read 158.1. 
+round, read 189.4. it is a wall or obstacle. If both hexes When door 3 is opened, read 193.3. 
+
+directly below it are walls or obstacles, When door 4 is opened, read 128.4.
+then it is also considered safe.
+
+Scenario Effects
+Each character gains . At the end of each round, if any non-
+
+flying figure is not occupying a stable 
+hex, they fall. All falling figures, in 
+
+Introduction 04-B
+initiative order, are forced to move 
+
+Every instinct urges you to flee from down one hex at a time until they 03-B
+this colossus. You could do so, as its occupy a safe hex, moving through 
+attention seems directed elsewhere. Yet allies, if necessary, but not enemies. 11-F 15-D
+the enormous titan is taking thundering They then suffer  L. If any falling 
+footfalls toward familiar rooftops and figure is unable to occupy a safe hex 
+ramparts in the distance: Frosthaven. due to figures blocking both of its 12-C
+
+paths, they stop falling, and all figures 
+You can’t let the titan reach the outpost. occupying the two hexes directly 
+Scrambling after it, you launch off a below them suffer  L, as well.
+hillock, landing onto the titan’s leg, where 
+you cling to a metallic spur protruding All monsters treat all non-stable hexes Loot
+from its boot. The entire creature seems as negative hexes when ending their 
+constructed of metal, and in between movement. All Ancient Artillery   x9 
+each curving plate you manage to find are immune to forced movement, 
+handholds and footholds. including falling.   x2 
+
+  x6 
+Trying not to look down, you climb,   x1 
+looking for a way past the robot’s defenses 
+to disable it. Unfortunately, those defenses   x1 
+include an automated system, which   x1 
+has sensed you. Whirring, panels on the 
+robot’s legs slide back, unleashing copper 
+cannons. They pivot to target you.
+
+1
+Scenario Key
+
+Algox Control 
+Snowspeaker Console 3
+
+Ancient 
+Artillery Power Conduit 6
+
+Ice Wraith Rubble 5
+
+Metal Door 4 Treasure 1
+
+Pressure Plate 2
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+148
+
+
+
+124 • FR A Growing Problem
+  Frosthaven Design and writing: Travis Oates
+
+Scenario Goals the forest has changed considerably. You Time is being sped up. The rubber 
+The scenario is complete when all have been thrust back hundreds, maybe band is contracting, and time is moving 
+enemies in it are dead and one character thousands, of years in time. accordingly. Fortunately, the magic of the 
+is occupying the glowing orb. At the amulet protects you from the accelerated 
+end of that round, read 110.1. As you travel downward, deep into the time, unlike the skeletons strewn about the 
+
+frozen root system of the gargantuan tree, entrance. As even more of the crystalline 
+you see numerous skeletons on the ground, roots above you start to tendril their way 
+
+Scenario Effects some of which have turned into naught but downward, you realize that soon, they will 
+Each character gains  twice. dust. Additionally, the roots themselves take up every available space. You’d better 
+
+writhe and undulate, becoming longer and make haste while there’s still a path to your 
+thicker before your eyes. goal, or this tree will become your tomb.
+
+Introduction
+You clutch the amulet given to you by 
+yourself, and close your eyes, allowing it to Special Rules
+pull you into the stream of time and deposit All ice spikes, snowdrifts, and snow rocks by a non-flying figure, the figure suffers 
+you somewhere utterly foreign and bizarre. of any size in the scenario are unaffected hazardous terrain damage. Likewise, if 
+You are in a forest of ice, giant crystalline by abilities and collectively represent ice an obstacle is placed in a hex occupied 
+trees sprouting up all around you, sending clusters, which start as one hex of ice spikes. by a non-flying figure, the figure suffers 
+their roots of frost through the snowy earth. hazardous terrain damage and is forced to 
+Wandering the landscape, you eventually At the end of each round, each ice cluster move to the closest empty hex.
+come to one of the largest trees you have will grow one hex in the direction of 
+ever seen, its gnarled trunk stretching high its arrow depicted on the scenario map. Whenever two ice clusters grow into each 
+into the heavens. At its base is an opening Whenever any ice cluster first grows, other, both their tiles share the same hex. 
+just large enough for you to enter, and so, move its ice spikes as directed and create In this way, a hex can be both hazardous 
+with some trepidation, you step through. one snowdrift in the hex the ice spikes and difficult terrain at the same time, but 
+
+exited. Whenever it grows subsequently, when it becomes an obstacle, the obstacle 
+In an instant, your mind feels like it has been move both its ice spike and snowdrift as overrides all other features. If any ice 
+pulled inside out. You intuitively know that directed and place one snow rock in the spikes enter any non-cluster overlay tile, 
+somehow existence itself is being stretched hex the snowdrift exited, combining two they instead destroy the tile.
+out, as if time and space were a rubber snow rocks into one large snow rock when 
+band. Glancing outside, you see the trees of possible. Whenever any tile would move Throughout the scenario, if you run out of 
+ice around you are noticeably smaller, and through a wall line, remove it from the map. tiles as the ice clusters grow, use suitable 
+
+replacements or remove those that no 
+If an ice spike tile enters a hex occupied longer affect the scenario.
+
+Scenario Key
+
+Living Bones Section Links
+When door 1 is opened, read 119.4.
+
+Living Spirit
+Map Layout
+
+Snow Door 2 09-A
+
+Glowing Orb 1 Loot
+
+Ice Spikes 8   x10 13-C
+  x4 
+
+Snowdrift 8   x2 
+  x2 04-C
+
+Large Snow 
+Rock 4   x1 
+
+  x1 
+Snow Rock 4 1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+149
+
+
+
+125 • FR The Longest Second
+  Frosthaven Design and writing: Travis Oates
+
+Scenario Goals Special Rules Scenario Key Loot
+The scenario is complete when all If any character becomes exhausted, 
+characters have escaped. At the end of the scenario is lost. Robotic   x9 
+
+Boltshooter
+that round, read 162.3.   x2 
+
+Ruined   x4 
+Section Links Machine
+
+Scenario Effects   x2 
+When door 1 is opened, read 158.4.
+
+Each character gains  and .   x1 
+Metal Door 2
+
+  x1 
+Map Layout
+
+Introduction   x1 
+ Trap 2
+
+Once again, you empty your mind and 
+let the temporal amulet transport you to 16-D Barrel
+a foreign, unknown place. One moment 2
+you are holding the amulet in your 
+longhouse, and the next, you find yourself Control 
+
+Console 4
+in a  factory, surrounded by Quatryls that 02-F
+
+appear frozen in time. They just stand 
+there, perfectly lifelike, but completely Glowing Orb 1
+unmoving. What’s particularly unnerving, 12-C
+however, is the look of panic seared into Treasure
+each of their faces. 1
+
+This place must somehow be the opposite 
+of the last. Instead of time moving quickly 
+around you, it is moving incredibly slowly. 
+You cautiously move farther into the 
+facility, clutching the amulet even closer 
+to you.
+
+The entry hall is dimly lit and built of 1
+an industrial metal that looks similar to 
+brass. A sonorous buzzing fills the air, 
+thankfully there is no taste associated with 
+this one. Ahead of you, the hallway splits 
+into two separate paths, but one of them 
+seems recently collapsed—or perhaps still 
+in the process of collapsing. At the end of C
+the other hall is a panel with the number 
+“1” lit up in red glowing light. D B
+When you move toward it, however, 
+something springs to life. Metal creatures 
+emerge from the factory walls and draw 
+their weapons. These things are not 
+undead, but you still recognize them as 
+temporal guardians, unaffected by time.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+150
+
+
+
+126 • FR Joseph the Lion
+  Frosthaven Design and writing: Efka Bladukas and Elaine Bladukienė
+
+Scenario Goals Special Rules
+The scenario is complete when C+1 Place one face-up numbered token in down numbered token in the hex it was 
+tokens have been delivered. At the end each F. In addition, place one in G destroyed in. These tokens can be looted 
+of that round, read 110.3. for three of four characters and one in as normal and then placed on the looting 
+
+H for four characters. These tokens character’s mat. Each character can only 
+represent Helpers, allies to you and hold one token at any time and drops 
+
+Introduction enemies to all monsters. Each has the token in the hex they occupy if they 
+“In hindsight, perhaps this wasn’t one of (Lx2)+3 hit points and is immune to all become exhausted.
+my best ideas,” says Joseph, seemingly to conditions and forced movement. They 
+himself, as he paces in the snow. “When do not act, but have an initiative of 50 Whenever any character carrying a token 
+the people of Frosthaven told me that field for the purposes of focusing. If three ends their turn adjacent to a Helper, the 
+was haunted and the least ideal location to Helpers die, the scenario is lost. token is delivered and removed from the 
+set up an ice-cream stand, I dismissed it game, along with the Helper.
+as local gibber gabber. Folklore. It was the Each crate and barrel has L+1 hit points. 
+cheapest plot of land available, and close They are enemies to you and allies to At the start of each listed round, spawn 
+to the main road leading to Frosthaven— all monsters. Whenever any crate or the following monsters at the listed 
+full of traveling folk in need of a frosty barrel is destroyed, place one face- locations based on character count:
+snack.”
+
+Round Two Characters Three Characters Four Characters
+Sadly, Joseph discovered that the folklore 
+is less folklore and more fact. The 1, 3 A and C: One A, C, and E: One A and C: One  
+field turned out to be rife with spirits normal Snow Imp normal Snow Imp normal Snow Imp 
+and wraiths. Not to mention the recent E: One elite Snow Imp
+infestation of snow imps.
+
+2, 4 E: One normal B: One normal B and D: One 
+“It’s safe to say that the stand is a no go, Living Spirit Living Spirit normal Living Spirit
+but I still need to retrieve all the ice- D: One normal  
+cream. I poured my life savings into that Snow Imp
+merchandise!” Joseph’s arms gesticulate 
+wildly in the air, as if independent from 5, 7 A: One elite  A: One elite  A and C: One  
+his body. “I managed to recruit some local Ice Wraith Ice Wraith elite Ice Wraith
+townsfolk—call them Joseph’s helpers— C: One elite Snow Imp
+to carry it back. Problem is, they’re too 
+scared to cross the field to reach the stand. 6, 8, B, D, and E: One B and D: One B, D, and E:  
+This is where you come in. Cross the field, 10, 12 normal Snow Imp normal Snow Imp One elite Snow Imp
+deal with the incorporeals and get the E: One elite Snow Imp
+merchandise to my helpers. You’ll have 
+to smash the protective barricades I built. 9, 11 A: One elite  A and C: One A, C, and E:  
+Oh, and do mind the traps. Don’t know Ice Wraith  elite Ice Wraith One elite Ice Wraith
+why I thought I could capture a specter. C: One normal 
+Another one of my... ideas, I guess.” Living Spirit
+
+13+ A and C: One elite A, C, and E: One A, B, C, and D: 
+Ice Wraith elite Ice Wraith One elite Ice Wraith
+
+Map Layout
+
+16-A
+
+07-B
+
+– Continued on next page.
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+
+151
+
+
+
+126 CONT. • Joseph the Lion
+
+Scenario Key F B
+Ice Wraith  Trap 5 H
+
+Living Spirit Ice Pillar 3 F
+Snow Imp Supply Shelf 1 A
+
+Large Snow 
+Corridor 3 Barrel 3
+
+F E
+Snow Corridor 1 Crate 2
+
+Large Ice 2
+C
+
+F
+G
+F D
+
+Loot
+
+  x5 
+  x3 
+  x3 
+  x2 
+  x1 
+  x2 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+152
+
+
+
+127 • FR Derelict Freighter
+  Frosthaven Design: Nikki Valens; Writing: Crystal Mazur
+
+Scenario Goals Map Layout
+The scenario is complete when at 
+least C crates have been looted and all 
+characters have escaped. At the end of 
+that round, read 190.2. 14-A 07-G
+
+Introduction 02-B
+02-D
+
+You grip your weapon with resolve and 
+then hop over the ship’s railing, ready to 
+face whatever horrors await. This ship 
+represents both a threat to Frosthaven and Scenario Key Loot
+a chance to retrieve valuable supplies. You   x5 
+will cleanse the undead and do what you Ancient 
+
+Artillery
+can to better the outpost.   x6 
+
+  x4 
+Frozen Corpse
+
+Special Rules   x4 
+Each crate in the scenario can be   x1 
+
+Ice Wraith
+looted via loot abilities, but not with 
+end of turn looting. Any character can 
+forgo a bottom action (discarding the Dungeon 
+
+Corridor 1
+card instead) to loot an adjacent crate. A
+Place any looted crates on the looting Stairs
+character’s mat. Each character can 4
+hold any number of crates.
+
+Barrel 2
+You will receive more rewards at the 
+end of the scenario for looting more 
+crates. Barricade 1
+
+Any character can spend 2 movement Crate
+points when occupying stairs A to 4
+go below deck. No figure can teleport 
+between unconnected map tiles. Mast 1
+
+All starting hexes are escape hexes.
+Supply Shelf 3
+
+Section Links
+Treasure 1
+
+The first time any character goes 
+below deck, read 153.1.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+153
+
+
+
+128 • FR A Tall Drunken Tale
+  Frosthaven Design and writing: Mathew G. Somers
+
+Scenario Goals “And then WHAM!” Nits slams his mug them truly had their bearings, those beasts 
+The scenario is complete at the end against the table, splashing ale everywhere, bludgeoned that one good!”
+of the ninth round. At the end of that but effectively getting people’s attention. 
+round, read 196.3. “You see the toughest looking one of the “But don’t worry,” Narb assures Derrick. 
+
+party here, right? Well, before any of “That’s just where things get interesting.”
+
+Scenario Effects
+Each character gains  twice and . Special Rules
+
+This scenario can only be played once embellishments, and each can only 
+and cannot be lost. be completed once per round. Place 
+
+Introduction damage tokens next to the corresponding 
+The setting sun fades as you walk down The character with the highest current embellishment to help track any progress 
+into The Crater, knocking the snow from hit point value reduces that value to 1. on it, if necessary. Whenever any 
+your boots. It’s not especially crowded embellishment is completed, place one 
+yet, but the regulars are already settling Do not set up the Steel Automaton damage token above the round track 
+in. A Quatryl musician fiddles with a tune monster ability deck. Instead, all Steel instead.
+in the corner, and you see Nits and Narb, Automatons use the Imp monster ability 
+the two drunkards you “saved” along the deck. The embellishments are as follows:
+road, wave you over to their table. You 
+hesitate, but they are already heading for Whenever any Lurker Wavethrower 1 Loot exactly C loot tokens. 
+you instead and look to be accompanied by would summon a Lightening Eel, it 2 Perform C or more basic actions. 
+an individual with fiery red hair. summons one Vermling Scout with a 3 Suffer damage from C or fewer 
+
+current hit point value of 1 instead. All attacks. 
+The two brothers call for a round and greet Abael Scouts act before Vermling Scouts. 4 Spend Cx3 or more movement points. 
+you like kin. You are almost inebriated 5 Perform exactly Cx2 attacks. 
+just from the smell coming off them, All doors are locked. 6 Use C or more items. 
+and they’re laughing so hard, you can’t 7 Kill exactly C enemies. 
+tell if they’re dying. They introduce Shuffle the twelve numbered tokens 8 Give C or more negative conditions. 
+you to Derrick Windmere, who doesn’t face-down next to the map. At the 9 Perform C or more heal abilities. 
+particularly look like he fits in with the start of each round reveal three tokens.  @ All characters short rest. 
+pair, but also looks like he’s had a few These represent the embellishments  # Perform C or more actions with lost 
+himself. for that round, which you are icons. 
+
+encouraged to complete. After revealing  $ Earn Cx2 or more XP.
+The brothers begin to tell Derrick how embellishments, any character may short 
+you saved them from certain death one rest before card selection. At the end of each round, place all three 
+time, and, even if you wanted to disagree, revealed embellishments in a separate 
+between the two of them, you couldn’t get All characters and character summons discard pile, removing any progress 
+a word in edgewise. contribute collectively toward made on them.
+
+It starts with how you were all traveling 
+together, back when they did a little Section Links Map Layout
+mercenary work, of course, and you were At the start of the second round,  
+accosted by Abaeli, Lurkers, Algox, read 170.1. 01-A
+and Unfettered. Derrick questions the The first time any character becomes 
+assortment with a chuckle, but Narb just exhausted, bookmark your current 
+says, “Exactly.” section and read 135.3. 02-I
+
+02-G 15-A
+
+Mugs of ale are brought to the table, and 
+Narb tells how he and his brother were 01-C
+worn out from a previous engagement and 
+you managed to convince them, albeit after 
+a fair amount of effort, to hang back and 
+allow you to prove you were worthy of – Continued on next page.
+accompanying them.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+154
+
+
+
+128 CONT. • A Tall Drunken Tale
+
+Scenario Key Loot
+
+  x2 
+Abael Scout Snow Corridor 1
+
+  x3 
+Lurker   x1 A
+
+Wavethrower Huge Water 2
+  x8 
+
+Snow Imp Large Water   x1 
+4
+
+  x2 3 B 1
+Steel Snow Rock   x1 
+
+Automaton 3
+
+Vermling Scout Tree 1 4
+Snow Door 4 Treasure 1
+
+2
+
+129 • J9 How to Lay an Ambush
+  Copperneck Mountains Design and writing: Mathew G. Somers
+
+A
+
+1
+
+2
+
+3
+
+– Continued on next page.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+155
+
+
+
+129 CONT. • How to Lay an Ambush
+
+Scenario Goals Special Rules Map Layout
+The scenario is complete when all Before the scenario begins, each 
+enemies in it are dead. At the end of character must discard four cards from 
+that round, read 150.4. their hand. You then collectively have 10-D
+
+15-A 01-G
+15 activity points (AP) to spend on the 
+following activities:
+
+Introduction
+Hardly a midday jaunt, the value of a gem 2AP: One character performs one 02-G 03-D
+
+is starting to make much more sense. It’s action with a persistent ability on 
+cold, and even over the howling wind any card they discarded instead 
+up here in the Coppernecks, you can of discarding it. (Limit once per 
+still hear the clattering of the containers character.) Scenario Key Loot
+Derrick gave you to protect the sun agates. 2AP: Create one log in any two    x10 
+Although the noise is a nuisance, looking empty hexes with at least one hex Algox Guard
+over the other mercenaries hired to adjacent to a tree.   x4 
+accompany you, the only one you trust is 1AP: Relocate one log to any two   x2 
+yourself. Anyone with a weapon can try to empty revealed hexes. Algox Priest
+
+  x2 
+earn their keep or to earn yours, but have 1AP: Replace one log with two  
+these lot even seen real combat? damage traps.   x1 
+
+Algox Scout
+1AP: Create one ice tile on any    x1 
+
+“This is the spot,” one of Derrick’s empty revealed hex. 
+mercenaries stands before a small 1AP: Replace one ice tile with one  City Guard
+ravine. “The Algox will come through ice spikes tile. 
+here with their loot, and we just gotta 1AP: Create one snowdrift on any Snow Door
+take it from ʼem.” empty revealed hex. 3
+
+The mercenary laughs and then scratches Each activity may be performed more Large Snow 
+Corridor 1
+
+his head. “So, uh, how do you want to than once, but tiles are limited to the 
+approach it?” This lot is green, but maybe— counts in the scenario key.
+just maybe—they won’t get themselves Snow Corridor 3
+killed. You begin to set up the ambush. All doors are locked. Door 1 will 
+
+open after all AP is spent, and the Ice
+enemies behind it will perform  9 6
+toward A. Then door 2 will open 
+and the scenario will start as normal. Ice Spikes 6
+
+Spawn 6-C elite City Guards at 
+any empty starting hexes. They are  Trap 6
+allies to you and enemies to all other 
+monster types. All City Guards use Snowdrift 6
+Archer monster ability cards instead 
+of their own.
+
+Log 4
+
+Section Links
+Large Snow 
+
+After spending all AP, read 156.4. Rock 1
+
+Tree 3
+
+Treasure 1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+156
+
+
+
+130 • H8 And Then, a Stream
+  Whitefire Woods Design and writing: Mathew G. Somers
+
+Scenario Goals Special Rules
+The scenario is complete when all If any non-flying character enters a flying character or character summon, 
+characters have escaped and are water hex without an ice tile, they suffer the figure suffers trap damage. All 
+collectively carrying at least 2xC hazardous terrain damage. monsters are unaffected by these ice tiles.
+numbered tokens. At the end of that 
+round, read 129.1. All ice tiles D are treated as corridors Place one numbered token in each 
+
+but are not considered featureless. They corresponding hex 1 through  $ in 
+are placed on water tiles but do not ascending order for each gem noted at 
+
+Scenario Effects replace them. the end of How to Lay an Ambush (129). 
+Each character gains . These tokens may be looted as normal 
+
+At the start of each round, place one new by characters and then placed on their 
+ice tile in each B (if able) and treat them character mat. Each character can carry 
+
+Introduction as ice tiles D. Then each ice tile D, in any number of tokens, but each character 
+A light snow begins to fall as you trek left-to-right order, moves one, two, or adds -1  to each of their move abilities 
+westward. In the distance, you watch three hexes directly left, as chosen by for each token they are carrying after the 
+the setting sun paint the clouds a golden you. All ice tiles in the same row must first. All characters may also drop any 
+purple, and tiny billows of smoke rise move the same number of hexes, and number of tokens they are carrying into 
+from where Frosthaven sits on the horizon. each row must move a different amount. the hex they occupy at any time during 
+You figure you’ll make a fair amount of their turn (including during movement).
+money off these gems, but Derrick’s talk Whenever any ice tile moves, it moves 
+of a militia coming in to push the Algox any non-flying characters, non-flying Whenever any character suffers damage 
+out of the mine gives you pause. It’s character summons, and tokens in its hex while carrying tokens, they must 
+one thing to fight for your own survival along with it. Any character or character immediately place one of those tokens in 
+against the Algox, but this feels like summon can move through monsters an adjacent hex, prioritizing water or ice 
+something else. in this way. If any ice tile would end tiles closest to C. At the start of each 
+
+its movement in an occupied hex, it round, any tokens on water hexes move 
+As you ponder the implications, you spot instead continues moving in the same directly left the same number of hexes 
+a large flock of ravens overhead and your direction until it enters an unoccupied as the ice tiles in their row and are also 
+thoughts turn toward more immediate hex. Whenever any ice tile would exit removed from the map upon exiting C.
+survival. After all, where there are ravens, any C, remove it and any tokens on it 
+there could be – from the map. Any non-flying characters Each A is an escape hex. If any 
+
+or character summons occupying it are character becomes exhausted or there are 
+In the middle of your thought, the terrain forced to move to the closest empty hex not enough numbered tokens to complete 
+beneath your feet suddenly collapses, and suffer trap damage. Whenever any the scenario, the scenario is lost.
+sending you tumbling down. You fight to ice tile enters a hex occupied by any non-
+find your footing, but it’s of no use. The 
+containers of gems scatter everywhere as 
+you land with a hard thud. Section Links Map Layout
+
+At the start of the fifth round,  
+Still attempting to differentiate the ground read 173.2. 01-C
+from the sky, you watch the birds coalesce 
+around a shadow-like figure—shrike 
+fiends. You wonder what they’re doing in 16-A 02-J
+the Coppernecks, but it ultimately doesn’t 
+much matter. You’ll need to gather the 
+containers and fight your way through 01-E
+
+them either way. The more you gather, the 
+more handsomely you will be rewarded.
+
+– Continued on next page.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+157
+
+
+
+130 CONT. • And Then, a Stream
+
+Scenario Key Loot
+
+  x6 A A A A
+Frozen Corpse
+
+  x5 
+  x2 
+
+Lightning Eel
+  x3 
+
+Shrike Fiend   x2 
+  x1 @ 1
+
+Large Snow   x1 
+Corridor 2
+
+$
+Snow Corridor 3 C 4 D B
+
+11
+Ice 10 C D B
+
+Huge Water 2 C D 7 B 6
+
+Large Water 2
+4
+
+E 3
+Water 10
+
+8 9
+Snow Rock 3
+
+Tree 3
+# 5
+
+Treasure 1
+
+131 • K2 The Dancing Iceberg
+  Biting Sea Design and writing: Dennis “Themris” Vögele
+
+Map Layout Scenario Key
+
+Lurker C
+Clawcrusher
+
+15-A
+Lurker B
+
+Mindsnipper
+D
+
+Loot Lurker Soldier
+
+- Lurker 
+Wavethrower A
+
+Snow Rock 4 E
+– Continued on next page. F
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+158
+
+
+
+131 CONT. • The Dancing Iceberg
+
+Scenario Goals to the high side of the iceberg, forcing it to Just when you think the worst is behind 
+The scenario is complete when the slowly lean back into even footing. Once you, Lurkers begin climbing back onto the 
+Lurker Conductor is dead. At the end you manage to balance your weight, the iceberg. They are rather displeased with 
+of that round, read 5.2. iceberg finally stops tilting. your rude interruption.
+
+Introduction Special Rules
+You make your way to the ice shelf that Whenever any monster dies, instead level and nothing happens. If one side 
+you think may lead to the peninsula in the of a loot token, it drops one numbered has one damage token and the other has 
+Lurker’s visions, but this turns out to be token. Likewise, whenever any character three, all figures, bodies, and overlay 
+a tougher trek than expected. The end of becomes exhausted, place one of tiles are simultaneously forced to move 
+the peninsula narrows to an icy bridge. their character tokens in the hex they one hex in the direction of the side with 
+Despite seeing the ocean far below, you occupied. Both these tokens represent one token. If all four damage tokens are 
+carefully press on until the frozen cliff bodies. Their hexes are treated as next to one side, the iceberg topples over 
+widens into a large plateau. occupied, and each hex can only contain and the scenario is lost.
+
+one body. All figures can move through 
+Peering through the fog, you encounter one bodies. There are no walls. Whenever any 
+of the most bizarre sights you have ever figure, body, or overlay tile would be 
+laid eyes on: dozens of Lurkers dancing in Whenever any character ends their turn, forced to enter a border hex, it instead 
+unison, rhythmically swaying and clicking and during any of their move abilities, falls off the iceberg. If any non-flying 
+their claws. You approach them, deafened they may perform “  1,  1 adjacent character summon, monster body, or 
+by cacophonous clacking, and get a closer body” any number of times. Bodies can overlay tile falls off, it is permanently 
+look. The dancing crustaceans all face only be pushed into unoccupied non- removed from the map. If any flying 
+a colossal Lurker who does not seem to obstacle hexes or off the map. character, flying character summon, or 
+be dancing. Instead, she is preoccupied monster falls off, it is removed from 
+with elaborate claw movements like Place two damage tokens next to both the map until the following round. In 
+some sort of conductor. At her feet, you the left and right sides of the map. These addition, monsters that fall off suffer 
+see a beautiful spiral seashell, and you tokens represent the relative height of  1 and lose all conditions. If any non-
+realize that the clicking and clacking is each side of the iceberg. flying character or character body falls 
+not the only noise; a mesmerizing melody off, the scenario is lost.
+emanates from the shell. At the end of each round, perform the 
+
+following steps: At the start of each round, before any 
+Could this conductor be controlling the monsters spawn, place any flying 
+other Lurkers with this tune? The more 1. Calculate the weight on the left and characters, flying character summons, 
+you focus on the seashell and its melody, right halves of the map. Each monster, and monsters that fell of the iceberg (if 
+the more it grips you, consuming your body, obstacle, and character has a not dead) in empty hexes closest to the 
+every thought. You must have it! You leap weight of 1. Each character summon last hex they occupied. 
+forward, grasping at it with abandon. has a weight of 0.5. Any figures, bodies, 
+
+or obstacles occupying the three hexes Lurker Wavethrowers add +1  to 
+Upon picking it up, you are immediately along the center vertical line of the map all their attacks and do not summon 
+interrupted by a deafening cracking noise do not contribute any weight. Lightning Eels. Instead, whenever Aid 
+and what feels like an earthquake. The from Below is performed, all Lurker 
+bang knocks you out of your stupor in 2. If the weight on one half is at least Wavethrowers perform: “  +1,  4;  
+an instant. You tumble to the ground, 1 greater than the other, move one to the leftmost empty hex if it is an odd 
+dropping the seashell into a crack in damage token from the heavier half to round or rightmost if it is even. If there 
+the iceberg. The melody fades as large the lighter half. are several valid hexes to teleport to, 
+pieces of ice break off from the platform, choose the hex furthest away from any 
+throwing the many Lurkers into the 3. If there are two damage tokens next character.”
+depths. What was once a peninsula is now to each side of the map, the iceberg is 
+a floating iceberg!
+
+As you collect your thoughts and find your Section Links
+footing on the slippery surface, you realize At the start of the third round,  
+the iceberg is slowly tilting. You scramble read 120.2.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+159
+
+
+
+132 • Q6 Temple of Feline Power
+  Imperial Mountains Design and writing: Tom Heath and Rachel Jackson
+
+Scenario Goals Special Rules Scenario Key Loot
+The scenario is complete when all If any character becomes exhausted,   x12 
+characters have escaped. At the end of the scenario is lost. Frost Demon
+that round, read 148.3.   x2 
+
+  x2 
+Section Links Frozen Corpse
+
+Scenario Effects   x2 
+When all revealed enemies are dead, 
+
+Each character suffers  2 and read 171.1.   x1 
+Ice Wraith
+
+gains .   x1 
+Map Layout Snow Imp
+
+Introduction
+Dungeon Door
+
+You spend days following the map over 10-B 1
+16-C 07-E
+
+narrow, treacherous paths and thunderous 
+avalanches, but it seems it has gotten you Dungeon 
+
+Corridor 1
+nowhere. According to the markers, the idol 
+should be somewhere around here, but—
+
+ Trap 4
+Your companion ahead of you on the 
+path suddenly falls through a crack in Ice
+the mountain. You rush forward and 8
+look down, but see only darkness. You 
+are contemplating what to do when the Altar 1
+thought occurs to you: just jump in. It’s 
+reckless and foolish, yet, the next thing 
+you know, there you go, jumping straight 
+into the darkness, as if compelled by some 
+unknown force.
+
+Luckily, the fall isn’t fatal. You slide down 
+an incline into a soft pile of snow. But the 
+cold in here is somehow more severe than 
+it was in the blizzard outside, and looking 
+up, you can no longer see the gap you fell 
+through.
+
+You feel along the frozen walls and find 
+torch sconces, which strangely begin to 
+roar with flames at your tentative touch. 
+Before you is... well, ice. But behind that 
+ice you can just barely make out ornate 
+golden patterns and various valuables 
+glimmering beyond your reach. Perhaps 
+Mulbrynn’s map was worth the time and 
+trouble after all.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+160
+
+
+
+133 • P6 Bolt
+  Imperial Mountains Design and writing: Tom Heath and Rachel Jackson
+
+Scenario Goals Special Rules Section Links
+The scenario is complete when all Doors 3 are locked. If any character When door 1 is opened, read 173.3. 
+characters have escaped. At the end of becomes exhausted, the scenario is lost. When door 2 is opened, read 186.1. 
+that round, read 168.5. When all characters are occupying 
+
+Place one numbered token on any pressure plates, read 124.2.
+character’s mat. This represents the 
+
+Introduction feline idol. Any character with the 
+“I do apologize for the deception, friends”, idol may freely pass it to an adjacent Map Layout
+Mulbrynn intones, eyes fixed on the character before or after performing 
+golden idol you are offering to him. “All any ability. The character with the 
+the fools I managed to force up here before idol adds +1  to all their move 04-D
+
+turned tail as soon as they were near the abilities and gains advantage on all 
+temple. The idol knew I was coming for it their attacks. 13-E
+
+10-B 09-B
+and countered my glamours. I realized I 
+would have to come up here myself. If you 
+want something done right and all that.”
+
+His gnarled hands reach out to the statue, 
+and instantly grow younger as they 
+approach its glow. As soon as he is about Scenario Key Loot
+to touch it, however, there is a flash and   x7 
+what can only be described as an explosive Forest Imp Pressure Plate 4
+purr from the idol. The old traitor is   x3 
+knocked away against the cavern wall.   x3 
+
+Polar Bear  Trap 5
+  x3 
+
+“You use these fools to protect yourself?” 
+He shouts to the idol. “We’ll see how far   x1 
+
+Rending Drake Debris 5
+you can get without them!”   x2 
+
+  x1 
+As you think about the possibility that Spitting Drake Snow Rock 2
+this man could well be shouting at a cat-
+shaped lump of gold, Mulbrynn mutters Dungeon Door 4 Treasure
+to himself and fires a bolt of dark energy 1
+at it. The idol glows and resists it at first, 
+but he focuses his power, and there is a 
+booming whipcrack. The bolt is reflected 
+back at Mulbrynn, sending his broken 3 3
+body through the cavern wall, collapsing it 
+on top of him. 1 2
+In the wall’s place, there is now an 
+enormous steel door surrounded by cogs of 
+assorted sizes. And in your hand, you see 
+the idol is now cracked, oozing light and 
+strength. Another rumble reminds you that 
+this place won’t be standing for long. You 
+need to find a way through the door, and 
+the commotion has drawn enemies out of 
+the darkness.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+161
+
+
+
+134 • R1 Tower of Knowledge Into the Forest
+
+  Radiant Forest Design and writing: Lisa Smedman
+
+Scenario Goals Special Rules Section Links
+The scenario is complete when the At the end of each odd round, all When door 1 is opened or tile 1-G is 
+goal treasure tile is looted. At the end characters and character summons are revealed, read 33.3. 
+of that round, read 153.3. simultaneously forced to move one When door 2 is opened or tile 1-D is 
+
+hex to the top (toward 1-G or 1-D), revealed, read 147.4. 
+while at the end of each even round, When door 3 is opened or tile 1-B is 
+
+Introduction they are forced to move one hex to the revealed, read 128.1. 
+Deciding it is time to recover this Tome bottom (toward 1-B or 1-E). When door 4 is opened or tile 1-E is 
+of Conflict, you set out for the Radiant revealed, read 44.3. 
+Forest. As you make your way through the Whenever any character enters The first time each pressure plate A 
+woods toward the spot on the map, you any pressure plate A or B in is triggered, read 11.6. 
+can’t help but think back to how Eddica the scenario, it is triggered. When The first time each pressure plate B 
+said it wasn’t on any recent surveys. You both pressure plates A have been is triggered, read 30.5. 
+would think that you’d be able to spot a triggered, characters and character When all pressure plates have been 
+giant tower sticking up out of the trees. summons are no longer forced to triggered, read 154.4.
+
+move at the end of each even round. 
+And then you see it. In a matter of a few Likewise, when both pressure plates 
+steps, the once-invisible tower shimmers B have been triggered, they are no Map Layout
+into view, looming perilously over you. longer forced to move at the end of 
+Craning your neck, you peer upward, each odd round. 01-G 01-D
+spotting four balconies that ring the top 
+floor of the tower. Both rooms beyond doors 1 and 2 
+
+are considered neighboring balconies, 12-A
+You force open a metal door at the base of as are those beyond doors 3 and 
+the tower and find that the inside is hollow, 4. Any figure can jump between 12-C
+save for a rusted spiral staircase that leads to neighboring balconies, revealing the 
+a trap door. As you climb, the ancient metal map tile if it was unrevealed. Any 
+creaks and shudders. Fortunately, it holds. figure on a balcony can also target 
+
+hexes on the neighboring balcony, as if 01-B 01-E
+
+You reach the top and push open the trap there were no wall lines between them.
+door. Clambering through it, you find 
+yourself in the center of an X-shaped room Each barrel and crate has 3 hit points. 
+with doors at the far ends of each wing. You They are enemies to you and allies – Continued on next page.
+also notice dangerous machines hunkering to all monsters. Whenever any barrel 
+in the shadows, but they seem inert. or crate is destroyed, all figures 
+
+occupying or adjacent to the hex it 
+In front of you is an altar, but it holds occupied gain . In addition, any 
+nothing. When you go to inspect it more figure can be forced to enter the hex 
+closely, the trap door suddenly slams of a barrel or crate, in which case, the 
+shut, and you hear the sound of bolts barrel or crate is destroyed.
+locking it in place. You tug on it, but it 
+doesn’t budge. And then, the entire tower 
+begins to tilt back and forth, sending you 
+staggering sideways.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+162
+
+
+
+134 CONT. • Tower of Knowledge
+
+Scenario Key Loot
+
+Flaming   x10 1 2
+Bladespinner   x2 
+
+Robotic   x4 
+Boltshooter   x2 
+
+Ruined   x1 
+Machine   x1 
+
+Shrike Fiend
+
+Steel 
+Automaton
+
+Metal Door 4
+
+Large Metal 
+Corridor 1 C
+
+Metal Corridor 1
+
+Pressure Plate 4
+
+Altar 1
+
+Nest 4
+
+Crate 4
+
+Barrel 2 3 4
+
+Treasure 1
+
+135 • O4 Belara’s Keep
+  Design: Ryan Haswell; Writing: Alexander JL Theoharis
+
+Scenario Goals Introduction You stand in the place marked on the map, 
+The scenario is complete when Belara “Belara’s prison is unique.” Eddica’s and utter the incantation provided to you by 
+is dead and the goal treasure tile has advisement echoes in your thoughts as you Eddica. Out of the snow, a crumbling stone 
+been looted. At the end of that round, head out northwest of Frosthaven in search fortress materializes.
+read 134.1. of the place. “To keep the Savvas from 
+
+regaining its powers, the High Council “Just because Belara had it’s mind cleaved,” 
+separated the logical side of its mind from you remember Eddica saying, “that doesn’t 
+
+Scenario Effects the emotional. But it’s more than that. mean it is not still incredibly dangerous. Be 
+Each character adds two  cards to Belara’s entire existence had to be separated careful.” You step inside, but not all of you 
+their attack modifier deck. as well. So the prison it is kept in exists on step into the same inside.
+
+two different but connected planes: one of 
+icy reason, and one of chaotic emotion.” – Continued on next page.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+163
+
+
+
+135 CONT. • Belara’s Keep
+
+Special Rules Section Links
+No more than half the characters All hexes A and B are convergence The first time both pressure  
+(rounded up) can start the scenario in the points present on both planes. Whenever plates C are occupied by characters, 
+same room. any character occupies a convergence read 87.2.
+
+point, they simultaneously occupy the 
+Tiles 12-B and 4-A are the Plane of corresponding hex on the other plane 
+Reason. All figures occupying them and gain the bonuses of both planes. All Map Layout
+gain  1. Tiles 7-E and 6-B are the characters can use convergence points 
+Plane of Emotion. All figures occupying in this way to move between planes. If 04-B
+them add +1  to all their attacks. No any other figure occupies a convergence 
+figure can teleport between planes. If point, it has no effect except that the 
+
+01-B
+at least one character is not occupying corresponding hex is treated as occupied 
+each plane at the end of each round, the for the purposes of movement. 06-B
+scenario is lost. 04-A
+
+Both doors 1 are locked.
+07-E
+
+12-B
+Scenario Key
+
+Earth Demon
+
+Flame Demon
+
+1 1
+Rending Drake
+
+C C
+Savvas 
+Lavaflow A B
+
+Sun Demon B
+
+Cave Door 1 A
+
+Dungeon Door 1 Loot
+
+  x7 
+Metal Door 2   x4 
+
+  x4 
+Pressure Plate 4   x2 
+
+  x1 
+ Trap 4   x1 
+
+  x1 
+Bookshelf 3
+
+Snow Rock 5
+
+Treasure 1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+164
+
+
+
+136 • I2 Abandoned Hideout  
+
+  Biting Sea Design and writing: Dusty Everman
+
+Scenario Goals Special Rules
+The scenario is complete when all All non-corridor hexes on tiles 16-B hex, corridor (except 1), or obstacle, 
+enemies in it are dead. At the end of and 11-B are treated as water (difficult but they can enter traps, springing them 
+that round, read 11.3. terrain). They are still treated as empty and either applying their effects to 
+
+when unoccupied and free of overlay any figure occupying that boat hex or 
+tiles. springing them for no effect if the hex 
+
+Introduction is unoccupied. Figures on boats suffer 
+The hidden entrance at the base of the Any character occupying either hex damage when entering hazardous terrain 
+rocky cliffs is exactly where the Vermling of either boat A or B may forego as normal.
+barkeep said it would be. The sound of a bottom action (discarding the card 
+the crashing waves behind you masks the instead) to move the hex of the boat Once a boat is moved by any character 
+noise you make while clearing out the they occupy up two hexes, along with at least once, it will then move on its 
+brambles and debris obscuring the small themselves. For each hex one boat hex own. At the start of each round, each 
+cave opening. Beyond, a curved stairway moves, the other boat hex enters the hex previously moved boat moves two hexes, 
+leads down to a stone landing at the edge the first one exited, along with anything focusing on moving toward and opening 
+of a water-filled cavern. A subterranean on it. No boat can enter an occupied door 1. Boat A moves before boat B.
+river flows deeper into the cave past vile 
+clouds of noxious fumes. You see two old Loot
+log rafts moored to the landing. Echoing Section Links
+sounds of splashing water and chittering   x8 When door 1 is opened, read 170.2.
+from the darkness suggest that this hideout 
+isn’t as abandoned as you had hoped.   x4 
+
+  x4 Map Layout
+  x1 
+  x1 
+
+16-B 11-B 10-B
+
+Scenario Key
+
+Lightning Eel Large Cave 
+Corridor 2
+
+Living Bones Large Metal B
+Corridor 3
+
+Living Spirit  Trap 6
+A 1
+
+Lurker 
+Wavethrower Barrel 2
+
+Piranha Pig Bookshelf 1
+
+Cave Door 1 Treasure 1
+
+Dungeon Door 1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+165
+
+
+
+137 • D3 Pirate Queen’s Haul  
+
+  Biting Sea Design: Nikki Valens; Writing: Shannon Campbell
+
+Scenario Goals Given the treacherous rocks, Captain noises, monsters disturbed by your 
+The scenario is complete when all Doghogger can’t sail any closer. Dinah presence. With a smile as cold as your 
+enemies in it are dead. At the end of commands him to anchor while you take a surroundings, Dinah unsheathes her blade. 
+that round, read 138.3. dinghy. At her imperiousness, the Captain “Time to prove your mettle, mercenaries.”
+
+gives her a side-eye, but she side-eyes 
+him right back, and eventually, the battle 
+
+Scenario Effects tips in her favor. He anchors. With Dinah Section Links
+Each character adds two  cards to at the prow in the dinghy, you row to the When door 1 is opened, read 191.2.
+their attack modifier deck. cliff face.
+
+“Keep rowing,” she says, eyes glittering, Map Layout
+Introduction and nervously, you do so, until a wave 
+
+Who knew Frosthaven’s shores were host to slams you into the stark cliff. Or rather, 11-B
+a dread Pirate Queen? That’s the question it doesn’t, and suddenly, you are beyond 04-A
+
+Captain Doghogger keeps voicing after you the rock. It was an illusion. You are 12-B
+and Dinah enlist him to sail you out to the plunged into the darkness of a hidden sea 
+X marked on the map. He tries on different cave. Long minutes pass, the tide rolling 14-A
+inflections, as if he will be recounting this you forward until the dinghy jolts. 
+story in the Boiled Crab later. Dinah looks You’ve hit land.
+ready to make him walk the plank. Luckily, 
+her murderous tendencies are curbed Your torches reveal an ice-sculpted 
+when she spots her quarry, a seemingly cavern. Deep in its crooked passageways, 
+unremarkable cliff face. you sense flitting motions and irascible 
+
+Scenario Key Loot
+
+Ancient   x12 
+Artillery  Trap 5   x4 1
+Flaming   x4 
+
+Bladespinner Water 9   x4 
+  x1 
+
+Forest Imp Barrel 2
+
+Piranha Pig Barricade 2
+
+Polar Bear Crate 2
+
+Robotic 
+Boltshooter Ice Pillar 2
+
+Cave Door Large Ice 
+2 Crystal 1
+
+Dungeon 
+Corridor 1 Mast 1
+
+Ice 1 Stalagmites 6
+
+Large Ice 4
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+166
+
+
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+167
+
+
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.

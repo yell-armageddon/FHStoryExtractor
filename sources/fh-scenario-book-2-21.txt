@@ -1,0 +1,1271 @@
+﻿2023 CEPHALOFAIR GAMES, LLC.
+ALL RIGHTS RESERVED. USED WITH PERMISSION.
+
+
+
+Welcome to Frosthaven
+
+With your head down, you march. One foot, then the other. You try 
+to block out the pain: the throbbing in your toes, the numbness in 
+
+your face. Just keep the rhythm, you think—one, two—but the wind isn’t 
+so easily ignored. It claws at you, whipping up ice and snow like tiny 
+hooks, making every breath difficult. Your skin is thick, you always prided 
+yourself on that, but nothing is thick enough for this. You are walking 
+through the Frozen Wastes, a place far to the north where only the hard 
+and the lost dare to travel. Of course, that’s probably why they hired you. 
+ 
+It’s been ten days of plowing through snow drifts as high as your 
+waist, and there’s still no sign of the town. You’re mercenaries hired 
+as part of a support team, the first group of the season sent to check on 
+humankind’s most distant outpost—Frosthaven. It’s a place forgotten by 
+most of the world: a tiny settlement carved out of the frozen wilderness 
+that, for half the year, is wholly cut off from the empire, isolated by 
+towering, unbreachable drifts. But as of last week, just enough snow 
+has melted off the Imperial Pass for a team to get through. They 
+were hiring, and your coin purses were empty. So then, here you are. 
+ 
+No one really knows what awaits you in Frosthaven. Your snow-muddled 
+mind struggles to imagine what sort of people could survive through the 
+winter in a place like this. But whoever’s there, you hope at the very least 
+they’ve left a fire going.
+
+Rewards
+New Scenarios:  
+Howling in the Snow 0  
+A Town in Flames 1  
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+2
+
+
+
+0 • N6 Howling in the Snow
+  Designer: Zachary Cohn; Writer: Isaac Childres
+
+Scenario Goals Special Rules
+The scenario is complete when all Do not set up the Hound monster ability Deathwalker: Shadow Step, Fluid 
+enemies in it are dead. At the end of deck. Instead, each round on initiative Night, Strength of the Abyss, Call of 
+that round, read 2.2. 26, all Hounds perform  2;  2. Doom, Call to the Abyss, Black Barrage, 
+
+Eclipse, Dark Fog
+Each character reduces their hand until 
+
+Introduction it contains only the following cards: Banner Spear: At All Costs, Tip of 
+You were warned the journey would the Spear, Unbreakable Wall, Combined 
+not be easy. That the weather would Drifter: Unbreakable, Crushing Weight, Effort, Javelin, Deflecting Maneuver, 
+sap your strength and beat you into Vile Assault, Deadly Shot, Violent Regroup
+submission. That terrible creatures lurked Inheritance, Precision Aim, Bloodletting, 
+in the mountains, waiting to fall upon Sustained Momentum Blinkblade: Blurry Jab, Twin Strike, 
+unsuspecting travelers in a bloody frenzy. Sap Speed, Power Leak, Drive Recharge, 
+You wouldn’t have expected, however, that Boneshaper: Eternal Torment, Transfer Hit and Run, Temporal Displacement
+the most mundane of threats may end up of Essence, Command the Wretched, 
+being the most dangerous. Flow of the Black River, Decaying Will, Geminate: Icebound Quills, Draining 
+
+Fell Remedy, Malicious Conversion, Life Pincers, Hornet Stingers, Changling’s 
+Wolves. in Death, Returned Servant Boon, Drag Down, Selfless Offering, Into 
+
+My Embrace, Firefly Swarm, Mind Spike, 
+The howling started last night – signals  Harvest the Essence
+to the pack that prey was near. And now 
+they have gathered, stalking you as you 
+move through the mountains, looking for Section Links Map Layout
+weaknesses. For a more in-depth guide on how to 
+
+play each class, read 197.1.
+This is no time to be passive. You know 16-A 13-C
+it’s only a matter of time before they When door 1 is opened, read 2.1.
+strike, going after the slowest, oldest 
+members of your caravan. If you want 
+everyone to survive, you’ll need to show 13-A
+these animals that you are not to be 
+messed with. That you are not prey.
+
+1
+Scenario Key Loot
+
+  x8 
+Hound Snowdrift 6   x2 
+
+  x2
+Snow Door 1 Snow Rock 4   x2 
+Large Snow 
+
+Corridor 4 Stalagmites 4
+
+Snow Corridor 3 Treasure 1
+
+Damage Trap 3
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+3
+
+
+
+1 • FR A Town in Flames
+  Frosthaven
+
+Scenario Goals Great petals of fire burst from windows Special Rules
+The scenario is complete when all and crawl over roofs. People stream from All City Guards are allies to you and 
+enemies in it are dead. At the end of the town’s ruined gate, their faces bent in enemies to all other monster types. 
+that round, read 9.1. panic. A moment later, you see the object City Guards do not perform turns but 
+
+of their terror: a massive creature with instead gain an additional innate  1 
+two legs and two hulking arms covered (for a total of  2 at level 1) and  2, 
+
+Introduction entirely in thick white fur, three gnarled and have an initiative of 50 for the 
+The sounds greet you first: muffled horns crowning its head. purpose of focusing.
+metallic pangs, a voice howling. It’s 
+difficult to make anything out with the “Algox raiders! We’re doomed!” cries 
+wind rushing past your ears, but you’d an elderly porter beside you. “They’re Section Links
+know that tune anywhere: there’s a fight stronger than anything else alive. We’ve When door 1 is opened, read 5.3.
+up ahead. come all this way for nothing!” As if to 
+
+prove the point, the Algox you’ve been 
+But a fight means people, and if there are watching catches a fleeing outposter with Map Layout
+people, then the town must be close. You one hand and hurls him backward as if he 
+hear more: a scream; the crash of steel weighed nothing.
+against stone; a deep, earthy growl.
+
+Ten days you’ve been hiking. Ten days 
+You’re running now. Your legs are wasted and this is what you find. You breathe out 09-A 13-A 13-C
+from the hike, your shoulders ache from a thick plume of foggy air and hoist your 
+your gear, but the sounds are close now weapon high. Time to get to work.
+and up ahead you see gauzy orange light 
+blooming in the air. With one last push, you 
+round the final bend in the trail and you see 
+it—Frosthaven—engulfed in flame.
+
+Scenario Key Loot
+
+  x6
+Algox Archer Snow Corridor 3   x5 
+
+  x3 
+Algox Guard Log 1   x3 
+
+  x1 
+Algox Priest Rubble 6
+
+  x2 
+
+City Guard Debris 2
+
+Snow Door 1 Large Debris 2
+
+Large Snow 1
+Corridor 4
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+4
+
+
+
+2 • K8 Algox Scouting
+  Copperneck Mountains
+
+Scenario Goals Section Links Scenario Key Loot
+The scenario is complete when all When door 1 is opened, read 27.1.   x4
+enemies in it are dead and ice sheet A Algox Archer
+has been destroyed. At the end of that   x4 
+round, read 77.3. Map Layout   x4 
+
+Algox Guard
+  x4 
+
+11-A
+Introduction   x2 
+
+Algox Priest
+“They’ll be tired from the raid, so this 11-C   x1 
+is your moment.” Satha had explained,   x1 
+pointing you toward the foothills of the Algox Scout
+Copperneck Mountains where her scout 
+tracked the Algox attackers. “I doubt 14-B
+
+Snow Door
+you’ll be able to fight them all on your 2
+own, but maybe you can find another 
+way to subdue them if you get close. On Snow Rock 4
+the other hand, they’ll be worn out after 
+this little battle, so feel free to test your 
+luck. Just remember, even a tired Algox is Large Ice 1
+strong enough to rip someone in two.”
+
+Treasure
+You head to the area indicated by the 1
+scout, following the Algox’s trail toward 
+a wicked-looking mountain. As you draw 
+nearer you see that the trail splits: the 
+main force returned to the near side of the 
+mountain, but a smaller group peeled off 
+to hike around to the eastern face.  
+The scout told you he suspected there was 
+a back door to the Algox settlement, and 
+you follow the smaller group’s trail hoping 
+he was right.
+
+The path narrows as you approach the 
+steep eastern face, winding up to an 1
+overlook high above. Peering upward, you 
+make out the faintest glimmer of light, but 
+then a shape blots it out. A body, large and 
+white, tumbles over the rocky ledge like 
+a boulder, slamming against the jutting 
+rocks. A dead Algox brawler, just like 
+the ones who attacked Frosthaven, lies 
+at your feet. Judging by its injuries, the 
+rocks weren’t its only problem—there’s a 
+fight up above. You scramble toward the 
+top, hoping to make it before the battle is 
+through. When you’re halfway up, another 
+furry shape appears over the ledge.
+
+“More intruders,” she scoffs. “You will 
+never open the Skyhall. This place belongs 
+to the Ice!” Your shock at the fact that an 
+Algox just spoke your tongue is quelled as 
+the speaker lifts a huge boulder and hurls 
+it down at you. Time to move.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+5
+
+
+
+3 • L7 Algox Offensive
+  Copperneck Mountains
+
+Scenario Goals Special Rules Scenario Key Loot
+The scenario is complete when all All Algox Priests and Hounds are allies   x4
+characters have escaped. At the end of to each other and enemies to all other Algox Archer
+that round, read 8.3. figures. Likewise, all Algox Guards   x4 
+
+and Algox Archers are allies to each   x4 
+other and enemies to all other figures. Algox Guard
+
+Introduction   x4 
+Use the  attack modifier deck for the 
+
+“They’ll be tired from the raid, so this Algox Priests and Hounds, though they   x2
+Algox Priest
+
+is your moment.” Satha had explained, are still considered enemies to you.   x1 
+pointing you toward the foothills of the   x1 
+Copperneck Mountains where her scout If any character becomes exhausted, Hound
+tracked the Algox attackers. “I doubt the scenario is lost.
+you’ll be able to fight them all on your Cave Door
+own, but maybe you can find another 2
+way to subdue them if you get close. On Section Links
+the other hand, they’ll be worn out after When door 1 is opened, read 30.2. Large Snow 
+
+Corridor 4
+this little battle, so feel free to test your 
+luck. Just remember, even a tired Algox is 
+strong enough to rip someone in two.” Map Layout Snow Corridor 3
+
+After hours of tracking, you find yourself 02-J Stalagmites
+before a cave, a wide black stain on an 3
+otherwise pristine mountainside, a crowd of 04-A
+
+Algox moving around in front of it. Getting Treasure 1
+a bit closer, you realize there are two 
+different groups of Algox gathered at the 13-A 13-C
+cave mouth, and they seem to be fighting.
+
+The defenders look like the Algox who 
+attacked Frosthaven: huge figures with 
+fur-covered muscle and vicious strength. 
+They’re throwing punches that could 
+flatten a longhouse (you’ve seen it 
+happen), but you can tell their strength is 1
+flagging against their assailants.
+
+The attackers, on the other hand, wear 18
+leather robes and move their clawed hands 
+in intricate patterns. Covered in the same 
+white fur as the defenders, they stand their 
+ground outside the cave, guarded by wild 
+beasts as they hurl magical storms of snow.
+
+You creep in close and the battle begins 
+to shift. A flank has thinned out on one 
+side and you can see a path into the cave 
+ahead. It won’t be easy to break through 
+the fighting, but if you want to see what 
+the defenders are guarding without getting 
+your hands dirty, this is the best chance 
+you’re going to get.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+6
+
+
+
+4 • M8 Heart of Ice 
+  Copperneck Mountains
+
+Scenario Goals weapons ready, the chieftain tilts his head Special Rules
+The scenario is complete when only up and releases a howl so loud and terrible Do not set up or connect tile 11-B.
+one boss is dead and characters and that it cools the blood in your veins.
+character summons have collectively Door 1 is locked and will unlock 
+dealt damage to that boss equal to at Another terrifying howl tears through the when all revealed enemies are dead.
+least half its maximum hit point value air in response, and from the other side 
+(rounded up). At the end of that round, of the chamber a blistering bolt of blue All Algox Scouts are allies to each 
+if the Snowdancer is dead, read 15.2; energy shoots out and crashes against the other and enemies to all other figures. 
+if the Frozen Fist is dead, read 22.1. wall next to you. It’s the Snowspeaker Likewise, all Algox Guards are allies 
+
+chieftain, standing almost a head taller to each other and enemies to all other 
+than even your enormous companion, and figures. Use the  attack modifier 
+
+Scenario Effects she’s wielding the snow itself as a weapon. deck for the Algox Scouts, though 
+Each character adds two  cards to they are still considered enemies to 
+their attack modifier deck. The two chiefs charge and crash near the you. 
+
+center of the room, blasting open a gap in 
+the battle. Both are clearly more skilled Instead of using standees for the 
+
+If Algox Offensive 3  is complete, read than the other fighters, and each moves bosses, use the miniatures in tuck 
+Introduction A and use the starting with a surety gained from authority. boxes  (Frozen Fist) and  
+map below. If Algox Scouting 2  is Thunder cracks around the Snowspeaker,  (Snowdancer).
+complete, read Introduction B and use and the Icespeaker bludgeons the air and 
+the starting map on the next page. ground with brutal strikes. Section Links
+
+But then the sea of Algox condenses back When door 1 is opened, read 75.1.
+Introduction A around you, all of them looking angry and 
+
+The battle is near. Sounds of it echo off the suspicious. If you want to get to the main, 
+tunnel’s icy walls: metal crashing against fight, you’ll have to fight your way through Map Layout
+stone, thunder ripping the air, the chest- these combatants first.
+shaking howls of Algox. Your breath is 11-B
+heavy as you follow your guide. Closer. 
+Closer. And then you arrive.
+
+16-B 15-A
+The central chamber opens like a cavernous 
+maw, ice and blood and bodies writhing in 
+battle. In the center of the room hangs an 
+enormous shard of pearlescent ice, and for 
+a moment, you simply stare at it. The shard – Continued on next page.
+rotates slowly in the air, held aloft by some 
+otherworldly means. Clearly, a great power 
+does reign here.
+
+But the middle of battle is no time to stand 
+around. The Algox around you are locked 
+in bitter combat, spells shooting out with 
+terrible quickness and heavy fists swinging.
+
+Your Algox companion shakes off his 1
+injuries and steps forward. From the 
+cheers that rise from the combatants when 
+he enters the room, you gather he must 
+be some sort of leader to the Icespeakers. 
+He concentrates and a thick whorl of 
+ice collects on his fists, solidifying into 
+jagged, brutal-looking gauntlets. His 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+7
+
+
+
+4 CONT. • Heart of Ice 
+
+Introduction B Scenario Key Loot
+The battle is near. Sounds of it echo off the   x6
+tunnel’s icy walls: metal crashing against Frozen Fist Cave Door 1
+stone, thunder ripping the air, the chest-   x3 
+shaking howls of Algox. Your breath is   x5 
+heavy as you follow your guide. Closer. Snowdancer Ice Pillar 3
+
+  x2
+Closer. And then you arrive.
+
+  x1 
+Algox Archer Large Ice 
+
+But the middle of battle is no time to Crystal 1
+  x2
+
+stand around. The Algox around you are   x1 
+locked in bitter combat, spells shooting Algox Guard Treasure 1
+out with terrible quickness and heavy fists 
+swinging. Immediately before you stands Algox Scout
+a final cluster of guards. Their faces twist 
+in fury at the sight of your party, realizing 
+from which direction you’ve just come.
+
+“Doomed whelps,” they shout, “we will 
+destroy you for this intrusion!”
+
+Special Rules
+Do not set up or connect tile 16-B.
+
+Door 1 is locked and will unlock 
+when all revealed enemies are dead. 1
+
+Instead of using standees for the 
+bosses, use the miniatures in tuck 
+boxes  (Frozen Fist) and  
+
+ (Snowdancer).
+
+Section Links
+When door 1 is opened, read 75.1.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+8
+
+
+
+5 • I6 Frozen Crypt
+  
+
+Scenario Goals each others’ shoulders and not reach the Section Links
+The scenario is complete when all top. Dirt walls rise up on every side, soft When door 1 is opened, read 7.2.
+enemies in it are dead. At the end of loamy soil that will make the climb back 
+that round, read 38.1. up difficult. As you stand there looking up 
+
+at the white sky, a noise creeps into your Map Layout
+ears. It’s a thin, wispy howl, like the wind 
+
+Scenario Effects coming through the walls of a poorly-built 01-B
+Each character suffers  2. house.
+
+07-A
+You turn and ethereal shapes emerge from 
+
+Introduction the dark, cast in a blue whirling haze. 
+The Whitefire Wood stands against They hover above the floor, their forms 13-E
+the frozen waste like gray unflinching shaking in the gloom, and wherever they 
+ramparts. The trees have grown tall and move a layer of frost grows thickly across 
+wide, bunched densely together to create a the floor.
+defensive line closer-knit than a phalanx 
+of Valrath infantry. But this is where the They are coming closer now, and the air is 
+Snowspeaker sent you, so there must be a getting cold.
+way in.
+
+The entrance, which you find only after 
+an hour’s search, sits like a gate in the Scenario Key Loot
+wood. Two enormous trees guard either   x6
+side of a snow-packed trail, and just past Frozen Corpse Ice Pillar 6
+the opening is a figure covered in white   x4 
+fur, hunched over, eyes looking back—an   x3 
+Algox. You lock eyes long enough to take Ice Wraith Altar 1   x1
+half a breath, and then, he turns and runs 
+deeper in.   x2
+
+Cave Door 1 Treasure 1
+  x2 
+
+You give chase. The path is trod snow and 
+rock—a road used often, which is just as Large Cave 
+
+Corridor 1
+well. You barrel down it, trees whipping 
+past your periphery, your muscles 
+recharged by the sight of your quarry. 
+However, just as you’re certain you’ve got 
+the Algox cornered, you turn a corner and 
+find the huge Algox waiting for you. It’s 
+hunched in the middle of the trail, facing 
+you, but its fists are planted firmly in the 
+snow, a smug grin cutting its face. Not 
+good.
+
+You charge forward, ready to leap, but 
+before you can take two steps, the ground 
+shakes violently. Large fissures erupt 
+in the earth. The trees buck. And like 
+summer-thinned ice, the ground beneath 
+you breaks away.
+
+Thankfully the fall is short, and you land 1
+without serious injury. You cough as the 
+dust settles, and find yourself in an open 
+pit deep enough for four Algox to stand on 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+9
+
+
+
+6 • L8 Avalanche
+  Copperneck Mountains
+
+Scenario Goals When the avalanche stops, you blink in Section Links
+The scenario is complete when all darkness. You’ve been entombed in snow, When door 1 is opened, read 12.2.
+characters have escaped. At the end of and already the air is drawing thin. You 
+that round, read 65.1. need to find a way out, and you need to 
+
+find it fast. Map Layout
+
+Scenario Effects
+Each character gains . Special Rules 13-A 02-E 02-G 07-B
+
+Each snowdrift and snow rock in the 
+scenario has L+C hit points. They 
+
+Introduction are enemies to you and allies to all 
+You stand at the end of an Algox tunnel. monsters. At the end of each round, 
+Behind you stretches a winding maze of each character adjacent to at least 
+ice and rock, a long series of passages one snowdrift or snow rock suffers 
+painstakingly carved through the hazardous terrain damage.
+interior of Snowscorn Mountain. Before 
+you, a narrow trail hangs over a cliff If any character becomes exhausted, 
+face, leading perilously up toward the the scenario is lost.
+mountain’s peak. A blistering storm of 
+snow and wind howls past the mouth of 
+the tunnel like a demon chorus.
+
+Scenario Key Loot
+“Follow the trail beyond the tunnel,” the   x9 
+Icespeaker chief had told you, “Then curve Frost Demon Snow Corridor 2
+around to the highest peak. There you will   x4 
+find the Snowspeaking wretches. Destroy   x1 
+them, or Snowscorn is lost.” You had Snow Imp Snowdrift 6
+
+  x1 
+nodded your understanding, but you now 
+realize that scaling a mountain is much   x2 
+
+Snow Door 2 Snow Rock 2
+easier for the Algox. As it is, you’re barely   x1 
+equipped to avoid hypothermia, much less 
+
+Large Snow   x2 
+hike over slippery rock through a blizzard. Corridor 2
+But there’s no way around it: Frosthaven’s 
+safety hangs in the balance.
+
+It takes several hours of grueling hiking, 
+but eventually the peak emerges. Its rare 
+streaks of gray stone are half-hidden by 
+a blustery cloak of soft, blown powder. 1
+You shield your eyes and squint into the 
+whiteness, but it seems that, bizarrely, the 
+peak is growing—its whiteness bulges 
+outward, undulating, swallowing the 
+exposed gray stone. It’s getting closer, 
+like a wave—a wave of snow. Like an 
+avalanche.
+
+You turn and run, and the air shakes. 
+Legs pump, arms flail. You move, but it’s 
+not enough. Your legs are too slow and 
+the path too steep. You turn to see how 
+much time is left, and a blur of whiteness 
+envelops you. The mountain roars, and 
+you are consumed by the noise.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+10
+
+
+
+7 • K3 Edge of the World
+  
+
+Scenario Goals Section Links Scenario Key Loot
+The scenario is complete when the When door 1 is opened, read 42.1   x6
+Coral Corpse is dead. At the end of Frozen Corpse
+that round, read 3.3.   x3 
+
+Map Layout
+Lurker   x3 
+
+Clawcrusher
+Scenario Effects   x3 
+
+02-G
+Each character adds one  card to Lurker   x1 
+their attack modifier deck. 04-A Mindsnipper   x2 
+
+06-A Lurker Soldier
+Introduction
+
+11-B
+Following up on Satha’s “crab problem,” Cave Door
+you find yourself standing at the edge of 2
+the Biting Sea, an ice-choked gauntlet 
+whose frigid waters have granted a Large Snow 
+
+Corridor 1
+swift death to many an overconfident 
+mariner. You hike west, hugging the coast  and  
+while hunting for signs of the enormous Trap 5
+crustaceans. Frosthaven is visible in the 
+southern distance, little more than a vague Ice Pillar
+outline. Seeing it, you feel isolated, like 3
+someone looking back from the very edge 
+of the world. Treasure 1
+
+Another half hour of diligent tracking 
+later, you happen upon your first clue: 
+a pattern of pockmarks have been 
+hammered into the ground near the foot of 
+a hill, indents in the snow and dirt where 
+the creatures have scuttled by. You follow 
+the trail to a cave on the western side of 
+the cliff, where you find a clutch of giant 
+crablike figures chittering restlessly.
+
+They’re as large as you’ve heard from 
+stories: tall, hard-shelled beings with long, 
+craggy limbs, and as soon as you appear, 
+they rise to their full height, some of them 
+larger than an Algox. They shriek and 
+move quickly toward you, their pincers 
+snapping.
+
+1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+11
+
+
+
+8 • G8 Crystal Trench
+  Crystal Fields
+
+Scenario Goals Special Rules Scenario Key Loot
+The scenario is complete when all Characters cannot escape until all   x6 
+characters have escaped. At the end of Polar Bears in the scenario are dead. Hound
+that round, read 54.4.   x5 
+
+If any character becomes exhausted,   x5 
+the scenario is lost. Polar Bear
+
+Scenario Effects   x1 
+Each character adds one  card to   x1 
+their attack modifier deck. Section Links Snow Imp
+
+  x1 
+When door 1 is opened, read 21.1.
+
+Snow Door 2
+Introduction
+
+You travel east from Frosthaven, passing Map Layout
+Snow Rock
+
+over the frozen wastes and into the 2
+Whitefire Wood, hoping to sort out the 
+
+02-E
+mystery of the wandering mechanical 
+beings reported by Satha’s scouts. You’ve 
+heard of such contraptions before, but no 
+one in the north seems capable of building 07-B
+such things. There’s no place for delicate 
+machinery up here, not where the air peels 
+your heat away and frost can lock your 
+weapon tight in its scabbard. Surely, the 11-A
+scouts must have been mistaken.
+
+But machines aside, there are other sorts 
+of creatures that do thrive in this climate, 
+and one of them just dashed across your 
+trail—wild hounds. You’ve been so 1
+occupied by your thoughts that you didn’t 
+notice them until just now, and there’s 
+movement all around you. An entire pack 
+is stalking you, and now they’re closing 
+in like a vice. Your position is terrible. It’s 
+too narrow in this forest for a close fight, 
+and there is hardly enough light to see by. 
+You need to get out of here, so you run.
+
+The trail is thick with roots and stones and 
+fallen trees. Still, you run, and the wolves 
+give chase, much more adept at moving 
+through these woods than your group. 
+Their shadows flicker between the thick 
+brush, and their snarls are close.
+
+Suddenly, there’s daylight. You break out 
+of the forest and into the open, the trees 
+giving way to ice and snow. However, this 
+escape wasn’t quite what you’d hoped for. 
+On either side of you stand great walls of 
+ice and rock, and behind you, the pack of 
+beasts. It’s an alley—a perfect place to 
+funnel prey—and you just ran right into it.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+12
+
+
+
+9 • J6 Glowing Catacombs
+  
+
+Scenario Goals Section Links
+The scenario is complete when all When door 1 is opened, read 78.2.
+enemies in it are dead and both 
+switches A have been activated. At 
+the end of that round, read 93.4. Map Layout
+
+Introduction 12-B
+
+It’s always strange, traveling deep 08-B
+
+underground, but it’s made even stranger 
+by the musty smell of undead that clings 
+to you like grease smoke. You try to ignore 
+it, to put the stench out of your mind, but 16-C 11-B
+it only seems to grow as you move deeper 
+into the catacombs. Along with the stench, 
+the eerie green light has grown in intensity 
+as well. It gleams down every hall now, 
+and you find yourself relaxing in its glow. 
+You shake your head and try to clear the 
+thought, knowing full well this is not the 
+place to let your guard down, but still, the Scenario Key
+insidious soothing feeling persists.
+
+Ice Wraith Cave Door 4 Debris 4
+The catacomb tunnels grow deeper. The 
+floor and walls turn to uneven stone and 
+the air becomes stale, the long years Living Doom Large Cave 
+
+Corridor 1 Ice Pillar 3
+having petrified it into a thick fume.
+
+Living Spirit   Trap 3 Sarcophagus 4
+You stop. Something moved just ahead. 
+You raise a torch and see flickers of 
+shadow shift in the passage. A body, large Ooze Altar 1 Treasure 1
+and wispy black, detaches from the wall 
+and moves to block the path forward. It 
+is made of shadow and corroded black 
+armor, its face guarded by a jagged helm, 
+and it has seen you. It rises slowly, its Loot
+eyes burning with palpable menace, and   x8 
+releases a deep, hateful groan.
+
+  x5 
+  x3 
+  x1 
+  x2 
+  x1 1
+
+09
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+13
+
+
+
+10 • F6 Crystal Enclosure
+  Crystal Fields
+
+Scenario Goals They arrange themselves between you and Special Rules
+The scenario is complete when all the crystalline spikes. The Icespeakers Each ice pillar has (2+L)xC/2 hit 
+monsters in it are dead. At the end of seem to draw energy from the “conduits,” points (rounded down). They are 
+that round, read 42.4. as they call them, increasing the defenders’ enemies to you and allies to all 
+
+strength and ferocity. You came prepared monsters. Each monster in the 
+to fight Algox, but you didn’t expect them scenario gains X, where X is the 
+
+Scenario Effects to have magical backup. You realize you number of ice pillars within  4 of it.
+Each character discards one card. could try destroying those conduits; it 
+
+would be tough, but it might remove your All doors 1 are locked and will 
+enemies’ advantage. Whatever you do, you unlock when all revealed monsters are 
+
+Introduction have to do it soon, before the tide of this dead.
+With a sturdy sled now under foot, and a battle turns against you.
+team of dogs at the fore, you cut through 
+the tundra with ease. You watch the Section Links
+distance for signs of your target—the When any door 1 is opened, read  
+Icespeakers expelled from Snowscorn—as 65.3.
+you go, squinting through the wind. For a 
+long time, there is nothing. Small eddies 
+kick up here and there, whorls of white Scenario Key Loot Map Layout
+crystalline powder that rise and drift about   x8 
+in the wind, like flickering white shadows. Algox Guard
+It’s not until after several hours of steady   x4 
+
+13-A 16-A
+travel that a new sight appears. Crystal   x3 
+spikes, hundreds of them, materialize on Algox Priest
+
+  x2 
+the horizon like a field of icy quills shot up 
+from the snow, and even from a distance, Algox   x2 
+you can tell they are huge. Many stand Icespeaker   x1 
+as tall as a full-grown pine tree, but they 
+are far from natural. A number of Algox Snow Door 3
+gather around them, their hulking bodies 
+unmistakable in this place, and you watch 
+
+Ice Pillar
+as the group performs a bizarre ceremony. 5
+Ten of them encircle a large empty spot in 
+the snow, and raise their open palms to the Treasure 1
+air. They pray, though you cannot hear the 1
+words, and then, after a moment, a brand 
+new spike suddenly shoots from ground 
+before them, an immense crystalline pillar 
+conjured from the earth in an instant. 1
+Unfortunately, there’s no way to be 
+stealthy on a sled. As you draw closer, 
+you’re met by a line of tall, well-prepared 
+Icespeaker guards. 1
+“Intruders!” One of them shouts, “Protect 
+the conduits!”
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+14
+
+
+
+11 • M6 Snowscorn Peak
+  Copperneck Mountains
+
+Scenario Goals Boss Special 1 Scenario Key Loot
+The scenario is complete when the The Algox Stormcaller performs:   x6 
+Algox Stormcaller is dead. At the end -1,  C,  5,  2 Algox 
+
+Stormcaller
+of that round, read 47.2. Then it summons one Wind Demon. It   x4 
+
+is normal for two or three characters,   x3 
+or elite for four characters. Frost Demon
+
+Scenario Effects   x3 
+Each character discards one card.   x2 
+
+Boss Special 2 Wind Demon
+  x1 
+
+The Algox Stormcaller creates one 
+Introduction   x1 
+
+1-hex hazardous terrain tile in the Large Snow 
+Corridor 2
+
+The wind never stops. It buffets you, a empty hex closest to the closest enemy. 
+constant presence stealing your heat and Then all enemies occupying or adjacent Ice Spikes
+fogging your mind, reducing your hands to at least one hex with a hazardous 10
+to frozen claws. But you cannot stop terrain tile suffer hazardous terrain 
+either. You carve a route toward the peak damage. Then it summons one Frost Large Ice 
+
+Crystal 1
+one piton at a time, hoping to reach the Demon. It is normal for two characters, 
+Snowspeakers hiding there before they or elite for three or four characters.
+cause any permanent damage. Snow Rock 4
+
+Your limbs burning in protest, you jam Map Layout  Large  
+your hands and feet over and over into Snow Rock 2
+jagged crevices. Just when you think you 
+might have to give up, you reach for one Treasure 1
+final grip and feel snow instead—the 11-A 15-A
+
+summit.
+
+Pulling yourselves over the ledge, 
+you discover an island hidden in the 
+stratosphere: a secret frozen plateau. 
+The mountaintop rises steeply to a peak, 
+and only a short distance away stands 
+your welcoming party. It consists of 
+one ancient, steel-eyed Algox and two 
+detachments of demons, their teeth bared 
+in the frigid wind.
+
+“Our preparations are nearly complete, 
+interlopers,” the elder Algox says, an 
+indulgent smile crisscrossing her face. 
+“This mountain will fall, and when it does, 
+the dirt-worshiping cult of Icespeakers 
+will be crushed.”
+
+The elder raises her hands and a great 
+vortex of snow swirls around her. The rock 
+beneath you begins to shake. The air hums 
+with menace.
+
+“I will use this mountain’s own energy 
+against it! Death comes—”
+
+You let loose a cry and rush in. The time 
+for speeches is over.
+
+71
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+
+15
+
+
+
+12 • K8 Temple Entrance
+  Copperneck Mountains
+
+Scenario Goals Section Links
+The scenario is complete when all When door 1 is opened, read 34.1.
+enemies in it are dead. At the end of 
+that round, read 23.2.
+
+Map Layout
+
+Introduction
+Approaching the ruins on the mountain 
+slope, you discover a copse of carved 16-C 11-E 15-C
+stone—vestiges of some forgotten past. 
+A number of broken, time-battered 
+pillars stand on the mountain slope, and 
+following them, you arrive at a pair of 
+large stone doors. On them, you make 
+out an expansive mural, still quite clear 
+despite however many years it’s been Scenario Key
+buried. It depicts a history. First a village, 
+small and wooded; then, a vast city with Ancient Large Dungeon 
+
+Artillery Corridor 2 Barricade 6
+tall buildings and wide roads; and last, 
+there is only flame and ruin. Above these 
+three depictions there is another set of Night Demon  Trap 6 Debris 4
+carvings: that of man aging in reverse. 
+First, an old man above the town as it’s Steel 
+being built, then an adult as the settlement Automaton Rubble 3 Treasure 1
+
+flourishes, then finally a baby, cooing on 
+its back above the flaming ruins. Dungeon Door 1
+
+Your curiosity is too much to resist. You 
+push on the doors, and, with grinding 
+stone and cracking rust, they give in. It’s 
+clear that this place, though well preserved Loot
+under the snow and rock, is still ancient   x8 
+enough to have felt the passage of time. 
+Corroded columns and scraps of metal   x4 
+litter the floor like an ancient junk pile.   x4 
+But sometimes treasure can lie hidden in   x1 
+unlikely places.
+
+  x2 
+You get as far as the steps, far enough for   x1 1
+the coldness of this ruin to seep into your 
+skin, and then the ground stirs. Those 
+scraps of metal you took for junk lurch 
+upward, filled suddenly with life, and a 
+slew of dented iron barrels turn toward 
+you—ancient automatons. They don’t seem 
+like much of a threat, these ruined things, 
+but there are a lot of them, and there’s no 
+knowing how deep this passage goes.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+16
+
+
+
+13 • O2 Frozen Fjord
+  
+
+Scenario Goals “Turn back,” they shriek. “Turn back, or Section Links
+The scenario is complete when all your corpses will be carrion for my brood.” The first time either door 1 is 
+enemies in it are dead. At the end of opened, read 44.1. 
+that round, read 96.1. When door 2 is opened, read 38.2. 
+
+Special Rules When door 3 is opened, read 12.6. 
+No more than half the characters 
+
+Introduction (rounded up) can start the scenario in 
+Not wishing to brave the harsh, the same room. Map Layout
+unforgiving waters of the sea, you opt to 
+hike along the coast instead. You trace it The scenario itself has (2+L)x2xC hit 02-E
+for several long hours, eventually arriving points. Track these next to the map. 
+at a series of immense fissures that cut deep All monsters find focus and move as 
+through the ice cliffs—fjords, blocking the normal, but whenever any monster 07-B 07-D
+
+way forward. Looking over the side, you does not have a primary target for 06-A
+can see the sea thrashing far, far below. one of their attack abilities, it instead 01-A 01-C 01-E 01-G
+
+attacks the scenario (once per attack 
+Staring into the distance, you spot a line ability). If the scenario’s hit point value 
+of white jutting across the gap—a bridge. ever reaches 0, the scenario is lost.
+You head for it and discover a series of 
+glittering limbs branching over the fjords. 
+At first they look to be made of ice: long, 
+pale shapes that arch over the fissures Scenario Key
+and connect on the other side, but as you 
+move closer, you realize they are made of Shrike Fiend Snow Door 4 Rubble 6
+bone—the ribs of a gargantuan creature 
+that fell here long ago.
+
+Snow Imp Large Snow 
+Corridor 3 Treasure 1
+
+The sea writhes below as you cross—huge, 
+ice-clogged waves crashing against the Wind Demon Snow Corridor 2
+cliffs. You spare only a glance, but the 
+sheer distance of the fall makes your knees 
+rubbery. When you look back up, you 
+realize that you are not alone on this bridge. Loot
+Several dozen feet ahead, at the apex of   x7 
+the rib, stands a tall man covered in a 
+cloud of black, thrashing wings.   x5 
+
+  x3 1
+“You have left your safety far behind,   x2 
+mortal,” he says, not with a human voice, 
+but with the collective shrieks and caws of   x1 
+his many birds. “This place is not meant   x1 
+for your kind.”   x1 
+There is no time to digest the warning. 
+In a flash, the cloud of raptors fly at you, 
+spanning the distance and snatching at 
+you with razor talons. You manage to keep 
+your footing, but a few of the birds have 
+landed on the bridge ahead and are pecking 
+at it feverishly. Their beaks are hard, and 
+surprisingly large chunks of ice and bone 1
+break off and fall into the ocean below.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+17
+
+
+
+14 • L2 Jagged Shoals  
+
+  Biting Sea
+
+Scenario Goals to wade toward where the shard directs. can feel, rather than see, that another shard 
+The scenario is complete when seven Suddenly a shape dashes in your peripheral of coral is stuck deep within. It will take 
+damage tokens are on snow rock A. At vision—something coming from the water. some time to pry out… longer than you 
+the end of that round, read 4.1. have. The amphibious predators have caught 
+
+Fish creatures, squat things with four up, and now they close in, teeth bared.
+legs and vicious teeth, crawl from the 
+
+Introduction ocean with hunger in their eyes. But your 
+Out on the water, the shard’s pull is attention is drawn elsewhere as the shard Map Layout
+stronger than ever. You let your mind draws you forward. Its pull is incredible.
+ease and allow the shard to guide the 
+way, steering your small crew farther and You run, leaping over crags until you find 13-A 16-A
+farther out to sea. It isn’t until just before a small flooded hole surrounded by jagged 
+sundown that you spot your destination: a stones. Peering into the murky water, you 
+sparse group of rocky crags jutting out of 
+the surf. The shard hums in excitement—
+you’re close. Special Rules
+
+At the end of the round, if there is at At the start of each listed round, spawn 
+The deck lurches as salt sprays over the least one character adjacent to snow  the following monsters at each listed 
+deck, but the hull is sturdy and handles rock A, place one damage token on it. location based on character count:
+the chop with ease. You anchor near the 
+smallest of the rocks and then disembark Round Two Characters Three Characters Four Characters
+
+Odd B: One normal B: One elite B: One elite 
+Loot Piranha Pig Piranha Pig Piranha Pig 
+
+Scenario Key C: Two normal C: Two normal C: Two elite 
+  x7 Lightning Eels Lightning Eels Lightning Eels
+
+Abael Herder
+  x4 Even D: One normal D: One normal D: One elite 
+  x2 Piranha Pig Piranha Pig Piranha Pig 
+
+Lightning Eel
+  x5 E: Two normal E: Two elite E: Two elite 
+
+Lightning Eels Lightning Eels Lightning Eels
+  x2 
+
+Piranha pig
+
+Large Snow 
+Corridor 2
+
+Snow Corridor 2 D C
+
+Huge Water 2
+
+Large Water 4
+A E
+
+Water 10
+
+ Large Snow 
+Rock 4
+
+Snow Rock 2 B
+64
+
+Treasure 1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+18
+
+
+
+15 • D7 Ancient Spire
+  Crystal Fields
+
+Scenario Goals what they’re carrying, and the sight of it of metal boxes and catches sight of you, 
+The scenario is complete when the cools your blood. Body parts—arms and releasing a high, visceral screech.
+Chaos Lieutenant is dead. At the end legs and torsos, cut from all manner of 
+of that round, read 70.3. animals, but you notice some Algox parts “Mortal scum,” it yells. “You dare intrude 
+
+as well—are being carried about as if they here with your filthy blood? I will take 
+were coal in a furnace room. The scale of pleasure in using your limbs to complete 
+
+Introduction the slaughter is staggering as you consider the cycle!”
+The iron spire towers over the barren the number of automatons scurrying 
+wastes, riveted metal covered in a thick through the chamber, carrying their loads The demon rakes a hand over a nearby 
+lens of ice. The thing stands taller than down a stairwell on the other side. panel of lights and, responding as one, 
+even the Great Sanctuary back in White the entire horde of automatons all cease 
+Oak, cutting through the daylight and Just then a ghastly looking creature made moving. Their gruesome cargo drops to 
+casting a long, foreboding shadow onto the of swirling prismatic smoke and a hard, the floor and then, slowly, they advance 
+snowy plain like some nefarious sundial. gnarled shell moves out from behind a row toward you.
+
+The opening mechanism on the black iron 
+door is wholly foreign, but with a good Special Rules
+deal of tinkering and prying, you finally The Chaos Demon is the Chaos actual range or line-of-sight. In addition, 
+manage to force it open and are greeted Lieutenant. It is immune to  and .  all hexes on tile 15-D are considered the 
+by a sudden blast of arid heat. Inside is a At the end of each round, in addition same distance away from tiles 1-B and 
+wide, echoing chamber filled with cogs to its normal turn in initiative order, it 6-B for the purpose of focusing with 
+and pistons and dozens of scampering performs  X, self, where X is (RxL)/2 ranged attacks.
+mechanical creatures. The creatures pay (rounded down), and R is the number of 
+you no attention at all, and instead hurry Ruined Machines currently on the map. Any character can spend 2 movement 
+about, carrying armfuls of debris down a points to move from any hex A to B, 
+single immense hallway. At the start of each even round, spawn but they cannot move from B to either 
+
+C-1 normal Ruined Machines at C. A. When any character enters tile 1-B, 
+Meeting no resistance, you make your way 2-H, or 6-B, all characters can no longer 
+inside the tower and travel down the main All hexes on tile 15-D are treated as in teleport from tile 15-D to any other tile 
+hallway until it empties into a wide circular range of any ranged abilities performed or move from A to B.
+room, where an enormous beam of sanguine on tiles 1-B and 6-B, regardless of the 
+energy crackles and hums, shooting up 
+from the chamber’s floor and piercing the 
+ceiling. It’s as if a small sun was harnessed Map Layout
+and imprisoned inside this tower.
+
+01-B
+
+This main chamber is filled with even 06-B
+more mechanical creatures. They still 
+
+15-D
+pay you no attention, but as some of them 02-H
+
+pass by, you manage to get a closer look at 
+
+– Continued on next page.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+19
+
+
+
+15 CONT. • Ancient Spire
+
+Scenario Key Loot
+
+  x8 
+Chaos Demon
+
+  x4 
+Robotic   x5 
+
+Boltshooter B   x2 
+Ruined   x1 
+
+Machine   x1 
+Large Metal A A   x1 
+
+Corridor 1
+
+Metal Corridor 2
+C
+
+Rubble 3 40
+
+Control 
+Console 1
+
+Metal Cabinet 4
+
+Treasure 1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+20
+
+
+
+16 • F10 Derelict Elevator
+  Crystal Fields
+
+Scenario Goals Special Rules Map Layout
+The scenario is complete when at least Tile 1-B is a fixed platform that tile 
+twelve rounds have passed and all 15-D is descending past. Place two 01-B
+enemies are dead. At the end of that damage tokens to the right of tile 1-B 
+round, read 48.2. to indicate it is currently two floors 
+
+below tile 15-D. At the end of each 15-D
+
+round, tile 15-D descends one floor, 
+Introduction meaning you remove one damage 
+
+Tall, evil-looking spires are one thing, token from the right of tile 1-B, or, if 01-D
+
+but you’re more curious about the squat there are none there, place one to its 
+structure that sits all alone in this forest left to indicate the number of floors it 
+of icy obelisks. The structure has been is then above tile 15-D. If, at the end 
+coated, like everything else in this part of of any round, a third damage token Scenario Key Loot
+the world, in a thick, rock-hard layer of ice. would be placed to the left of tile 1-B,   x8 
+Beneath that however, the walls appear the tile is then removed from the map.  Ancient 
+
+Artillery
+to be made of some kind of dark metal, Any character on it suffers trap   x4 
+though there’s no way to be certain without damage and is placed in the closest Flaming   x5 
+breaking through. So, not having any empty hex on tile 15-D. All other Bladespinner   x2 
+better option, you get to work on the door. figures on it die.
+
+Ruined   x1 
+Your equipment takes a beating, but the The walls between the two tiles do not Machine
+
+door takes one worse, and its icy seal block line-of-sight and can be moved 
+finally pops open, revealing a huge, through, though figures cannot end Debris 5
+lightless chamber. Inside, long rows of their movement on them. 
+bizarre, ruined machines stand amid 
+
+Treasure
+heaps of soot and broken glass. Moving 1
+further, you discover a suspended platform Section Links
+hanging in the center of the chamber. It’s At the start of the second round, read 
+an elevator: a circular metal disk, waiting 90.3.
+above a deep, not-at-all-ominous shaft, 
+and next to it you find a panel lined with 
+long-unused buttons and levers.
+
+You press a couple of the buttons, 
+expecting no response, but to your 
+surprise, a string of strange yellow 
+lamps illuminate the shaft below and the 
+platform shudders. You don’t want to miss 
+a free ride, so you jump aboard just as the H D G
+metal disk starts to descend.
+
+A E
+You feel good, all things considered. You’ve 
+conquered this with your muscle and wit, 
+and you take a moment to bask in your own 
+ingenuity. The strangeness of this place 
+was no match for you, and yet, somehow, C A
+it keeps getting stranger. Strange, like how 
+the lights in the shaft seem to all be turning B
+red. And strange too, how an alarm seems 
+to be howling from somewhere below. And C
+far stranger still is the way several panels 
+in the walls around you are opening up 
+to reveal large, rather unpleasant-looking H F G
+firearms that seem to be pointing directly at 
+you. Very strange indeed.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+21

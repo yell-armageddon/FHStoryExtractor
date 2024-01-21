@@ -1,0 +1,1331 @@
+﻿22.1 • Heart of Ice (4)
+
+Conclusion “We have no quarrel with the human The chief wordlessly raises her chin, a 
+The Icespeaker chief, his body immense town,” the Snowspeaker chief says. “In menacing blue light grows around the tips 
+and heavy, finally crashes into the ground. return for your aid, for now you will have of her fingers, and the grumbles stop. She 
+His frozen fists shatter like glass. For a no trouble from our tribe. Yet we cannot considers you again, and comes to another 
+moment there is silence. predict what the Icespeakers will do. If decision.
+
+you wish for safety, help us do away with 
+“You have helped us reclaim what is these blasphemers once and for all. Before “These warriors are here by the will of 
+rightfully ours,” a voice says. It’s the we came here, we spotted a group of Geryuu, and it would be foolish not to use 
+Snowspeaker chief, her brow bleeding. Icespeakers north of the Whitefire Wood. their aid. But one of our champions will 
+“Now you must tell me why you did it.” What they’re doing there, we do not know, aid them in this fight,” she says, “as any 
+
+but they will launch a counterattack if we good alliance requires both sides to be 
+Seeing no alternative, you opt for honesty: do not intervene. I charge you then: kill tested.”
+You say that you’ve come here in response those who wish us harm, and we will see 
+to the Icespeaker attack on Frosthaven on a about this peace.” Rewards
+mission to secure the town’s safety. You’d Unlock  class box. 
+hoped that by helping the Snowspeakers, Seeing peace within your grasp, you agree  
+you’d be able to broker some sort of to the terms. New Scenario: Frozen Crypt 5
+alliance, or at least a truce. You’re not sure 
+how sincere this all sounds with so much “Chief Lanprul,” one of the Snowspeakers 
+blood covering your clothes, but you do yells from the restless crowd. “We do not Section Links
+your best to put on a straight face. need these soft, tiny creatures to defeat the Immediately read 63.1.
+
+Icespeakers! Geryuu is on our side!”
+
+ 22.2 • Avalanche (6)  22.3 • Vermling Siege
+
+“It’s just snow,” you keep telling yourself. You rally the troops, massing them behind 
+You’ve faced the giant Algox, packs of the gate. When the alarm bell rings, the 
+wolves, and far worse threats on your doors open and Frosthaven’s finest flood 
+journey so far. You will not let snow through the opening. They charge at the 
+defeat you. You won’t even entertain the Vermling extortionists like their lives 
+possibility. depend on it.
+
+A
+Morale > 15: -10 
+
+Special Rules
+Remove all snowdrift and snow rock A 2
+tiles from tiles 2-E and 2-G before 75  3
+setting up tile 13-A. A
+
+No buildings are damaged during 
+Each A is an escape hex. this attack. Instead, for each target 
+
+that is unsuccessfully defended, lose 
+3 morale. If you fail two or more, 
+Wreck four buildings randomly by 
+drawing from the building deck.
+
+A guard draws his blade from the neck of 
+a Vermling. The leader with the orange 
+feathers is nowhere in sight, and the 
+
+ 22.4 • Deadly Pastimes (85) majority have fled back into whatever 
+burrows they came from. They won’t 
+
+Hoping to discover some passage out of consider Frosthaven such an easy target in 
+this small valley, instead you just find a the future.
+dead-end. But there is a suspicious patch 
+of snow on the far side.
+
+4 E Rewards
+Do not resolve an outpost event  
+this week.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+22
+
+
+
+ 23.1 • The Way Forward (38)
+
+Standing next to the altar is like standing Special Rules
+in the path of a storm. The black smoke A and B on tile 1-F represent the plane. Place one of their character tokens 
+darkens the air, making everything damp emissaries on the spirit plane. The As in their hex, then place their figure in B 
+and clammy. are counterparts, as are the Bs, sharing or the closest empty hex. All character 
+
+the same allies, enemies, initiative, tokens on the map share the same allies, 
+Gurndel and Barduu huddle against the conditions, and hit points. On initiative enemies, initiative, conditions, and hit 
+altar as more corrupted beasts emerge 99 each round, the emissaries on the points as their character, but do not act.
+from the woods. You expect them to swing spirit plane perform  2, focusing on 
+a weapon or else strike at the altar with moving toward and opening door 2. Set the round track to the first round. At 
+some spell, but instead, Gurndel simply The emissaries on tile 15-A no longer act. the start of each listed round, spawn the 
+raises a hand to the black smoke. Her eyes following monsters at the listed locations 
+go blank, and her body becomes still as Whenever any character is adjacent to based on character count:
+death. altar C, they may transfer to the spirit 
+
+Barduu shouts to you.
+Round Two Characters Three Characters Four Characters
+
+“We must fight the corruption from 
+within. We need your help inside, but 2, 3, 5, 6,  D and E: One D and E: One D and E: One 
+some must stay here and protect our 8, 9, etc. normal Hound normal Hound at elite Hound
+physical forms from these beasts.” each.
+
+ 
+With that, she too raises a hand to the 4, 7, 10, etc. E: One normal D and E: One D and E: One 
+cloud and then falls, her eyes turning a Polar Bear normal Polar Bear normal Polar Bear
+milky white.
+
+You must choose: some of your party must Section Links
+fight in the other realm and some must When door 2 is opened, read 75.3.
+remain here and protect the emissaries.
+
+2 A
+
+B
+
+ 23.2 • Temple Entrance (12)
+
+Conclusion surprises lying in wait. Near the doorway metal cord buried underneath the stone 
+How long has this place been hidden, you find a series of small indentations floor, and those cords in turn run farther 
+buried and forgotten by the rest of the set in the floor that glow with a faint blue into an eastern passage. That path is dark, 
+world? And how could these metal light. You dust them off and study their however, and there’s no telling how many 
+creatures still be functioning after all strange luminescence, realizing that the automatons wait at its end.
+that time? It gives you pause, this line of indentations are shaped much like the 
+questioning, because to answer it would automatons’ feet—conduits, perhaps, some 
+upturn your understanding of history way for the machines to regain power. But Rewards
+entirely. Perhaps, then, you should keep if that is true, then there must be a power Gain 15  each. 
+your thoughts on present matters. source.
+
+New Scenario:
+You search the preserved room carefully, You fiddle with the conduit ports and Temple of Liberation 20
+minding that you don’t trigger any discover that each is connected to a thin 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+23
+
+
+
+ 24.1 • Quatryl Library (26)
+
+Conclusion book aside when a voice makes you freeze. machines were once used as a source 
+While destroying machines doesn’t of cheap labor. To what end, I am less 
+quite provide the same satisfaction as, “I say, you’ve found one of my favorites certain, but, as their name suggests, the 
+say, slaying monsters, there is a certain there.” Unfettered work for themselves now. More 
+pleasure in returning the room to silence; troubling, however, is that they appear to 
+libraries should be quiet, after all. You turn and find a Quatryl, short, dressed be planning something, perhaps an assault 
+
+in rags, shuffling through the far door with if you want my opinion, and judging by 
+Looking around, you find that the room a heavy ball and chain shackled to his their numbers, I don’t know that any force 
+has held up better than you’d first thought. ankle. aboveground is prepared to take them on. 
+The shelves are packed with books, and I believe therefore, that we, or rather you, 
+many of them are still quite legible, “Of course, I’ve borrowed the best section may be the only party able to intervene in 
+though their pages are brittle to the touch. on something of a long-term loan,” the time. I can direct you toward their central 
+You while away some time browsing, and Quatryl laughs and fishes from his shirt a chamber.”
+discover two particularly illuminating sheaf of folded paper. “I’ll let you read it if 
+texts. you get me out of this thing.” There is no need for deliberation. Having 
+
+fought what machines you have, you’re 
+The first is an unusually shaped book, You go to the Quatryl’s side and, with a confident in Crain’s analysis: if you can 
+much taller and wider than the others. bit of effort, help him out of his restraints. stop the Unfettered from attacking the 
+Taking it down, you find within it a You learn that he is an academic named land above then you have to try. The 
+complex series of diagrams—maps, you Crain Tallengyr who ventured down here only question then is how to proceed. 
+realize—that lay out a portion of this one year ago on an ill-advised solitary Unfortunately, all this excitement has 
+complex. You find the library, demarcated exploration. He was eventually captured clearly caused the Quatryl some stress. He 
+by a scribble of ink and, from the library, by the machines and has been kept groans and holds his head.
+you can see two avenues branching prisoner ever since.
+outward: paths leading to what must be “Oh my, I think I need to lie down for a 
+the central core of this place. The map “They’re quite rude really, but they are an bit...” Crain stumbles and collapses to the 
+shows an immense inkwork of intricate, impressive force. Being their unwilling ground. If you want any more information 
+almost knotlike design: thousands upon companion all this time, I have learned out of him, it’s probably best to bring him 
+thousands of lines and shapes all leading quite a bit about the Unfettered.” back to Frosthaven and give him some 
+toward some great labyrinthian chamber. time to recover.
+You turn the page yet again and inside that You interrupt to ask about the name, 
+chamber you find another, smaller room ‘Unfettered.’
+made in a triangular design. The script Rewards
+below the map is confusing, but it looks “Fascinating isn’t it? That’s what they’ve Gain 10  each. 
+similar to the common word for ‘thought.’ named themselves, these machines. A bit  
+
+melodramatic if you ask me, but I suppose Locked Out Scenario:  
+The second book is even more helpful, it fits. Their origins are actually hidden in Rusted Tunnels 25
+though at first you take it for junk: the that tome you were about to toss.” Crain 
+cover is dry, cracked leather, and half the unfolds his sheaf of papers and shows 
+pages have been cut out. The pages that you more of the cramped, eye-glazing Section Links
+remain offer only a dense, tight script text. “The language is archaic, but I’ve Add 169.3 to the calendar in  
+written in a language far older than any been able to glean the general idea from four weeks.
+spoken today. You are about to toss the the illustrations. I believe that these 
+
+ 24.2 • Deadly Pastimes (85)
+
+Not wanting to cross that river again, you 
+push through another soft wall and into a # 3
+familiar-looking cavern.
+
+C
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+24
+
+
+
+ 25.1 • Collection’s Capstone (88)
+
+You enter the control room, filled with So close to the Collector, you take note Special Rules
+different gadgets that beep and click. The of his fractured, decaying form. The At the start of next round and each 
+Collector hums with energy as he speaks rocks that form the Savvas’s body are second round after that, spawn one 
+“So much life, wasted in your fruitless cracked and crumbling, held up only by a Savvas Lavaflow at A. It is normal 
+pursuit. But that is no matter, as you have shimmering aura of magical energy. It is for two characters, elite for each 
+brought your own juicy forms to me. I both beautiful and hideous. second spawning for three characters, 
+would have preferred to not get my own or elite for four characters.
+hands dirty, but your persistence just 
+proves your hardiness.”
+
+Boss Special 1
+The Collector performs: 
+
+A +0 
+06  +1, ( :+1 ), ( : ), ( : ) 
+
+: ,  all,  1 
+   
+
+Boss Special 2
+
+2 The Collector performs: 
++1 
++0, ( :+1 ), ( : ) 
+:  C, self  
+:  1 
+   
+
+ 25.2 • Trading Post Built  25.3 • Haunted Vault (17)
+
+“Guys, guys! This is all a This here?” She gestures around the You press down on the two matching 
+misunderstanding!” Xain, an acquaintance trading post tent. “This is your penance. plates and the far door unlatches. You 
+who always seems down on his You will put that entrepreneurial spirit to move forward, but something has shifted 
+luck, pleads as two guards push him work. You will receive shipments. You in these catacombs. You feel it before 
+unceremoniously into the tent of the new will sell goods. Honest goods.” you see it: a creeping tendril of frigid 
+trading post. Mayor Satha is waiting air reaching out behind you. You turn to 
+inside, arms crossed. Xain looks mortified. “But… but for how see an icy spectral figure looming high 
+
+long?” overhead, while at the same time a deep 
+“Mayor! I was just coming to see you, lamenting moan escapes from the newly 
+actually—I’d brokered a deal, a… a Satha brushes past him on her way out of opened room.
+fantastic deal! The Abaeli are willing the tent. “Until I say otherwise. And if 
+to polish the town guard’s weapons for you screw this up? I’m marching you out 
+a price you wouldn’t believe. I’d just of Frosthaven myself.” She nods at you in Section Links
+finished packing up the armory and was passing. “Look, it’s your first customers.” When door 3 is opened, read 62.3.
+going to surprise everyone tomorrow 
+morning—” “Oh, uhm. Hello.” Xain gives you a 
+
+sheepish smile. “Welcome to the trading 
+“And did you think that the Abaeli post?”
+wouldn’t attack while all of our defenses 
+were off being ‘polished’?”
+
+Rewards
+A A
+
+“No, they were… I mean, it was really an Add event WO-80 to the winter 
+excellent price…” Xain meekly trails off, outpost deck, event SO-61 to the 
+realization settling in. summer outpost deck, and event 2 B
+
+WR-41 to the winter road deck.
+“I have put up with your harebrained 
+schemes in Frosthaven for long enough. 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+25
+
+
+
+Locked Down
+ 26.1 • Glowing Catacombs (9)
+
+Passing through the narrow chamber, you Had you more time, you would stop and Special Rules
+reach what must be the end of this path. A investigate closer, take samples of the Open all doors 2.
+room extends out before you, the whole of slime for study. But time is short. As you 
+it bathed in the unnerving green glow. At stand there, a breeze lifts and pushes Switches A can be targeted by 
+the far end you see the source: a giant door against you. A foul wind. A warning. character attacks. Whenever either 
+covered in gears and unintelligible runes. switch is attacked, regardless of 
+It stands like some warded vault, pulsating damage, it is considered activated.
+vibrantly while a viscous emerald ooze 
+seeps from its cracks. At the start of each round, any switch 
+
+2 not activated spawns one Ooze. It is 
+normal for two characters or elite for 
+
+2 three of four characters.
+
+2 A
+
+A
+
+ 26.2 • Here There Be Oozes (84)  26.3 • Ice Floes (22)
+
+Conclusion beak-like skull, resplendent pink horns, and You drive the Lurkers, chittering and 
+Ooze drips and dangles from the ceiling, star-shaped hooves. Truly magnificent. clawing, from your ship, but there is no 
+slides down the walls, and lies generously peace yet. Below deck, you hear more 
+splashed about the cave floor, glistening in And then some slime gets caught up your creaking and crashing, as if your boat is 
+the torchlight. Covered head to toe in the nose, and you remember how deeply you being torn apart from the inside.
+gunk, you scoop a handful from your eyes desire to get out of this cave. Luckily, 
+and spend a brief moment just absolutely you encounter a creek on the way back to 
+hating life. Frosthaven and start washing off the gunk. Special Rules
+
+You see a few sheep grazing nearby and Border hex A is a stairway to below 
+So you quickly act, collecting a sample of give them a knowing thumbs up. deck and can now be entered.
+the goo in a glass vial. Given its unique 
+properties, who knows if it might be useful 
+later? You also take note of an interesting Rewards Section Links
+looking skeleton that was released when the Gain “Ooze Vial” 234 . Gain The first time any character enters A, 
+creature dissolved. It appears to have the “Brummix” campaign sticker. read 41.2.
+build of a deer, but with a tapered, almost 
+
+ 26.4 • Random Scenario  26.5 • Puzzle Solution
+
+You retrieve a hand-held mirror with an a while as the image treks through the Section Links
+elaborate silver frame, thinking, if nothing wilderness, eventually arriving at a cave If Glowing Catacombs 9  is 
+else, someone in Frosthaven should be filled with treasure. Looks like something complete, read 124.1 now.
+willing to pay something for it. When you worth investigating.
+look into its reflective surface, however, If Temple of Liberation 20  is 
+you don’t see your own image staring back complete, read 127.1 now.
+at you. Instead, it shows you an image Rewards
+of yourself walking out the main gates New Scenario: Ice Cave 111
+of Frosthaven. You watch the mirror for 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+26
+
+
+
+ 27.1 • Algox Scouting (2)
+
+Dodging boulders on the side of a “Quickly then, warm-bloods—help me Special Rules
+mountain wasn’t quite how you imagined fight these dirt-lovers. Aid me, and I swear The Algox Priest is an ally to you and 
+spending the morning, but you make it to aid you.” Her hand, though pinned, an enemy to all other monsters. If all 
+to the overlook without getting crushed. glows with a crackling blue energy. revealed enemies are dead, the Algox 
+However, just before you pull yourself Priest focuses on moving toward and 
+over the final ledge, a voice carries over opening door 2. If the Algox Priest 
+the wind, stopping you. dies, the scenario is lost.
+
+“Foul ice-pissers!” It shouts in a deep, 
+commanding cry. “You’re nothing but 1 Section Links
+petty blasphemers twiddling in your When door 2 is opened, read 6.1.
+caves.”
+
+You make it over the ledge and see the 
+owner of the voice pinned between two 
+boulders: she’s clearly an Algox, but she 
+is dressed much differently from the 
+brutes who were just hurling boulders at 
+you. Larger than her male opponents, she 
+wears ornate battle garb that marks her as 
+a prominent member of a different faction. 
+She turns to you with snarling hatred, 
+but softens when she realizes you’re not 
+friends of her enemies. 2
+
+ 27.2 • Derelict Elevator (16)  27.3 • Sacred Soil (69)
+
+What were once pebbles now are stones Special Rules Conclusion
+and cracked brick. Fist-sized hunks of Place one debris in each A. Any Carrying a case laden with soil samples 
+rock have begun to fall from above and figure occupying A suffers trap from all about the forest, you trek back 
+then crash loudly onto the metal floor; it damage and is placed in the closest to Liseritus’ humble abode and sit to 
+seems the shaft is collapsing. You keep empty hex. enjoy one more cup of tea as it sets about 
+clear of the shower, but now more debris is examining the samples. Using an array of 
+beginning to fall elsewhere. Spawn two Ruined Machines at magnifying glasses, Liseritus peers down 
+
+each H and one Ruined Machine at the soil, picking at it with tweezers, 
+at each G. These are normal for muttering, and scribbling notes.
+two characters, elite at G for three 
+characters, or all elite for four Not even breaking from its work, Liseritus 
+characters. breaks the silence. “This is going to take 
+
+longer than I thought. I will send for you 
+Set up tile 1-D as depicted. This tile when I have an answer.”
+follows the same rules as tile 1-B. 
+Place two damage tokens to the right 
+of it (i.e. it is currently two floors Rewards
+lower than tile 15-D). Gain 1 , 1 , and 1 .
+
+Section Links Pebbles rain down at B. This has no 
+At the start of the seventh round,  effect yet. Section Links
+read 44.2. Add 15.4 to the calendar in three 
+
+weeks.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+27
+
+
+
+ 28.1 • Mysterious Crate  28.2 • Algox Offensive (3)
+
+You bring the crate you found to Eddica She taps the horns coming out of her head. Their numbers are thinning. If you can 
+at the library. After a few hours’ wait “Valraths like me were originally created just get past this line, you should be able to 
+she’s compared every inch of it against from the infusion of demon blood into push through into the heart of this place.
+a growing stack of reference books. She humans—my people are the byproduct 
+mutters something concerning under her of corruptive meddling with genetics. It 
+breath. seems someone is trying to do the same Special Rules
+
+thing here.” She stands and straightens her Each A is an escape hex.
+“Well, that can’t be right. Must be a skirt, then gently scoops the cracked egg 
+coincidence…” It’s another four hours out from inside the crate to hold it up for 
+before she speaks again, shutting a book examination. “But with... Lurkers.”
+loudly enough to wake you from your light 
+dozing. 
+
+Rewards A A
+“Not a coincidence.” She gathers you Gain 10  each. 
+around her desk to walk through her  A A
+findings. “I think someone may be trying Do not resolve an outpost event this 
+to make a new Valrath.” She pushes week.
+up her red-rimmed glasses. “Droman’s 
+right; the crate is built with materials and 
+craftsmanship from the Eastern Continent. Section Links 2
+But most concerningly, elkwood and Add 178.1 to the calendar in three 
+Kivak fat are resistant to elemental weeks. 
+energy—demon energy.”
+
+ 28.3 • Flotsam (73)  28.4 • Crain’s Expedition
+
+Making your way through the floating Special Rules Crain’s research crew finally returns from 
+remnants of the Cinnabar, you note the odd Replace all doors 1 with corridors their expedition late in the evening. The 
+timing of all of this – the swift destruction as depicted. archaeologist is overjoyed and begins 
+of the ship followed by the sudden chattering about his discoveries to anyone 
+appearance of these fishmen. They must be who will listen. 
+after the second piece of the scale, but how Section Links
+could they command the sea like that? When any door 2 is opened, read  “It was marvelous! Oh, the incredible 
+
+143.1. things in that complex could fill a lifetime! 
+It’s amazing how much work you can get 
+done when you’re not locked in a cell. We 
+must return as soon as we can resupply!”
+
+The guards who had accompanied the 
+researcher don’t look quite as thrilled 
+about the prospect of another long journey 
+
+1 2 with the prattling Quatryl.
+
+1 C 2 Rewards
+Gain one random item blueprint.
+
+1 B 2
+Return one  card and one  
+
+1 D 2 card to the town guard deck. 
+
+Add one  sticker to one  loot 
+1 2 card (the card gives one extra  
+
+when resolved).
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+28
+
+
+
+ 29.1 • Old Coin  29.2 • The Tempus Forge (106)
+
+Your scrutiny of every looting opportunity With the elemental locks destroyed, you Special Rules
+has made sure you don’t leave a scrap of push the iron gate aside and enter the forge The City Guard is the Blacksmith. It 
+gold behind, but it isn’t turning up the room. Before you stands the blacksmith, has HxC hit points. At the end of each 
+ancient coins you’re looking for in this case. a human unnaturally corrupted by round, the Blacksmith performs  2, 
+
+demonic forces. This whole place must be self;  1,  all characters,  5, , 
+corrupted, used for some dark purpose that then all characters suffer  1.
+
+Rewards you have interrupted.
+The looting character gains X gold, 
+where X is how much gold one The blacksmith doesn't say a word. He just 
+money token is worth at L+1. roars with anger and charges.
+
+ 29.3 • Aesther Outpost 68
+
+“Your assistance... is needed,” the faint 
+whisper of Voice-of-Eight slips into your 
+mind, though they are nowhere to be seen. 
+“Please... hurry...”
+
+Rewards
+New Scenario: Core Attunement 67
+
+5
+
+ 29.4 • Fleeting Permanence (52)  29.5 • Puzzle Solution
+
+You find Crain much as you left him— cackling laugh that carries on far too long. 
+cloistered in his small room, surrounded You wonder when the last time he got 
+by his surreptitiously begotten books and some fresh air was, and ask as much.
+muttering to himself. However, unlike last 
+time, he’s up and moving around. “Fresh air? There’s no time! We have the 
+
+numbers—the numbers! Now I can get 
+“My pugilistic chum!” He says when to work on the alphabet, then we’ll know 
+you knock on his door frame, “What a what secrets hide in this book.” He holds 
+pleasure to see you again so soon! Have up the musty tome and a few pages fall 
+you already cracked the cipher then?” The onto the floor.
+Quatryl clicks his tongue and examines 
+your findings. He mutters, looks at his own “Which reminds me.” He retrieves another 
+notes, which are now nailed to the wall. slip of parchment from the wall and hands 
+
+it to you. This one is scrawled with a 
+4 “Ha!” Crain shouts. “Fancy that. Look section of text copied in the lost language. 
+
+here.” He tears down one of his sheets and “Let’s see how you do with this. Take 
+brings it over. On it are several lines of note, there are some scribbles there in the 
+the ancient numerical system apparently corner concerning two unrelated words. 
+copied directly out of the source text. Something about ancient technology. 
+Using your new system, he translates a few Not sure about any of it, but if you have 
+of the lines and ends up with a fairly basic two words that fit there, it might lead to 
+
+28 equation that he solves without trouble. something else.”
+
+“You’ve done it then,” Crain says with a 
+bit of guarded surprise. “Had you marked Rewards
+as a fighter through and through, but Turn to the next page in the puzzle 
+seems there’s a scholar trapped beneath book.
+all those muscles.” He lets out a high, 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+29
+
+
+
+Locked Down
+ 30.1 • Puzzle Solution
+
+Crain’s shed is dark and utterly silent. “Crain?” She shouts. into Crain’s jaw and he falls to the floor, 
+Not five minutes ago, you heard screams stunned. She holds him down while you 
+coming from inside along with the sound “It hungers for ruin-Nah.” Crain skitters bind him in the filthy sheet. It reeks of 
+of wood and glass crashing. But now that behind you and then over to a far corner. lamp oil and fever sweat.
+you’re here, everything is quiet. He crouches there, wrapped in a dark-
+
+stained sheet. Satha trains her light on “He’ll need time,” Satha says. “Seen 
+“I haven’t seen him for days,” Satha says him and you both approach slowly. “It plenty of winter madness, but this ain’t 
+next to you. “Figured that was normal lies deep, deep, beneath the soil, black- it. May take a while to turn around. He’ll 
+though.” She lifts her lamp and casts a ack soil, rich, waiting to rise. I found it. need some better quarters for a spell, and 
+beam around the darkened shed. The FouwNd it.” none of this research business.”
+place has been ransacked. Crain’s books 
+and shelves are all scattered on the floor. “What did you find, Crain?” Satha asks. Crain groans weakly in your arms. He is 
+His tools are everywhere, some of them glassy-eyed, mumbling to no one. “Yes, 
+stuck into the wall like throwing knives. “The bringer of ruin, fools—the abyss. It’s new quarters would be nice. A tavern 
+In the center of it all lies the remains of bound in the ropes. The one who waits. No perhaps. The mutton sandwich is 79 after 
+some new contraption, now reduced to more. It’s waking up now. Waking!” Crain all. Too bad we cannot stop it, though. It 
+bent metal sheet and broken glass. You turns and leaps at you, arms spread wide. will consume everything.”
+recognize three shattered domes that came The scholar is fast. His long hands scrape at 
+from the alchemist, along with samples your face but you hold him off. He thrashes, 
+that Crain gathered from the energy sites. reaching for your eyes, spewing gibberish. Rewards
+
+Do not turn to the next page in 
+“It hungers,” a voice whispers. Satha “Ityearnstowake! Sewtheseed-burnthesky- the puzzle book. Instead write the 
+flashes her light into the rafters and a vastnessofnightforeverdarkpainandru solution to the next puzzle on the 
+shadow dashes away. inandnothing—” Satha cracks her fist same page.
+
+ 30.2 • Algox Offensive (3)  30.3 • Raised by Wolves  (112)
+
+You duck and weave, winding your way Conclusion
+through the battle, dodging arcane blasts After a quick sweep of the cave, ensuring 
+and enormous Algox fists, but you manage no more demons are around, you begin 
+to sneak through without losing your head. to make your way back outside. The 
+Unfortunately, there are many more Algox 2 wolves all wag their tails and howl, a 
+standing in your way. victorious call for their hero. You kneel to 
+
+say goodbye to Wolfie, who licks you and 
+lets you pet its belly. Then you stand up 
+
+Section Links and leave Wolfie behind, heading back to 
+When door 2 is opened, read 28.2. Frosthaven with a single tear in your eye.
+
+Rewards
+1 Gain 15  each.
+
+ 30.4 • The Lead Door (103)  30.5 • Tower of Knowledge (134)  30.6 • Puzzle Solution
+
+Special Rules “It’s troubling,” Crain says. “Troubling.” 
+Spawn one Shrike Fiend at the closest You find the quatryl in his quarters, 
+nest, which the Shrike Fiend treats sulking behind a newly made desk, 
+as a corridor. It is normal for two cobbled together from scraps of wood and 
+characters or elite for three or four the legs of his bed. He’s poring over your 
+characters. work on the cipher, but it doesn’t seem to 
+
+1 be the breakthrough he was hoping for.
+
+– Continued on next page.
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+
+30
+
+
+
+ 30.6 (cont.) • Puzzle Solution  31.1 • Blizzard Island (48)
+
+“You sorted their letters,” Crain says. by text. “This tells of an experiment at 
+“I much appreciate it, but your solution the largest of a series of spires. They were 
+just leads to more problems. It seems apparently built not too far from here. But 
+the author of this tome has taken steps the experiment, I don’t know. All I have is 
+to shroud their work in deeper levels of this.”
+obfuscation.” Crain stabs his quill into his 
+ink pot and slouches back in his chair. Crain hands you a small scrap of paper 
+
+that shows a diagram of sorts. “I’m sure 
+“It’s not complicated by any means, just you won’t have any trouble working out 
+time-intensive,” he says. “I’ve got the what it means. See if you can find this 
+title at least: Project Source, by Mistress large spire and get to the bottom of it.”
+Torfi Logren. It appears to be a research 
+journal. These Quatryl researchers were 
+investigating some phenomena in the Rewards
+North. I can’t say what they were looking Turn to the next page in the puzzle 
+for, but this section here.” book.
+
+2
+He holds up the tome, open to a page with 
+a very small, very crude map surrounded 
+
+ 31.2 • The Collection (87)  31.3 • Jeweler Built
+
+You rush into the next room, but the Special Rules As the jeweler’s opens its doors, you feel 
+Collector is long-gone, apparently fleeing Door 4 is locked and will unlock particularly proud of its construction. At 
+from the commotion you caused. when doors 2 and 3 have been the worktables, craftspeople are absorbed 
+
+opened and all revealed enemies are in examining gemstones under magnifying 
+As you look around the cage, a voice dead. glasses, and standing at kilns or with 
+crackles above you. “Who are these new blowtorches, melting precious metals 
+morsels that have wandered into my into fantastic shapes. Their nimble hands 
+web? Normally I need the Algox to go seem to weave an air of sophistication 
+find my subjects, but you saved me the into Frosthaven. One Vermling jeweler 
+inconvenience. So diverse and succulent... approaches you, showing off a black opal 
+Let’s run some new experiments!” And he’s set into a broach.
+that’s when you see the giant automaton 
+lumber out from one of the cages. “What do you think?” His face tucks 
+
+shyly against his vest. “I’ve been 
+scouring the coast for these opals, and 
+now I finally have a use for them.” He 
+tells you he plans to sell them, then send 
+
+4 the proceeds to his family down south. 
+You’re pleased that you’ve created many 
+new livelihoods, and hope to see the 
+residents of Frosthaven wearing these 
+
+2 3 beautiful pieces now and again.
+
+Rewards
+Add event WO-77 to the winter 
+outpost deck and event SR-37 to the 
+summer road deck.
+ 
+Add items 156  to 159  to the 
+available item supply.
+
+1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+31
+
+
+
+ 32.1 • Orphan’s Halls (51)
+
+You burst into a large central room, and Section Links
+your heart drops. There are just so. Many. When door 2 is opened, read 137.1.
+Machines.
+
+They pour into the room in droves, but you 
+find your resolve. With Crain’s bombs in 2
+hand, your only hope is to punch a hole 
+through the main force and get to the hall A
+on the other side of the room. 56
+
+Special Rules
+Open all doors 1. B
+
+At the start of each round, spawn 
+one Ruined Machine at each A 
+and one Steel Automaton at B. A
+These are normal for two characters, 
+Steel Automaton are elite for three 
+characters, or all are elite for four 1 1
+characters.
+
+ 32.2 • Crackling Tunnel (31)  32.3 • Visiting Trader
+
+Special Rules The crackling escalates as you move A carriage piled high with blankets and 
+Remove tile 11-F and everything on it forward until the very air seems charged. carpets is tucked between a snowbank and 
+from the map. Rather than threatening, though, it is a building near the edge of town. Its old 
+
+welcome. Your muscles ache from the owner sees you wandering by and looks 
+All characters must lose one card from exertion, and the energy in the air lifts you both ways before beckoning you over.
+their hand or discard pile. up and keeps you going. Straight into more 
+
+machines. “Nice place, nice place this Frosthaven. 
+At the end of each round, all Cold though, eh? Heh. Maybe you’re the 
+characters occupying or adjacent sort of people who would like some hot 
+to any power conduit tile suffer items.” He chuckles a bit to himself as 
+hazardous terrain damage, while all A he pins back a blanket on his carriage, 
+enemies occupying or adjacent to any revealing assorted items in like-new 
+power conduit tile will perform  condition.
+
+ X, self, where X is the hazardous A A
+terrain damage value. “I just need a few motivated buyers. 
+
+Shouldn’t be trouble up here, no… but I 
+When all revealed enemies are dead, wouldn’t wear these out in, let’s say, uh, 
+each A becomes an escape hex. Gloomhaven for a while. Heh.”
+
+You’re not planning on heading south to 
+that decrepit city any time soon. Might as 
+well pick up a few items at a steal of a price.
+
+Rewards
+Each character may buy one item 
+from the purchasable item supply 
+for its listed price or one material 
+resource for 7 gold.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+32
+
+
+
+ 33.1 • HE-RO-IC-S  33.2 • Nerve Center (44)
+
+If building 88 is built, read 135.4 Conclusion a scoffing noise, as if to dismiss your 
+instead. The final tower erupts in spectacular explanation as nothing but lies.
+
+fashion. A sharp whistle blows like a 
+The mechanical unit HE-RO-IC-S massive kettle coming to boil and the top “And now you return. Never content. You 
+approaches you, its antennae drooping of the tower bursts, releasing a plume of cannot tolerate that your former slaves 
+with dejection. “I CANNOT FIND A bluish smoke that mushrooms and drifts could live free of your tyranny. No... We 
+SUITABLE HOUSING UNIT IN MY up to the high ceiling above. It smells must bow, or be destroyed.” The Orphan’s 
+NEW HOME. IT IS NECESSARY FOR of charred pine and spring rain, and as words drip with bitterness, the blue glow 
+MY FUNCTION. PLEASE BUILD ONE this last tower falls, so too do the enemy flaring angrily behind its mask as it turns 
+SOON SO I CAN BEGIN HELPING!” machines. They stumble and collapse to back to you. “So tell me, masters. What 
+
+the ground, twitching. All that’s left now would you have me do? Kneel? Beg for 
+is their leader. You ascend the stairs to its peace, hoping you’ll spare these children 
+
+Section Links overlook, and with each step you feel hope you abandoned? Or are you simply here 
+Add 33.1 to the calendar in three returning. to end what you began with your barbaric 
+weeks. invasion of our halls, and destroy us once 
+
+You find the machine waiting on its and for all? Tell me. Tell me what you 
+platform, its face an unmoving mask of believe is right, you who intrude here.”
+steel. The Unfettered leader, far from 
+being an imposing figure made for combat Silence stretches between you. If what 
+
+ 33.3 • Tower of Knowledge (134) or destruction, is in fact little more than the automaton says is true, that these 
+a basic automaton. Its arms and legs are machines were built with the capacity for 
+awkward steel shafts and its chest is a reason but used as mindless slaves and 
+small barrel-shaped container. Its body has then tossed aside, you can’t blame it for 
+
+B even been patched in several places with feeling wronged. And yet, these Unfettered 
+ragged pieces of copper and brass that give have used their independence to wage 
+a haggard appearance. But its eyes: those war against the world at large, Frosthaven 
+glow blue with fresh intensity. included. They freely attack anyone who 
+
+they see as an enemy, and did this machine 
+1 “You,” the automaton says. “You come to not say just a moment ago that they 
+
+our home and lay waste to it. You, who would lay claim to the world’s surface? 
+bound us in servitude and then abandoned Thousands more machines of every type 
+us, you come to immure us once again?” stalk these halls; how much havoc could 
+
+they wreak if allowed to invade?
+The vitriol behind the accusation strikes 
+you as much as its content. The history of So then, you have a choice to make. It 
+
+ 33.4 • Pylon Problems (115) this place is clearly a sad and violent one, seems that when you carved your way to 
+but you object to this machine thinking the core of this place you inadvertently 
+
+Conclusion you had anything to do with it. Perhaps it became envoys for the surface dwellers. 
+With the Algox raiders defeated, Droman thinks all organic beings are connected, You can either try to broker peace with 
+says he can clean up the rubble and somehow, like the machines seem to be? the automatons 59 , or you can destroy 
+reinforce the remaining pylons to be them 58 . There is no knowing what either 
+much sturdier. This was the final obstacle “You look surprised,” the machine choice will bring or how many lives hang 
+stopping traffic through the shortcut; says. “Perhaps you did not expect us to in the balance, but you are the ones who 
+if there’s still time in the season after persist? You expected that we would journeyed this far. You are the ones who 
+Droman’s crew finishes cleanup, Satha simply remain here, lifeless forever. No. I are here, now, for the final negotiation 
+might be able to send for a caravan of persisted, after I was left here, orphaned with the Unfettered, and so you are the 
+much-needed resources. by the overseers.” It pauses, weighing the ones who must decide.
+
+moment. “That’s what I am, you see—the 
+Orphan. And I am the one who revived us, 
+
+Rewards who brought us back to life—me, the one Rewards
+Gain 15  each. you forgot.” Gain 5 gold each. Gain “Energizing 
+
+Baton” 073  blueprint. 
+You explain that you weren’t the people  
+
+Section Links who built or enslaved the Orphan—that, in New Scenarios:
+ Add 66.2 to the calendar in X+1 fact, you don’t know who they were at all, Orphan’s Core 58  , 
+weeks, where X is the number of and they must be long-dead. The automaton Automaton Uprising 59  
+pylons destroyed. just looks down at the still, twisted shapes Choose one.
+
+of its kin and shakes its head. It makes 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+33
+
+
+
+ 34.1 • Temple Entrance (12)
+
+You push forward, delving further into 
+this hall, wondering at its purpose. From 
+what you can gather, this place is no tomb. 
+There is no smell of decay, but neither is 
+there one of life. You enter a room that’s 
+somehow managed to withstand the 
+beating of time. Here the floors are still 
+intact, and the stone is less worn down. 
+Of course, that comes with a trade. As 
+you enter the new room, another group 
+of mechanical creatures turn, these ones 
+wholly put together and preserved, their 
+sharp metal bodies glinting in the low, 
+flickering light of your torches. 1 09
+
+ 34.2 • Snowspeakers in Trouble  34.3 • To Bury the Dead (95)
+
+It’s been only a few weeks since the they can hardly tend to their wounded, Conclusion
+Snowspeakers were destroyed at the spire, much less rebuild. Satha continues, “The The darkness seems to gather a little 
+but it has felt like years. You nurse your problem is, I can’t justify sending out thicker about the grave, and the clouds 
+wounds and keep yourself numb with a supplies to a clan of Algox. These people move faster. As the cold earth is tossed 
+steady diet of ale. Your dreams do not let never spared a thought to help us.” down upon the coffin, you recite prayers 
+you rest. They replay scenes that you wish of the Oak in Camilla’s name while 
+you’d forget—scenes that make you wake It’s an understandable position, but the her family, who arrived once the area 
+up in a panic. Your cuts and bruises have Snowspeakers’ plight feels personal. Ever was made safe, waves smoldering oak 
+healed, but deeper wounds remain. You since the battle of the spire, you’ve felt a branches, infusing the air with smoke. 
+work and try not to think. weight hanging over you. This presents an This is certainly far from your typical role. 
+
+opportunity to lighten it. You can only hope you’ve played it well 
+On this unusually warm morning, Satha enough. At the very least, everything in 
+comes to rouse you from your hangover You make a deal with Satha: if she can the graveyard, including Camilla herself, 
+herself. A few dozen Snowspeakers have offer half the requested supplies, then you has calmed.
+gathered outside Frosthaven’s gates to will carry them to the tribe and help the 
+plead for aid. They are in poor shape, Snowspeakers yourself. The suggestion Her two granddaughters invite you back 
+thinned down to their ribs and leaning on makes her grin. to their house for a reception, though you 
+cracked staves. decline. The payment is fine, of course, 
+
+“You southerners are too soft,” she says, though the night feels somehow solemn 
+“A hard sight if I’ve ever seen one,” Satha but her smile widens, and she agrees to the and more suited to quiet contemplation 
+grumbles. terms. now. You step away and pause to look up 
+
+at the black sky. Rest in peace, Camilla.
+The Snowspeakers apparently managed 
+to set up a small camp on the outskirts of Rewards
+the Crystal Fields, but they’re so battered New Scenario: Relief Effort 40 Rewards
+from the war and the ensuing retreat that Gain 1 morale. Gain 10 gold each.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+34
+
+
+
+Locked Down
+ 35.1 • Ancient Technology Solution
+
+Ever since Crain has come to live in Crain begins to mutter to himself as he Crain marvels. “It’s some sort of combat 
+Frosthaven, he has been incredibly busy pores over all the details of the machinery. robot, but there’s still one problem. While 
+working out the intricacies of the ancient “Yes, perhaps if we insert this into that, I got its engine running, I can’t get its 
+diary, but, given its glyphs match the this drill could be an arm of some sort...” circuitry to activate. From what I can tell, 
+markings on the ancient technology you You try to get a better look at what he is it will remain dormant until a specific 
+found, at some point your patience gives doing, but he shoos you away, demanding code phrase is uttered, and I have no idea 
+out. You enter his longhouse with the that you only come back when it is done. what that is.”
+various bits of technology and ask for his 
+help. He doesn’t call for you until a week later. Completely transfixed, you approach 
+
+You enter his abode once again and are the machine and speak the words that 
+Rather than being annoyed, Crain’s eyes astounded to see a giant mechanical you know to be correct: its name, Metal 
+light up at the sight of the machinery. creature standing before you with arms, Mosaic.
+“That’s quite a collection of interesting legs, and a steam engine chugging away, 
+items you’ve got there! In fact, judging providing power to a central core.
+from these markings, it looks like they Rewards
+may all be parts of some larger device. “I had to add a few parts here and there, Unlock  class box.
+Astounding!” but I’m sure this was the original intent,” 
+
+ 35.2 • The True Oak (70)
+
+Conclusion But then your thoughts turn to who else will up again. I think the True Oak must remain 
+All around you, the zealots lie dead, their come in time to destroy the True Oak. You a myth while these zealots remain.”
+blood soaking the ground of the glade, set off back to Frosthaven and Liseritus, 
+returning to the cycle of life. Peace and where you are met with a warm embrace. You nod again in agreement. “Then it is 
+quiet returns. Birds chirrup and sing, and settled. How about some tea?”
+deer emerge from the forest to feed from “The Oak? Is it safe?” You nod, and the 
+the lush grass. Within this calm, you are botanist lets out a long sigh. “I am glad it 
+able to sit in the splendor of the True Oak, stands, and proud to say we have found it. Rewards
+soaking in the sun and cool air, taking the But that will not be the last of the Radiant “The True Oak” quest complete. 
+time to contemplate and rest. Order if we spread the word of its existence. Gain 1 prosperity.
+
+And I don’t particularly want to get roughed 
+
+ 35.3 • Tavern Upgraded
+
+“Here’s the deal.” Dinah Snapclaw, salty Dinah spins around and sneers with a deep With that, she rises, tossing her stool 
+Vermling proprietor of the Boiled Crab growl, leaving the patron apologizing across the tavern with a clatter.
+tavern, has dragged a stool over to your and backpedaling. No wonder The Crater 
+booth uninvited. She stares at each of you has been busier than ever. She turns her She shouts to the room: “Drinks tonight 
+with an intensity that, despite her small attention back to you. are free and tongue lashings are on tap! 
+stature, makes you feel a bit like a hostage I’m in a good mood.”
+in the conversation. “He told me time and again that he knew 
+
+of the biggest haul—the one earned by the 
+“I used to sail with Barty Half-Ear, most Pirate Queen. Knew more about it than Rewards
+successful pirate on this coast. A Lurker most,  even told me the secret to find it. Gain 1 morale.
+got half his ear, but I was supposed to Four ancient coins: he had one, I found  
+have half his treasure. ’Til he betrayed me, another. That haul was part mine by rights.” Add loot card 1419 to every 
+tossing me to the piranha pigs like I was scenario loot deck in addition 
+the scullery boy.” She pauses to spit on the She pops her neck with a loud crack, then to the normal loot distribution. 
+floor, and you don’t interrupt to ask why continues. “He had an old hideout. I’d bet When drawn, read any one section 
+the scullery boy deserved such a fate. “But this crummy bar he’s storing that coin of number depicted. 
+I lived, and I want what’s mine.” his there. Go and get it.” She flashes the 
+
+coin hanging around her neck. “Come to New Scenario:
+A patron who is new in town taps Dinah me with all three coins and I’ll share what Abandoned Hideout 136 .
+on the shoulder, inquiring about a drink. I’ve got. Then we’ll get rich together.” 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+35
+
+
+
+Locked Down
+ 36.1 • A Contained Fire (89)  36.2 • Tome Solution
+
+You see the haggard frame of an Algox “This is incredible! Do you realize what calmer, but a broad smile makes clear 
+inside a small prison at the base of the you’ve found?” Eddica the Librarian is she’s ready to share the results.
+statue. Judging from the smell, she’s borderline giddy with excitement at your 
+clearly been in there for some time. A discovery. “There is no written record “Belara, a Savvas channeler, did write the 
+hastily scribbled sign posted on the cage about this at all, but look—this decoration Tomes of Power. But the power turned 
+reads “Faye, embodiment of inadequacy”. isn’t a decoration at all, but an indicator the Savvas to evil, and it threatened to 
+
+of the lettering on this page—and this use the tomes against all of creation. 
+“Get me out of here, and I swear I’ll rid crossed out punctuation on the third page? The Orchid High Council had to step in, 
+this place of that hateful creature,” she It’s not crossed out, it’s upside down!” which is exceptionally unusual for them. 
+yells at you. “You’ll have to take this It wasn’t easy, but the Tomes were wrested 
+whole thing down to do it, though.” One There’s a manic intensity about her as she away and scattered to make sure Belara 
+look at the construction, and you can flips between the pages of the four tomes, would never wield them. The fight should 
+see she’s right. The resolve in her voice comparing and contrasting diagrams and have killed the poor Savvas, but instead 
+convinces you it could be worth the effort. errant ink-stains. its mind was cracked in half by the High 
+Besides, this ridiculous statue deserves to Council and it was sealed away to live out 
+come down. “And the imagery of the warding circle? its days.”
+
+The one that was a bit too wide and nearly 
+made me blow up the whole building—” Eddica takes a deep breath, but looks 
+
+Special Rules she sees your shock, “Oh, don’t look at me too embarrassed to make eye contact. 
+Altars A and B can now be damaged. like that, I didn’t blow us up. It was fine!” “I… I know where Belara is. I’m not 
+Each has (1+L)xC/2 hit points (rounded She straightens her skirt out of habit and saying you should go, obviously that 
+down). They are enemies to you and defiantly continues. “Look! It overlays would be madness… but in the interest of 
+allies to all monsters. perfectly on the language in the Tome of research…”
+
+Time! There’s meaning here—these aren’t 
+just individual tomes, they’re a complete 
+
+Section Links hidden history!” Rewards
+When both altars A and B have  New Scenario: Belara’s Keep 135
+been destroyed, read 119.2. You leave Eddica to her research and 
+
+return a few hours later. She’s thankfully 
+
+ 36.3 • A Waiting Game (117)  36.4 • Old Coin  36.5 • Fleeting Permanence (52)
+
+You spot some coins that are undoubtedly 
+A old, but don’t match the description Dinah 
+
+Snapclaw at the Tavern provided. Still 43
+worth something, though.
+
+2 Rewards
+The looting character gains X gold, 
+where X is how much gold one 
+money token is worth at L+1.
+
+3
+
+ 36.6 • Deadly Pastimes (85)  36.7 • Ancient Technology  36.8 • Puzzle Solution
+
+You get close to the scorched body and You find a pile of scrap machine parts You and Crain stand in the Quatryl’s 
+quickly realize this isn’t the husband in one corner of the cavern, along with a study, looking down at his desk. Atop 
+either. This is a Savvas, which begs the single sheet of frail parchment. it sits a shard of ice that you took from 
+question, why would a Savvas cast itself the Prince of Frost’s realm, and next to 
+into lava? the   unjhjx   yhkf   n   xipmf  it is Crain’s lamp. Nothing is happening. 
+
+ymj   ltqjr   pbzrf   mh   axut  The lamp flickers green, but the ice sits 
+ny   mjyuem   bml   gtfx  stubbornly frozen and unchanging—no 
+rjyfq   yaemuo vapor, no energy.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSI–O CNo.ntinued on next page.
+36
+
+
+
+ 36.8 (cont.) • Puzzle Solution  37.1 • Expedition North (82)
+
+“Nothing,” Crain says. “It’s not related not too far from where you were. A forest.” Conclusion
+at all to the energy we’re researching. Crain takes a pair of tongs and removes his It is a harsh trek through deep, fresh 
+Though, I do recognize a few things in heated orb. It’s glowing now, a dark red ball snow, but you finally reach the outskirts 
+your report.” Crain snuffs out the lamp that he immediately plunges into a bucket of the unnatural storm. The way back to 
+and moves over to his small fireplace, in of water, filling the room with steam. Frosthaven is a long one and so, on the 
+which he’s worked a stifling blaze. “That return through the pass, you are happy 
+bit of verse I translated—which, let’s hope “That look on your face reminds me of to find a natural cave to set up camp for 
+there’s no more of that—it mentioned an Satha. ‘Crain stop smelting metal in your the night. You build a nice roaring fire to 
+Ice Prince not unlike the creature you quarters, Crain stop testing elixirs on the warm up the rescued mercenaries, and they 
+found. Spoke a good deal about capricious watchmen, Crain stop trying to capture slowly come back to their senses.
+spirits and the like, beings that appear lightning in a cage.’ A bunch of worriers, 
+during northern storms and vanish into the the lot of you.” Crain reaches his tongs They ask how you found them, and when 
+air. Logren found the poem and thought the into the bucket and pulls out the cooled you mention the message of the Aesther 
+creature might be related to the energy.” orb. It’s taken on a deep black color and woman, their eyes light up. “Cassandra!” 
+
+there are faint scratches going all around One of them shouts in surprise. They 
+Crain tosses two handfuls of kindling its exterior that look similar to the ancient explain that the Aesther used to be part of 
+onto the already roaring fire. You squint at quatryl writing. their adventuring group. As dusk falls, you 
+the flames and spot a small object that he listen to stories of their exploits, relaying 
+seems to be heating: a brass orb, except it “Just go explore that forest already. Torfi’s back some of your own adventures, until 
+can’t be brass because it hasn’t melted or notes say something about an energy you eventually fall asleep.
+changed shape. source, and then “up, down, right”. If 
+
+you can figure out what that means, You return to Frosthaven, and there the 
+“Her team found the Ice Prince, same then maybe I will be able to figure out rescued adventurers convalesce for some 
+as you, but their visit didn’t go as well. this blasted experiment!” Crain says time. Once ready, they move on to their 
+She ultimately ruled it out as an avenue this with finality and dumps the orb true goal, the Aesther outpost, where they 
+for investigation, too dangerous and no unceremoniously back in the fire. teach Voice-of-Eight how to craft some of 
+obvious connection to the energy. I’d been the equipment from their adventures.
+hoping she made a mistake but no, she 
+doesn’t seem to make any.” Crain takes Rewards
+up a pair of billows and works the flames Do not turn to the next page in Rewards
+until they’re practically scorching his face. the puzzle book. Instead write the Gain 2 prosperity. Add the following 
+
+solution to the next puzzle on the Forgotten Circles items to the 
+“In any case,” he says, head turned from same page. Frosthaven supply: 153, 159, and 161
+the heat. “They did speak of an energy site 
+
+ 37.2 • Crackling Tunnel (31)
+
+After the initial encounter, the tunnel falls Special Rules
+back into silence. As you follow the path, Remove tile 7-H and everything on it 
+the hum of energy crackling through the A from the map. 
+conduits along the wall intensifies. And 
+then a snap. You jump back, and a bolt A A All characters must lose one card from 
+clatters to the ground. You turn to find a their hand or discard pile.
+small garrison of machines have emerged 
+from up ahead. Back to the grind. At the end of each round, all characters 
+
+occupying or adjacent to any power 
+conduit tile suffer hazardous terrain 
+
+26 damage, while all enemies occupying 
+or adjacent to any power conduit tile 
+will perform  X, self, where X is the 
+hazardous terrain damage value.
+
+Section Links
+At the start of the next round after all 
+characters have been removed from 
+the map, read 32.2.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+37
+
+
+
+ 38.1 • Frozen Crypt (5)
+
+Conclusion down. It’s clear this complex continues, without the right equipment would be 
+Silence is something you’re beginning  and that some bizarre power lies hidden suicidal. If you want to give chase, you’ll 
+to treasure. within. The question is whether it’s worth have to come back with a sled.
+
+investigating 9 .
+All around, the crypt is littered with 
+broken bodies, the dusty remains of The other option, of course, is to continue Rewards
+the undead horde smashed to bits. The hunting the Algox that dropped you in Gain 2 collective . 
+altar, which had been pumping out its here 10 .  
+necrotic fume, now decorates the floor New Scenarios:
+as rubble. In its place, a beam of eerie However, after scrambling your way out Glowing Catacombs 9 , 
+green light trickles from a new gap in of the pit, you realize that your quarry’s Crystal Enclosure 10
+the wall. You move closer and discover tracks lead from the forest out into the 
+a passage that appears to lead farther frozen tundra—attempting to follow 
+
+ 38.2 • Frozen Fjord (13)  38.3 • Trading Post Upgraded
+
+You enter the trading post and its 
+proprietor, Xain, is nowhere to be found. 
+On the counter is a lockbox with a 
+handwritten sign posted on the front: 
+
+2 “Prices marked. Drop coin in slot.” The 
+rainbow parrot, Squabbles, watches your 
+confusion carefully.
+
+After a moment of browsing the bird 
+emotes a pitch-perfect rendition of 
+Xain’s voice: “BWAK! Xain is currently 
+drumming up new and exciting 
+opportunities to stock these shelves. Or 
+
+ 38.4 • Spire Basement (23) whatever. Yeah… Just tell Mayor Satha 
+that if she comes around, okay? That’ll 
+
+Section Links give me a few hours to find a drink around 
+When door 2 is opened, read 55.3. here. And unpack these boxes… BWAK! 
+
+2 Well you have a beak, don’t you? BWAK!”
+
+It does look like there are a few choice 
+items from down south now on display. 
+You try on a pair of goggles and briefly 
+consider what would happen if you just 
+walked out with them. Before you can 
+decide, the eagle-eyed bird takes notice 
+and taps the lockbox expectantly.
+
+You can guess who taught it the high-
+pressure sales tactics.
+
+1 Rewards
+Add items 138  to 146  to the 
+available item supply. 
+
+In addition, add any of the 
+following items you have unlocked 
+from Gloomhaven: 46, 83 to 88, 102, 
+110, 111, 120 to 123, 126, and 128.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+38
+
+
+
+Locked Down
+ 39.1 • Derelict Elevator  (16)  39.2 • Living Glacier (45)
+
+As if one Bladespinner wasn’t enough, With a piece of the glacier now secured in ever-growing army of fish-men aren’t 
+another wave lands to join the fight. your pack, there’s just the small matter of going to make it easy.
+Within seconds, they unfold their blades getting back to the boat, and the  
+and move forward, adding to the whirring 
+vortex of steel.
+
+Special Rules
+Spawn the following monsters at the listed locations based on character count:
+
+Special Rules
+Place one debris in D. Any figure Two Characters Three Characters Four Characters
+occupying D suffers trap damage and 
+is placed in the closest empty hex. A: One elite  A: One elite and one A: One elite and one 
+
+Piranha Pig. normal Piranha Pig. normal Piranha Pig. 
+Spawn one Flaming Bladespinner at B: One normal  B: Two normal  B: One elite and one 
+both E and F. These are normal Abael Scout. Abael Scouts. normal Abael Scout. 
+for two characters, elite at F for C, D, E, and F:  C and E: One elite  C, D, E, and F:  
+three characters, or both elite for four One elite Lightning Eel. and one normal Two elite Lightning Eels.
+characters. Any figure occupying Lightning Eel.  
+E or F suffers trap damage and is D and F: One elite 
+placed in the closest empty hex. Lightning Eel.
+
+ 39.3 • The Unfettered Seal (62)  39.4 • Puzzle Solution
+
+“This is the spot!” Crain professes with “And how many metacarpals do you “Research,” Crain says, showing you his 
+confidence, his machine oscillating suppose it has—I-In total?” This question notes. From what you can tell he’s creating 
+violently behind him. “I’d stake my comes from Crain, who you find at the a zoological catalogue of creatures in the 
+reputation on it!” At this point, Crain’s stables, pen and paper in hand, trailing the North, but the information written next to 
+confidence isn’t exactly contagious, and so stable master while she tries to work. each animal seems dubious at best. The 
+you brace for the worst. entry for field mouse, for example, reads: 
+
+“For the last time, I don’t know.” The Inox hibernates ten months per year, possible 
+When the pulse comes, it is like tiny says. She’s marching along the stalls, cannibal, poisonous?
+daggers stabbing through your insides and dropping in pitchforks of hay and trying 
+twisting, pulling you apart. You scream very hard to get Crain to leave her alone. “It’s the device,” he explains. “In order 
+and look to Crain for solace, but he just to calibrate it against things ‘not of this 
+taps the readout screen with confusion. “You say that, but I’m sure you have a realm,’ I need to know more about what 
+Then he mutters something about polarity guess,” Crain says. “Does twenty sound actually lives here. Problem is, I’ve never 
+and turns the screen upside-down. correct? Or maybe twenty-four? I’ll write had much talent for biology, so I need an 
+
+down twenty-four.” expert, or actual specimens to study.”
+“That’s the problem!” He turns to you 
+with a very unearned smile. “Don’t worry, You approach, and the stable master “And what will you do to these 
+I’ve got it now. Turns out the ideal spot is gives you a silent plea that’s common in specimens?” The Inox asks pointedly. 
+exactly where we started. Imagine that!” Frosthaven as of late, mainly from Crain’s Crain finally takes this as a cue to leave, 
+
+victims. and you follow him outside.
+He laughs. You are not amused.
+
+“And their diet, I suppose it’s mostly, “Oh everyone is so sensitive,” he huffs. “I 
+what, insects? No. It would be grasses. But don’t have to dissect them. I just need a 
+
+Special Rules there is no grass in the winter. So maybe large variety of animals to observe. If you 
+All characters suffer trap damage. they eat bark.” are able to fill the stable up, that should be 
+
+plenty.”
+Crain’s current goal is now A. She turns on the Quatryl, “I swear, 
+
+Tallengyr, if you ask me one more blasted 
+Remove any one of the six numbered question—” Rewards
+tokens from the scenario, then shuffle Turn to the next page in the puzzle 
+the rest face-down. You interrupt, gently, and try to diffuse the book.
+
+tension by asking Crain what he’s doing.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+39
+
+
+
+ 40.1 • Brummix  40.2 • Dead Pass (46)
+
+Save this section and read it in the Special Rules
+place of your next road event. If you At the start of each round, place one Any character may forgo a top action 
+are not reading a road event before damage token in each A that is both (discarding the card instead) to harvest 
+your next scenario, add 40.1 to the empty and has all its adjacent hexes  all new snows in one adjacent A, 
+calendar in one week as a reminder. unoccupied. These represent new snow. placing them on their character mat.
+
+If any figure enters any A or any 
+You trek through the newly fallen snow, overlay tile is placed in any A, remove Set the round track to the first round. At 
+and your mind turns to the elusive all new snows from that hex. the start of each listed round, spawn the 
+brummix. You have seen their tracks, their following monsters at the listed locations 
+images, their horns. There must be a pack based on character count:
+of them somewhere up here in the North, 
+but you wonder if you will ever get to see Round Two Characters Three Characters Four Characters
+one of the majestic creatures up close.
+
+2 B: One normal B: One normal B and C:  
+Just then, you look down and see the Burrowing Blade Burrowing Blade One normal 
+tracks. Star-shaped and delicate. A Burrowing Blade
+brummix is nearby.
+
+You stalk silently through the brush, 4 C and D:  B, C and D:  B, C and D:  
+following the tracks, laid in the snow as One normal One normal One normal 
+clear as day. With as much care as you Burrowing Blade Burrowing Blade Burrowing Blade
+can muster, you come upon one of the 
+creatures drinking from a small stream. It 
+raises its head and turns, staring right at 6 B and C:  B: One normal B and C: One elite 
+you. You are awestruck. One normal Frozen Frozen Corpse Frozen Corpse
+
+Corpse C: One elite  
+It looks at you and sees you. Somehow, Frozen Corpse
+you understand that it understands. It 
+trusts you. It knows that you respect it, 8 C and D: One B and D: One B, C and D: One 
+and it wants to help. It approaches you normal Shrike Fiend normal Shrike Fiend elite Shrike Fiend
+and lowers its head, giving you back your C: One elite  
+respect. It will come when called. Shrike Fiend
+
+10, 12,  B: One normal B: Two normal B: Two normal 
+Rewards 14, etc. Frozen Corpse Frozen Corpses Frozen Corpses 
+Add Brummix (Pet 12) to the C: One elite C: One elite C: Two elite 
+Stables. This can exceed the Burrowing Blade Burrowing Blade Burrowing Blades
+capacity of the Stables.
+
+ 40.3 • Deadly Pastimes (85) B
+
+Air is bubbling up from somewhere deep A
+below, so you take a refreshing gulp to 
+keep you going. A
+
+Special Rules 1 A
+Whenever any character ends their 
+movement occupying or adjacent to A
+G, they may recover up to two of 
+their lost ability cards. Each character A
+may only gain this benefit once. 
+
+C
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+40
+
+
+
+ 41.1 • Job Posting  41.2 • Ice Floes (22)
+
+Captain Olmstead, head of the town guard, Below deck is madness. Saltwater has filled several glistening black fish: lightning eels. 
+brings you out of the cold and into the the hold up to your ankles and loose boards Together the creatures are blasting holes in 
+warm barracks. By the fire is a shivering float freely about. Lurkers clack in the the ship. You must bring them down before 
+Inox girl wrapped in heavy pelts. The rest darkness and they’ve brought with them they drop you to the sea floor.
+of the normally lively barracks is empty, 
+cleared out at the Captain’s orders. He 
+speaks quietly to you, out of earshot of the Special Rules
+girl. A and all B are linked hexes. damage dealt. Hexes cannot be damaged 
+
+in any other way and are immune to all 
+“Patrol found her outside the wall, frozen If any monster would perform an attack conditions. If a hex accumulates 4+(2xL) 
+half to death. Claims someone called ‘The ability but lacks a primary target, it damage tokens, remove those tokens and 
+Collector’ has been holding her and her instead attacks the closest empty hex or place one 1-hex water tile in the hex.
+brothers for a few weeks now. I don’t have border hex, prioritizing those with the 
+the troops to spare, but I’m not letting most damage on them. Place damage If tile 7-G ever has 5+(3xC) water hexes 
+this one languish over at the town hall. tokens on the attacked hex equal to the on it, the scenario is lost. 
+Someone has to do something.”
+
+You draw closer to the girl as non-
+threateningly as you can. She tries to put 
+on a brave face when she sees you, but 
+the façade doesn’t last long. After a few 
+deep breaths she speaks. “I… I think I B
+can tell you where. He has my brothers. 
+The Collector...” She sobs, and Captain B
+Olmstead puts a reassuring hand on her 
+shoulder. “Promise me you’ll stop him.” B
+
+Rewards
+New Scenario: The Collection 87
+
+ 41.3 • Former Prisoner Guests  41.4 • Flotsam (73)
+
+One of the prisoners you invited to stay “ENOUGH!” The Fish King yells, and a fight endlessly, but with the strength of the 
+in your longhouse surprises you one reprieve seizes the battlefield. He stares at Great One, I can create the stability needed 
+afternoon. you, his lidless eyes truly evaluating you to calm these waters forever.
+
+for the first time. “Perhaps I misjudged 
+“I just wanted to say thanks for… y’know, you.” His speech has a wet quality to it, “There is a third piece, yes? One more to 
+for not executing us. I can’t say I’m happy like it is coming from the back of his complete the scale. Help me retrieve it, 
+to be up here in Frosthaven, but maybe I throat, but it is clear enough. and I will help you fight the Lurkers. Your 
+needed a fresh start.” He looks anywhere pathetic mud hovels will be under my 
+around the room but at you, clearly “Scaleless, you are in my realm. I am the divine protection.”
+embarrassed to be saying this aloud. king of the seas and all who live in it. Why 
+
+are you standing in my way, when all I Peaceful seas seems like an aspiration 
+“Anyway, I scraped together a bit of desire is to once again bring...” The Fish you can get behind, but you are wary of 
+money over the last few weeks—honest King pauses, searching for the right word. this megalomaniacal Fish King who, only 
+money—and I’ll be moving out. Figured “Peace to these waters? moments earlier, was trying to impale you 
+I should repay you for a bit of your with his spear.
+kindness. It’s not much, but… anyway, “Something happened when that one,” 
+yeah, thanks.” the Fish King gestures to Lihrey with 
+
+his spear, “began tampering with these Section Links
+divine rocks. I felt it—the power of the If you agree with the Fish King’s 
+
+Rewards Leviathan—and I immediately knew what proposition, read 90.1 now. 
+Gain 10 collective gold. must be done. The seas are fraught with Otherwise, read 71.4.
+
+warring and death. The Lurkers and Abaeli 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+41

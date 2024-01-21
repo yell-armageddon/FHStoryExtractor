@@ -1,0 +1,1315 @@
+﻿99 • A4 Prison Break
+  Design and writing: Alexander JL Theoharis
+
+Scenario Goals Section Links Map Layout
+The scenario is complete when all The first time two characters 
+enemies in it are dead and the goal simultaneously occupy both pressure 01-H
+treasure tile has been looted. At the plates A at the end of a turn,  01-C
+end of that round, read 189.5. read 127.3.
+
+Introduction 13-C 05-A
+
+It’s been six days of marching through 
+the snow with Gem as your guide. The A 01-B
+too-old Orchid hasn’t suggested the bitter 
+cold has any effect on her, but the sheer 01-E
+
+weight of crystals grown on her body over 
+a lifetime has meant the trip, which should 
+have been two days at most, has taken the Loot Scenario Key
+better part of a week. She finally takes a   x10 
+seat on a rocky outcropping and points a Frozen Corpse
+heavy finger at the stone doorway in front   x2 
+of you.   x4 Robotic 
+
+  x2 Boltshooter
+“Well, this is the part I’m paying for. 
+Prison is just this way, I trust you’ll have   x2 Steel 
+no trouble whatsoever. It would be a true Automaton
+
+surprise if any of the guards lasted this 
+long!” She settles in, humming to herself. Metal Door 1
+
+The stone door’s lock has long ago rusted Pressure Plate
+away, and the chamber beyond is dark and 2
+silent—no one has disturbed this for what 
+feels like centuries. You wonder what kind  Trap 3
+of prison this even is. 1
+You find a sconce and light it. By some Rubble 3
+unseen mechanism, the fire jumps across 
+the room, lighting the area in a warm glow. Stairs
+The prison has a high ceiling with a third- 4
+story catwalk, and illuminated before you 
+is a massive cell door, shut tight. Ice Pillar 4
+
+Before you can deal with the door, though, 
+you’ll need to deal with the guards, which Treasure 1
+are not as long-dead as you had hoped. So 
+much for this being an easy job.
+
+Special Rules
+Door 1 is locked.
+
+All figures on any tile 1 treat all 
+figures on tile 13-C as in range and 
+line-of-sight for any ranged attack. All 
+monsters on any tile 1 do not move off A
+their tiles unless forced.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+122
+
+
+
+100 • A3 Inside the Swarm
+  Design and writing: Alexander JL Theoharis
+
+Scenario Goals Special Rules Map Layout
+The scenario is complete when all Place each character’s entire pool of 
+enemies in it are dead and the goal available ability cards (not just their 
+treasure tile has been looted. At the hand size) into a set-aside deck next 04-C
+end of that round, read 147.1. to their character mat. Each character 
+
+then selects any two of these cards to 
+form their starting hand.
+
+Scenario Effects 03-D
+
+Each character adds two  cards to Whenever any character rests or 09-A
+their attack modifier deck. would lose a card to negate damage, 
+
+instead of losing a card, they add 01-C 01-F
+
+any one set-aside card to their hand. 
+Introduction In addition, whenever any character 
+
+If your body is here, it is limp. Warm, plays a lost action, instead of losing 
+milky darkness washes over you in waves. the card, they discard it and also add Scenario Key Loot
+You open your eyes, forcing them open any one set-aside card to their hand.   x15 
+with all your willpower. No, they’re still All  actions still place the card in Burrowing 
+
+Blade
+closed. You open them again and again. the character’s lost pile as normal. All 
+Never re-closing them, just opening them abilities that recover lost cards instead 
+over and over and... no, you can see. It’s an move cards from a character’s discard Earth Demon
+
+icepick of clarity that scrapes against your pile to their set-aside deck.
+spine. You can see everything, forever. It’s Lurker 
+too much. You want to cry—to shed tears at If any character would add another Mindsnipper
+
+the enormity—but your eyes are still shut. set-aside card to their hand while at 
+their maximum hand size (including Shrike Fiend
+
+“Focus! Concentrate on what you know,” cards in their hand, active area, lost 
+Gem’s voice is a harp: slow, deliberate pile, and discard pile), they become Snow Door
+plucks that center you. “Imagine your exhausted. 2
+strength, what makes you you. The rest 
+will come back with time.” You remember. Large Snow 
+
+Corridor 4
+You’re here to stabilize the swarm. Keep it Section Links
+calm. You have purpose. And the voice... When door 1 is opened, read 141.3.
+the voice is a friend?  Trap 6
+
+“You’re reaching too far. Just concentrate Rubble 2
+on yourself. Focus on your strength. 
+We need to build up your subconscious 
+without waking your conscious mind.” Bookshelf 1
+You picture your arms, your legs. Your 
+body, just as you remember it. And as 
+suddenly as you recall, it is here. Ice Pillar 7
+
+“Good! We’ll need to reach the core of the Metal Cabinet 1
+Harrower’s mind. It is pure; there is no 
+harm here except what you bring with you. 
+Purge your mind and—” Treasure 2
+
+Harm. You remember harm. You 
+remember your strength, striking down 1
+harm. And as soon as you recall it, 
+it too is here. A sigh permeates your 
+consciousness, and you hear her voice 
+again: “Please be careful... I don’t want to 
+have to gather more mercenaries.”
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+123
+
+
+
+101 • O3 Harrower Library Into the Forest
+
+  Radiant Forest Design and writing: Alexander JL Theoharis
+
+Scenario Goals Section Links Scenario Key Loot
+The scenario is complete when C+4 When door 1 is opened, read 126.2.   x8 
+swarms have been absorbed by Zu. At When door 2 is opened, read 194.4. Algox Archer
+the end of that round, read 137.4. When door 3 is opened, read 171.3.   x3 
+
+  x3 
+Algox Guard
+
+Introduction Map Layout   x3 
+You push past wrought-iron gates into   x1 
+
+Algox Priest
+what was once an ornate entrance hall, but 07-E   x1 
+today just barely provides a bit of shelter   x1 
+from the storm outside. Carvings, too Dungeon Door 3
+intricate to have been made by human 13-E 15-C 05-A
+hands, adorn the broad wooden doors, 
+
+Cave Corridor
+coalescing into sublime patterns now 1
+worn away with time. The iron hinges are 01-H
+smashed in, and the door hangs lopsided— Large Cave 
+
+Corridor 2
+the fabled Harrower Library you were 
+looking for is in disrepair.
+
+ Trap 6
+“It wasss a place of reverenccee onceee.” 
+Zu, the Harrower you rescued from prison, 
+shuffles toward the door. “But it hasss the 4 Rubble 6
+ansssswers we sseeek.”
+
+Ice Pillar 2
+Gem turns to you. “In any case, we’ll 
+need to collect whatever remains from the 
+resources here at the library. Harrowers Metal Cabinet 4
+aren’t like you or I—they’re many smaller 
+creatures that have agreed to work in 1
+unison. A library for them doesn’t have 
+scrolls or books, but rather deposits of 
+themselves. A Harrower can subsume 
+what’s in these receptacles and learn all 
+that the depositor knew. Here are the 
+remaining memories of the Harrowers 
+who locked Zu away and drove the rest of 5
+us to the far reaches of the continent. They 
+will know where to find our companion.”
+
+The unmistakable sound of angry Algox 
+down the hall interrupts your conversation. 
+Gem brushes off a stone bench and 
+sits down, folding her crystal-covered 
+arms. “Well, I’ll let you fine mercenaries 
+deal with that. Sounds like more guards 
+stationed to thwart our plans. Best of luck 
+and all.”
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+124
+
+
+
+102 • R7 Into the Black
+  Imperial Mountains Design and writing: Alexander JL Theoharis
+
+Scenario Goals that your guilt is your only companion.” Map Layout
+The scenario is complete when the Gem pauses for a long time, unsure if she 
+Savvas Icestorm is dead. At the end of should continue.
+that round, read 142.3.
+
+“I told you we used to adventure together. 
+Zu, Barlet, and I. But there was a fourth... 
+
+Scenario Effects what you today call a Lurker. Ripple 
+Each character adds one  card to was the best of us. We took a job, and 
+their attack modifier deck. we chose... the wrong path. We were 
+
+manipulated, and it wound up with Ripple Scenario Key Loot
+dead and the rest of us outlaws. We 
+
+Introduction   x15 
+couldn’t show our faces anywhere. Zu Chaos Demon
+
+You find Bartlet, the last surviving was imprisoned, and I hid. Bartlet... poor, 
+member of Gem’s mercenary group, sweet Bartlet just gave up. Exiled itself. 
+slumped in the corner of an unassuming Wandered into the mountains and sat Frost Demon
+
+cave, right where Zu said. The mood is down here. I’ve been searching for my old 
+more somber and less celebratory than you friend ever since.” Living Spirit
+expected.
+
+The Harrower, Zu, bows their head. 
+Gem strokes her hand over Bartlet’s “And what now thattt we have found our Night Demon
+unconscious forehead. “A Savvas is companionnn? There cannot be much life 
+granted all the life it will ever have leffft in Bartlet at all... it hasss been too Savvas 
+the day it’s born under the Copperneck long.” Icestorm
+Mountains. From then forward, their lives 
+have a finite energy, and when they take Gem reaches out one of her hands and Wind Demon
+their last step, they return to being just the extends a crystalline finger. She places it 
+rocks they once were.” She taps her finger gently, delicately against the temple of the Large Dungeon 
+against Bartlet’s forehead, but there’s no resting Savaas, and then with surprising Corridor 2
+response. strength pushes her long, sharp digit into 
+
+the creature’s skull until her finger is Any Other Tile 55
+“Oh sure, they can top off some dribs embedded down to the knuckle.
+and drabs by eating some rocks, but the 
+reality is that every step they take, every “What now? Now they go in and put its Treasure 2
+spell they cast, every word they speak—it mind to rest. Find the Savvas in there 
+marches them closer to the end of their and help it move on.” She looks back at 
+lives. Macabre, really. Could you imagine? you, all business, and encourages you to – Continued on next page.
+Knowing you have just a hundred fifty hold one of the sharp crystal protrusions 
+years, give or take, and everything you do on her back. “What are you waiting for? 
+counts against it? That’s why a Savvas’s Grab on.” You pick one that seems stable 
+life is so focused, they know they have enough—and just like that, it’s done.
+to make the most of the little time they 
+have.”
+
+Gem stops for a moment, and when she 
+continues speaking, there’s a line of 
+wetness under her eyes. “By that same 
+token, if a Savvas were to just stop 
+moving, to think no more thoughts, and 
+just settle where it sat… well, it could 
+live for a very long time. And I can think 
+of no Savvas that would want more to 
+never think again than poor Bartlet. It’s 
+a kind of torture, really. To live with just 
+the faintest trickle of a thought, knowing 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+125
+
+
+
+102 CONT. • Into the Black
+
+Special Rules
+Any character may spend 1 movement way are considered corridors. As new Set the numbered tokens next to the map. 
+point to place one 1-hex corridor or ice tile hexes are added, consolidate existing 1-hex Use the round track to track the number 
+adjacent and connected to the map such tiles into 2-hex tiles, if necessary. The of new hexes added to the map. Whenever 
+that it is within  3 of them. These tiles border around the map is not considered each fifth hex is placed, reset the track 
+represent new hexes, which increase the a wall line at any time, and range can be and consult the appropriate chart:
+overall map size. All tiles placed in this counted across gaps in the map.
+
+Hexes Two Characters Three Characters Four Characters
+
+5 Place one numbered token in the Place one numbered token in the Place one numbered token in the 
+newest hex. newest hex. newest hex.
+
+10 Spawn one normal Night Demon at the Spawn one normal Night Demon at the Spawn one normal Night Demon at the 
+newest hex and one elite Chaos Demon newest hex and one elite Chaos Demon newest hex.
+at the numbered token. at the numbered token.
+
+15 Place one numbered token in the Spawn one elite Living Spirit at the Spawn one normal Night Demon at the 
+newest hex, then spawn one normal newest hex and one normal Living newest hex and one elite Chaos Demon 
+Night Demon at each numbered token. Spirit at the numbered token. at the numbered token.
+
+20 Spawn one normal Living Spirit at the Place one numbered token in the Spawn one elite Living Spirit at the 
+newest hex, then place one treasure tile newest hex, then spawn one elite Night newest hex and one normal Living 
+(numbered 85) in either numbered token. Demon at either numbered token. Spirit at the numbered token.
+
+25 Spawn one elite Savvas Icestorm at Spawn one normal Living Spirit at Place one numbered token in the 
+the newest hex and one normal Chaos the newest hex and one normal Night newest hex, then spawn one normal 
+Demon at either numbered token. Demon at either numbered token, then Night Demon at either numbered 
+
+place one treasure tile (numbered 85) token.
+in the other numbered token.
+
+30 Spawn one normal Night Demon at Spawn one elite Savvas Icestorm at the Spawn one normal Chaos Demon at 
+both numbered tokens. newest hex. the newest hex and one normal Night 
+
+Demon at both numbered tokens.
+
+35 Place one treasure tile (numbered 57) Spawn one normal Chaos Demon, one Spawn one normal Living Spirit at the 
+in the newest hex. elite Living Spirit, and one elite Night newest hex, and place one treasure 
+
+Demon at any starting hex. tile (numbered 85) in either numbered 
+token.
+
+40 ———— Place one treasure tile (numbered 57) Spawn one elite Savvas Icestorm at 
+in the newest hex. the newest hex and one normal Chaos 
+
+Demon at either numbered token.
+
+45 ———— ———— Place one numbered token in the 
+newest hex and spawn one normal 
+Chaos Demon, one elite Living Spirit, 
+and one elite Night Demon at any 
+starting hex.
+
+50 ———— ———— Spawn one normal Night Demon at 
+each numbered token.
+
+55 ———— ———— Place one treasure tile (numbered 57) 
+in the newest hex.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+126
+
+
+
+103 • R8 The Lead Door
+  Imperial Mountains Design and writing: Alexander JL Theoharis
+
+Scenario Goals Special Rules
+The scenario is complete when C+2 Each ice pillar has (Lx2)+4 hit points. They Tokens Spawn
+ice pillars have been destroyed. At the are enemies to you and allies to all monsters. 
+end of that round, read 158.2. Whenever any character ends their turn 0 to 5 One normal Living Spirit
+
+adjacent to any ice pillar, damages one, or 
+suffers damage themselves, add one damage 6 to 8 One normal Shrike Fiend
+
+Introduction token to their character mat. This represents 
+Gem stands over her Savvas friend stress on their mind. 9 to 11 One normal Living Doom
+Bartlet. Zu the Harrower paces the icy 
+cavern, casting concerned glances over At the end of each round, if any ice pillars 12+ One elite Living Spirit 
+their shoulder as Gem prepares to send suffered damage that round, spawn the following and one normal Lurker 
+you on another trip into the Savvas’ mind. monsters at each character’s location based on the Clawcrusher
+
+number of damage tokens on their mat:
+“You’re certain you saw the door? 
+Describe it to me!” You recount having 
+found a lead door at the bottom of a chest Section Links Map Layout
+when you were last in the Savvas’s head. When door 1 is opened, read 30.4. 01-H
+
+When door 2 is opened, read 11.7.
+The old Orchid seems satisfied with your 09-B
+description. “The truth is I brought you 
+here not to solve some terrible blight on Scenario Key
+this world, but merely to give one person 
+a bit of comfort in their time of passing. Living Doom
+
+09-C
+If you’ve discovered a door as securely 
+hidden as you describe, you’ve found 01-B
+where Bartlet is keeping its most painful Living Spirit
+
+thoughts—the demonic tormentors of 1
+its mind. You’ll need to break apart the Lurker 
+scaffolding holding those dark memories Clawcrusher
+
+together.”
+Shrike Fiend
+
+Zu interrupts: “Bartlet doessssn’t have 
+muccch time leffft.” Dungeon Door 2
+Gem nods. “Right. You’ll be entering 
+the deepest recesses of the mind: a jail Large Dungeon 
+
+Corridor 2
+cell of Bartlet’s own making. It has been 
+tormenting itself for centuries.” Large Metal 
+
+Corridor 2
+The Harrower exudes a nervous energy. 
+“Ssssend themmm!” Ice Pillar 6
+Gem takes a deep breath, then thrusts her 
+finger into the Savvas’s skull. She turns to Loot
+you as the process takes hold. “Bring the   x15 
+whole place down. Release Bartlet from its 
+demons... and please don’t go mad in the   x1 
+process.”
+
+You grab a crystal on Gem’s back and 
+plunge into a creature’s mind for the last 
+time.
+
+2
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+
+127
+
+
+
+104 • E5 Ruins of the Solstice
+  Design and writing: Ryan Schoon
+
+Scenario Goals Special Rules Section Links
+The scenario is complete when one All hexes to the left of any A in When door 1 is opened, read 164.3.
+goal treasure tile has been looted. At the scenario are considered to be in 
+the end of that round, read 10.2. spring, while all those to the right are 
+
+considered to be in winter. Each door Map Layout
+and A is in neither season.
+
+Scenario Effects
+Each character gains . All figures in spring consider  to 16-C
+
+always be strong, while all figures 
+in winter consider  to always be 
+
+Introduction strong. If some monsters of a set are 09-B
+You show the key you found to many within one season, but others are 
+people within Frosthaven, but none are not, only those in the corresponding 
+able to offer any insight into the strange, season benefit from the elemental 
+cracked key. That is, until you stumble consumption effect. 07-E
+upon an ordinary locksmith, who gives 
+you your first clue. The locksmith tells you At the end of each round, each Earth 
+a story in hushed whispers—a story about Demon or Forest Imp in winter and 
+a cult known to experiment with forging each Frost Demon or Savvas Icestorm 
+keys; a cult that fled to the frozen north to in spring suffers  1.
+avoid others interfering with their work. 
+He doesn’t know much, but he describes a 
+mural that the first travelers into the north Scenario Key Loot
+made note of. It isn’t far from here, and the   x10 
+mural may give you a lead as to how to use Earth Demon Dungeon Door 2
+that key.   x3 
+
+  x3 
+The mural, as it turns out, is painted Forest Imp Snowdrift 6
+
+  x2 
+on the side of a massive rock wall. The 
+images on the stone depict the traditional   x1 
+
+Frost Demon Tree 2
+symbols of spring and winter - on one side,   x1 
+the bountiful harvest and, on the other, 
+desolation. Where these two warring Savvas 
+
+Icestorm Treasure 2
+murals meet stands a cracked outline in 
+the shape of a door. You may have missed 
+
+Wind Demon
+it completely, but for the fact it begins to 
+glow as you approach. On cue, the key 
+you have kept close at hand begins to glow 
+as well, first green, then blue. The door 1
+swings open. Perhaps there are answers 
+waiting on the other side of this door.
+
+A
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+128
+
+
+
+105 • H11 Ruins of the Equinox
+  Copperneck Mountains Design and writing: Ryan Schoon
+
+Scenario Goals Special Rules Section Links
+The scenario is complete when Place the  token to the left of tile When door 1 is opened, read 191.3.
+all enemies in it are dead and C+2 7-E so it lines up with row A. At the 
+numbered tokens have been looted. At end of each round, all characters and 
+the end of that round, read 165.1. character summons, in right-to-left Map Layout
+
+order, in the row to the right of the 
+ token are forced to move one hex to 
+
+Scenario Effects the right. The  token then cycles to 16-C 07-E 02-C 02-I
+Each character gains . the next indicated row: A to B, B 
+
+to C, or C to A.
+
+Introduction All figures in this room consider  to 
+The key alternates between a yellow and always be strong.
+an orange glow as you insert it into the 
+mysterious door at the back of the cave. 
+You turn it, and the door swings open. Scenario Key Loot
+
+  x10 
+Immediately, a strong gust rushes out of Earth Demon Dungeon 
+
+Corridor 4
+the doorway, almost knocking you off   x3 
+your feet. And dry, dead leaves—so many 
+leaves—swirl around you. You push your Flame Demon Large Dungeon   x3 
+
+Corridor 3
+  x2 
+
+way in to find a force of guardians who 
+don’t seem happy about your presence   x1 
+
+Rending Drake  and   
+Trap 6
+
+here. You have to face them and the strong   x1 
+winds at the same time.
+
+Savvas 
+Lavaflow Lava 6
+
+Wind Demon Rubble 6
+
+Dungeon Door 1
+
+A
+
+B 1
+
+C
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+129
+
+
+
+106 • M5 The Tempus Forge
+  Design and writing: Ryan Schoon
+
+Scenario Goals Special Rules Scenario Key Loot
+The scenario is complete when the Each altar in the scenario has    x7 
+Blacksmith is dead. At the end of that (L+2)xC/2 hit points (rounded down). City Guard
+round, read 179.4. They are enemies to you and allies to   x2 
+
+all monsters.   x4 
+Earth Demon
+
+Introduction   x2 
+Door 5 is locked and will unlock 
+
+You slide the key into the mural on the when all four altars have been   x2 
+Flame Demon
+
+rock, and the ground beneath you begins destroyed.   x2 
+to rumble. The rock moves away from you   x1 
+to reveal a winding staircase spiraling Frost Demon
+down into the earth. You descend and Section Links
+marvel at the paintings drawn on the stone When door 1 is opened, read 8.1. Wind Demon
+walls. They depict a wide variety of people When door 2 is opened, read 184.4. 
+throughout time, each of them holding When door 3 is opened, read 189.2. 
+up a glowing key—the same key you are When door 4 is opened, read 183.1. Dungeon Door 5
+looking to forge. When door 5 is opened, read 29.2.
+
+ and   
+You can hear the forge before you see it: Trap 2
+it is a massive construction of iron and Map Layout
+stone surrounded by demons. At the head Lava 3
+of the forge you see a blacksmith—a 
+massive figure that looks vaguely human, 10-B
+
+but something is off. He growls and points Snowdrift 5
+at you as you enter the forge, snarling 02-A 07-E 02-K
+something. You can’t quite make it out, 
+but there is no mistaking his intent. These Tree 1
+
+02-C 02-I
+creatures don’t want you here, and if you 
+want to reach the forge, you’ll have to fight Altar 4
+your way to it.
+
+The demons disperse and a massive iron Treasure 1
+gate slams down over the entrance to 
+the forge. You look around and see other 
+alcoves to explore. You can only hope they 
+hold the key to getting inside.
+
+5
+
+1 4
+
+2 3
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+130
+
+
+
+107 • J10 My Private Empire
+  Copperneck Mountains Design and writing: Tyler Sigman
+
+Scenario Goals meet you directly, but please see yourself Section Links
+The scenario may be complete only at in and the festivities will begin. I shan’t be The first time any character enters A, 
+the end of the same round when one of long. Oh, and do bring your weapons.” read 168.4.
+the five episodes is overcome. At the 
+end of that round, you may read  With that, the bronze portal unlocks and 
+
+177.5. Or if all five episodes have swivels open. A well-cut marble stairway Map Layout
+been overcome, read 188.3. leads down into the darkness. You enter, 
+
+unwilling to turn back after coming so far. 
+The air is musty and dank. Nobody has 
+
+Introduction 16-C 13-E
+been through here in a long, long time.
+
+The peculiar invitation was too interesting 
+to pass up. Clearly, the only way to resolve Magical lamps blaze to life and you find 
+the mystery of the letter from this   yourself in a grand chamber with vaulted 01-B
+
+ “Ventillion” is to see it through and search ceilings. It’s expertly hewn out of rock 06-B
+for the fanciful estate. and bedecked with ornate fixtures, grand 
+
+mosaic tiles, and sprawling crimson velvet 01-D
+
+At the apron of the Whitefire Woods, you drapery along the walls. A servant’s bell 
+follow the map’s instructions to the letter: hangs from a velvet rope in the center of 10-B
+await the fading sun, square yourself to the room.
+the four cited landmarks, and then look 
+for the shadows of the nearby peaks to 
+converge on a supposed path through the Special Rules
+foothills. You enter the brush, first seeing Door 1 is locked. Loot Scenario Key
+nothing other than the dead bracken you’d   x10 
+expect this time of year. Throughout the scenario, there will be Flaming 
+
+five episodes. Whenever any episode   x3 Bladespinner
+
+But then, something peculiar! It is well is overcome, you may choose to   x3 
+camouflaged by untold years of fallen complete the scenario at the end of Living Bones
+
+  x1 
+branches and detritus, but a man-made that round. If you do not, the scenario 
+path is undeniable—bricks laid out in a continues as normal and cannot be   x1 Living Doom
+beckoning order, winding and twisting completed again until another episode   x1 
+into the mountains. It takes many hours is overcome.   x1 
+of hard-fought traipsing, requiring an Living Spirit
+even mix of hurdling, crawling, and the If all five episodes are not overcome, 
+occasional axework, but the energy is not whether the scenario is completed or Robotic 
+hard to find because you know you’re onto lost, it can be attempted again after Boltshooter
+something. returning to Frosthaven.
+
+Ruined 
+Machine
+
+In the fading light, you find yourselves 
+at a plateau. The brick path opens into Steel 
+a wide, crescent-shaped courtyard on 
+surprisingly level ground. The floor is a 1 Automaton
+
+colored stone mosaic in the style of the Dungeon Door 3
+Southern Kingdoms. At the center of this 
+crescent is a towering marble block with 
+an inset door made of bronze. It features a Metal Corridor 2
+golden knocker shaped as the letter V. You 
+dust yourself off, shake out the cold, and 
+rap the knocker. A Bookshelf 2
+
+From a brass pipe just above the door Metal Cabinet 2
+echoes a tinny voice: “Welcome, my 
+friends! I knew you’d come. I’ve waited so 
+very long for you. My apologies that I can’t Sarcophagus 2
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+131
+
+
+
+108 • C12 Lustrous Pit
+  Copperneck Mountains Design: Jeremy Kaemmer; Writing: Chris Handley
+
+Scenario Goals Special Rules Map Layout
+The scenario is complete when all four All non-Flying move abilities are 
+goal treasure tiles have been looted. At reduced to at most 2 movement points 
+the end of that round, read 136.2. and ignore any bonus movement 16-B
+
+or Jump. All featureless hexes are 
+treated as icy terrain, but they are still 
+
+Introduction featureless for the purpose of placing 11-B
+Where could this primitive painting be overlay tiles on them. Movement from 
+depicting? Days go by before you find a icy terrain will stop when entering 
+familiar-looking valley. You compare it traps or closed doors, but after a trap is 11-D 04-A
+
+to the painting, and it matches fairly well. sprung or a door is opened, it becomes 
+About the valley are great, curved cliffs, icy terrain for subsequent movements.
+as if a mighty hand clasped the landscape. 
+After a moment to rest and wash, you set 
+about searching for signs of the people that Section Links
+once lived here. When either door 1 is opened,  
+
+read 140.1. 
+It doesn’t take long to find the wide mouth When door 2 is opened, read 165.5. 
+of a cave at the base of one of the cliffs. When door 3 is opened, read 192.4.
+Immediately upon entering, you notice 
+that the stone walls are covered with 
+paintings similar to those on the slab. 
+Around you are all manner of murals Scenario Key
+depicting demons, and not as warnings, 
+but venerating them. Ice Wraith  and  
+
+Trap 6 Snow Rock 5
+
+You jump as the wind outside howls, as 
+if recalling the guttural tongue of the Snow Imp Ice Spikes Large Snow 
+
+4 Rock 4
+demons, and you press on deeper, looking 
+for more clues as to the nature of this Cave Door 4 Rubble 4 Treasure 4
+place, which seems to be encased in a 
+thick layer of ice. But the warmth of your 
+lantern and the heat of your flesh has  and  
+
+Trap 6
+attracted the chill denizens of the cave. 
+
+But this opportunity is too enticing. 
+Here you are on the edge of something Loot
+truly exciting—communications from   x15 
+an ancient age. You resolve to explore 
+a bit and see if you can’t find some   x2 
+mural fragments you could take back to   x2 
+Frosthaven for study.   x2 
+
+  x1 
+  x1 
+  x1 
+
+Goal
+1 1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+132
+
+
+
+109 • C8 Furious Factory
+  Crystal Fields Design and writing: Conrad Oakes
+
+Scenario Goals Special Rules Map Layout
+The scenario is complete when the The glowing orb cannot be moved or 
+Central Processor is dead. At the end destroyed.
+of that round, read 67.2.
+
+Each metal cabinet B in the scenario 12-A
+has (2+L)xC/2 hit points. They are 04-B
+
+Introduction enemies to you and allies to all 08-A
+You follow the blinking red dot to the monsters.
+location of the factory and enter through 04-D
+some sort of access tunnel leading into Set up the Boss monster deck and 12-D
+a mountain. At first, you determine it is initiative token.
+abandoned, but then, you listen closer and 
+realize there is a faint whirring coming 
+from the walls. You explore further into Section Links
+the facility, and come across a large room The first time any door is opened,  Loot Scenario Key
+with a giant crystal in the center. read 195.2.   x11 
+
+When tile 12-D is revealed,  Ancient 
+Artillery
+
+In front of the crystal is a control read 166.3.   x2 
+panel, which you approach to When tile 12-A is revealed,    x4 Flaming 
+inspect, but as you do so, the crystal read 186.2.   x1 Bladespinner
+suddenly glows red and turns toward When tile 4-B is revealed,  
+you. A mechanical voice booms read 162.1.   x2 Ruined 
+throughout the room: “INTRUDERS When tile 4-D is revealed,  Machine
+
+DETECTED. ACTIVATING DEFENSE read 172.5. 
+MECHANISMS.” When all four metal cabinets have Steel 
+
+Automaton
+been destroyed, read 72.3.
+
+Great, another ancient machine center Dungeon Door
+angry at you. You draw your weapons, 3
+but an energy field projects over the 
+crystal, and alarms start to blare. You Metal Door 3
+look down and see power cables snaking 
+from the central console to four separate 
+antechambers. Perhaps if you follow these Debris 6
+and stop the sources of power, you’ll be 2
+able to get out of here in one piece. Glowing Orb 1
+
+3 Power Conduit 6
+
+Metal Cabinet 4
+
+4 Treasure 1
+
+1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+133
+
+
+
+110 • R6 Guardian’s Temple
+  Imperial Mountains Design and writing: Drew Burmahl
+
+Scenario Goals seem like much of a match for this new to emerge from a hatch behind the altar. 
+The scenario is complete when all six barrier or the columns, but maybe you can Those little things certainly can make quite 
+ice pillars have been destroyed. At the find another way to destroy them. a blast when they are destroyed, so a plan 
+end of that round, read 80.3. begins to take shape in your mind. Perhaps 
+
+Looking around the room, you see a few you can make this work.
+old malfunctioning machines have started 
+
+Scenario Effects
+Each character gains  twice.
+
+Special Rules
+At the start of each round, two ice summons treat electrified hexes as 
+
+Introduction pillars become active in the following negative hexes.
+Meditating on the directions in your head, order: both A, both B, both C, 
+you venture far into the Imperial Mountains repeat. All active ice pillars electrify the Whenever any Ruined Machine dies 
+and arrive at the stone face of a cliff. At four water hexes and two corridor hexes while adjacent to an ice pillar, the pillar 
+first, you think this was all a fool’s errand, closest to them. is destroyed. All ice pillars cannot be 
+but then you see it: a wedge-shaped hole destroyed any other way or moved. 
+in the rock directly in front of you. You Whenever any character or character Whenever any destroyed ice pillar were 
+insert the keystone, and the rock beneath it summon starts their turn occupying an to become active, nothing happens.
+fades away, revealing an archway into the electrified hex or enters one with a non-
+mountain with the keystone at the top. Jump, non-flying movement, they suffer At the start of each round after the first, 
+
+hazardous terrain damage. Whenever spawn one Ruined Machine at D. It is 
+You proceed down the tunnel, and the any Ruined Machine starts their turn normal for two characters, elite each 
+cave eventually opens up into a much occupying an electrified hex or enters second spawning for three characters, or 
+bigger room than you expected. Giant one, it performs  1, self. All character elite for four characters.
+rock columns surround a weathered altar 
+holding a scroll. You see a few enemies, but 
+it shouldn’t be too difficult to retrieve the Map Layout Section Links
+scroll and make an escape. When four ice pillars are destroyed, 
+
+01-F read 186.3.
+You are about to jump over a pool of water 
+between you and the altar when the entire 16-C
+room suddenly sparks to life. Giant bolts 
+of electricity begin flying out of the center 
+of the columns, surrounding the altar in 
+an electric force field. Your weapons don’t 
+
+Scenario Key Loot
+C A
+
+Living Doom Large Snow   x6 
+Corridor 6   x2 
+
+  x3 
+Living Spirit Large Water 4   x2 
+
+Ruined   x1 
+Machine Water 4 B D B
+
+  x1 
+
+Shrike Fiend Glowing Orb 1
+
+Cave Corridor 1 Ice Pillar 6
+
+A C
+Treasure 1
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+134
+
+
+
+111 • O1 Ice Cave
+  Design and writing: Scott Hathaway
+
+Scenario Goals You must get through this together, but to Section Links
+The scenario is complete when all add another wrinkle, the cavern fills with When either door 1 is opened, read 
+characters have escaped. At the end of echoing howls as hounds and demons 182.2.
+that round, read 174.4. emerge from the depths.
+
+Map Layout
+Scenario Effects Special Rules
+Each character gains . No more than half the characters 11-D
+
+(rounded up) can start the scenario on 
+the same side of the ice wall. Set any 
+
+Introduction numbered token next to the map. 16-B 15-B
+Following the mirror’s guidance, you begin 
+your journey. The expedition depicted in Each room or set of rooms is 
+the reflection sends you far, far to the north, symmetric, such that each hex has a 11-B
+into the absolute coldest temperatures corresponding hex on the other side of 
+imaginable. the ice wall. Figures cannot teleport 
+
+from one side of the wall to the other.
+The weather is brutal, and you become fairly Loot Scenario Key
+certain this mirror is sending you to your At the end of each round, all characters   x10 
+doom. But then you see an outcropping in and monsters apply the following Frost Demon
+the snow up ahead. An entrance to a cave. effects simultaneously based on the   x1 
+
+occupancy of their corresponding hex   x3 
+You descend into a cave of pure ice, but the on the other side of the map: Hound
+
+  x3 
+sight of treasure inside warms your soul. 
+You step forward to claim it, but suddenly If occupied by an enemy, suffer  2.   x2 
+
+Night Demon
+collide with… nothing? You reach out and If unoccupied, suffer  1.   x1 
+feel a smooth, transparent wall of ice. If occupied by an ally, perform  1, self. 
+
+Savvas 
+Icestorm
+
+You look to the mirror for guidance, but all If any character becomes exhausted,  
+it reflects back to you is your face—dead, the scenario is lost. Wind Demon
+rotten, and worm-ridden. You shout with 
+surprise, and the mirror falls from your 
+hand, cracking when it hits the floor. You Cave Door 4
+feel something crack within you as well, 
+and everything goes black.
+
+Cave Corridor 2
+You awaken groggily to find yourself 
+alive, but the mirror is gone, and with it,  Trap 6
+the treasure. The wall of ice now appears 
+reflective, showing yourself also standing 
+up, trying to shake off the pain. Ice Pillar 4
+
+But something is off. This reflection doesn’t 1 Large Snow 
+quite move like you. It doesn’t quite look Rock 2
+like you. No, as more of your mind awakens, 
+you realize the reflection is your companion, Ice Wall 4
+trapped on the other side of the ice. 1
+You jump forward, looking for a way out, Large Ice Wall 4
+but when your companion does not follow, 
+you feel an intense, icy burning, and you see Treasure
+they feel it as well. Only when they return to 2
+your side does the pain diminish.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+135
+
+
+
+112 • FR Raised by Wolves
+  Frosthaven Design: Isaac Childres; Writing: Crystal Mazur
+
+Scenario Goals stone and moss, and worm-like creatures Section Links
+The scenario is complete when all with bladed appendages. This must be When door 1 is opened, read 97.1.
+enemies in it are dead. At the end of the wolves’ home, now overrun with 
+that round, read 30.3. unwelcome guests. Time to clean house.
+
+Map Layout
+
+Introduction Special Rules
+You stare at your ceiling in the dead of The two Hounds have twice their 
+night, the tiny howls keeping you awake. maximum hit point values. They are 15-B 07-A 14-B
+Come on, Wolfie, you think to yourself, allies to you and enemies to all other 
+silently pleading with the tiny pup, who monster types. Any character can lose 
+remains unaffected by your misery. one card from their hand or two from 
+
+their discard pile to negate one source 
+The wolf cub you found hasn’t stopped of damage to a Hound. If either Hound 
+since coming home, chewing on dies, the scenario is lost.
+everything, running around non-stop, 
+and howling at every sound. You know 
+Wolfie is just as miserable as you are. You 
+finally give in and take Wolfie for a walk 
+outside. You wander through the streets of Scenario Key Loot
+Frosthaven, watching Wolfie sniff around 
+before moving to the next area, running Burrowing   x8 
+
+Blade Water 6
+to keep up. As you get to the border of the   x1 
+outpost, Wolfie bolts through a gap in a   x3 
+nearby wall. Concerned, you follow. Chaos Demon  Trap 3
+
+  x5 
+The pup leads you into a nearby field,   x1 
+
+Earth Demon Snow Rock 5
+where two adult wolves are waiting.   x2 
+Their body language suggests they are 
+not friendly, and they move protectively Hound Treasure 1
+in front of Wolfie and growl. Could they 
+be the wolf cub’s parents? You put your Cave Door 2
+hands up reflexively and kneel, trying to 
+make yourself nonthreatening.
+
+Suddenly, Wolfie bolts out from behind 
+both of the adult wolves toward you, 
+leaping into your arms and licking your 
+face. That seems to be enough to calm the 
+larger ones down, and they walk up to you 
+and sit. As you calm Wolfie, you notice 
+both wolves are staring off into the distance, 
+then looking at you, then gazing off again. 
+It’s as if they want you to follow them. 1
+You nod and motion for them to lead 
+so you can help. All three wolves start 
+walking in the same direction slowly, 
+allowing you to keep pace. They lead you 
+to a cave, but stop outside. You peer inside 
+the cave and the largest wolf gives a quick 
+bark in affirmation. You head in and find 
+it crawling with large creatures made of 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+136
+
+
+
+113 • G9 Lush Grotto
+  Whitefire Woods Design: Isaac Childres; Writing: Shannon Campbell
+
+Scenario Goals Special Rules Map Layout
+The scenario is complete when all four Throughout the scenario, only read a 
+goal treasure tiles have been looted. At section if it has not yet been read.
+the end of that round, read 47.4. 13-C
+
+04-C
+Section Links 06-A
+
+Introduction When door 1 is opened, read 154.1. 
+Exploring the grotto, the stirring beauty 02-E 07-B
+
+When door 2 is opened, read 112.1.
+of the place compels you to lay down and 
+rest. You resist the sensation. Sleeping in a 
+mystical place does not typically end well. Loot Scenario Key
+It occurs to you that the thriving flora   x8 
+here could be harvested. Climbing a white Chaos Demon
+tree whose fruit resembles figs, but are   x4 
+sapphire-hued, you pluck a few. You are   x2 
+so focused on your task, however, that you Forest Imp
+
+  x1 
+don’t notice when the bird calls cease. At 
+least, not at first. You turn to look out over   x1 
+
+Polar Bear
+the forest. 1   x1 
+
+  x2 
+A dark creature roams, its head scraping Snow Door 6
+the canopy. It hasn’t noticed you yet. It   x2 
+looks wrought from roots, if roots were Large Snow 
+composed of smoke and ash. It makes a Corridor 1
+keening sound, which is answered further 
+out. You realize the grotto is full of them, Log 2
+these demons. You consider the appeal of 
+fleeing.
+
+Snow Rock 6
+But from this vantage point, you can 
+also see the glades and their promising Tree
+offerings. Guarded by these creatures, the 2
+valuable plants will just have to be fought 2
+for. You descend quietly, and prepare to Treasure 4
+face them. 
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+137
+
+
+
+114 • O7 Work Freeze
+  Design and writing: Joe Homes
+
+Scenario Goals Special Rules
+The scenario is complete when C+4 Doors 1 are locked. detonation charge is dropped, it cannot 
+ice pillars have been destroyed. At the be picked up again.
+end of that round, read 125.3. Each ice pillar in the scenario has 
+
+(Lx2)+2 hit points and  L/2 (rounded All hexes with dropped charges are 
+up). They are enemies to you and allies considered negative hexes. They can be 
+
+Introduction to all monsters. targeted by character attacks and can be 
+Pinter Droman’s explosives are affected by abilities that cause enemies 
+surprisingly light. You hike up the pass to Set the numbered tokens next to the to suffer damage. If a dropped charge 
+the demolition site, where the enthusiastic map. These represent detonation charges. suffers any damage or any figure enters 
+tinkerer hopes to create a new shortcut on Any character occupying or adjacent to its hex, the charge detonates, causing 
+the road over the mountains. You head to any A can forgo a top or bottom action all figures and objectives occupying or 
+the spot marked on the map, where you (discarding the card instead) to gain one adjacent to its hex to suffer  (Lx2)+4. 
+find a natural stone plateau that could detonation charge and place it on their A carried charge will also detonate in a 
+indeed lend itself to wagon travel... were it character mat. Each character can only character’s hex if the character carrying 
+not for the heap of fresh landslide rubble carry one detonation charge at any time. it suffers any damage from attacks.
+perched directly in the path.
+
+Any character can drop a detonation At the start of each listed round, spawn 
+You drop your packs of explosive charges charge at any time during their turn the following monsters at the listed 
+and begin to loosen the straps, but a howl (including during movement), placing it locations based on character count:
+interrupts your work. A pack of wolves in an adjacent empty hex. Whenever any 
+poke their heads out of hiding, and a polar 
+bear emerges from behind a large boulder. Round Two Characters Three Characters Four Characters
+You were warned about the aggressive 
+wildlife in the area—this is why you were 2, 4,  C: One normal C: One elite Hound C: One normal Polar 
+chosen for the task, after all—but as more 6, etc. Hound Bear
+and more animals appear, you realize 
+there’s no end in sight; you’ll have to do 3, 5,  D: One normal  D: One elite  D: One normal and 
+your work while fighting off the locals. 7, etc. Snow Imp Snow Imp one elite Snow Imp
+
+Luckily, you figure the explosives you 
+brought will work just as well on beasts as 
+they do on rocks. Section Links
+
+When both ice pillars B have been 
+destroyed, read 159.1.
+
+Scenario Key Loot
+A D B Map Layout
+
+  x10 
+Hound
+
+  x3 1
+  x4 
+
+Polar Bear 1 13-A 13-C
+  x1 
+  x2 
+
+Snow Imp 1
+B
+
+Snow Door 3
+
+Rubble 3
+A C
+
+Ice Pillar 6
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+138
+
+
+
+115 • O8 Pylon Problems
+  Design and writing: Joe Homes
+
+Scenario Goals Special Rules
+The scenario is complete at the end Each ice pillar has L+3 hit points. suffer trap damage. If all seven ice 
+of the tenth round. At the end of that They are enemies to both you and all pillars have been replaced, the scenario 
+round, read 33.4. monsters. All character summons cannot is lost.
+
+focus on ice pillars.
+At the start of each listed round, spawn 
+
+Introduction Whenever any ice pillar would be the following monsters at the listed 
+You’re not sure what kind of desperate destroyed, it is instead replaced with locations based on character count:
+merchant would want to take this route, rubble, and all figures in adjacent hexes 
+but you have to admire the beauty of the 
+place as you hike the pristine wilderness Round Two Characters Three Characters Four Characters
+path meant to become a shortcut through 
+the Frozen Pass. The “road” is barely wide 5 Each A and B: One Each A: One normal Each A and B: One 
+enough for a single wagon, but Pinter normal Algox Guard Algox Guard elite Algox Guard
+Droman’s construction crew has done an Each B: One elite 
+admirable job of making the way passable, Algox Guard
+if still dangerous.
+
+8 Each A: One normal Each A: One elite Each A: One elite 
+At last, you arrive at your destination. The Algox Snowspeaker Algox Snowspeaker Algox Snowspeaker 
+cleared road hugs a tight curve around Each B: Two normal Each B: Two normal Each B: Two elite 
+the base of a cliff, over which hangs a Snow Imps Snow Imps Snow Imps
+precipitous rocky ledge that threatens to 
+collapse on any traveler foolhardy enough 
+to pass underneath. Map Layout Scenario Key Loot
+
+  x8 
+Droman sent you here to protect his crew’s 11-C Algox Guard
+work: a half-dozen or so metal pylons that   x3 
+stretch up from the ground to support the Algox   x3 
+ledge and make the road passable. You 13-A 02-G Snowspeaker   x3 
+understand now why the tinkerer sent you; 
+it’s clear that losing any of the rickety   x1 
+
+Snow Imp
+structures could trigger a collapse that   x1 
+would require weeks to dig out. You’re 
+meant to repel any attack by a local group Large Snow   x1 
+
+Corridor 6
+of Algox raiders, the Horns of Ruin, who 
+have taken offense to the new highway Snow Corridor
+cutting through the mountains. 2
+
+You don’t have to wait long. As the rest Rubble 6
+of the area comes into view, a group of 
+Algox appear from around the cliff base, 
+equipped for both combat and demolition. Ice Pillar 7
+It seems their goal is to make the road 
+impassable for the traveling merchants that 
+Satha says are Frosthaven’s lifeline in the – Continued on next page.
+summertime.
+
+You draw your weapons. It’s time to teach 
+the Algox how to share the road.
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+139
+
+
+
+115 CONT. • Pylon Problems
+
+A B
+
+B
+
+A
+
+116 • O8 Caravan Guards
+  Design and writing: Joe Homes
+
+Loot
+A C D
+
+  x5 
+  x4 
+  x4 
+  x4 
+  x1 
+  x1 
+  x1 
+
+B
+
+C D
+
+– Continued on next page.
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+
+140
+
+
+
+116 CONT. • Caravan Guards
+
+Scenario Goals “Not them! That is NOT them!” Droman highwaymen. You draw your weapon, 
+The scenario is complete when all five cries, running past you and cowering but just then you hear the unmistakable 
+wagons have either escaped or been behind a boulder. crunch of hooves and wheels—the 
+destroyed. At the end of that round, caravan has arrived. The Algox hear it too 
+read 141.2. An Algox appears from around the bend, and split up, some turning to waylay the 
+
+followed by others, all armed to the teeth. caravan while the others prepare to stop 
+The Horns of Ruin are back. Of course; it any rescue you might attempt. This grand 
+
+Introduction wouldn’t be a highway if you didn’t have opening just got more interesting.
+Pinter Droman paces excitedly. He is 
+always a font of energy, but today his 
+fidgeting is especially enthusiastic. “When Special Rules
+do you think they’ll be here?” All dungeon and cave corridor tiles enters an occupied hex, the figure in the 
+
+represent the road. hex suffers trap damage and is placed in 
+He’s asked the same question every hour the closest empty non-road hex. If any 
+since you stomped out your campfire’s At the start of each of the first five wagon enters a hex with an obstacle, 
+embers in the dawn light. Today is the rounds, place one numbered token in A. the obstacle is destroyed, and the wagon 
+grand opening of Droman’s Path—the first These represent caravan wagons, allies suffers trap damage. All other overlay 
+time the new shortcut through the Frozen to you and enemies to all monsters. Each tiles do not affect wagons in any way.
+Pass will be used by merchants bound for has (Cx2)+L hit points and is immune to 
+Frosthaven. After months of preparation, all conditions and forced movement. At the end of every round, if any wagon 
+engineering, and backbreaking labor, the occupies B, it escapes and is removed 
+shortcut promising easier access—and On initiative 50 each round, all wagons, from the map. If all five wagons have 
+thus, prosperity for Frosthaven—is finally in right-to-left order, perform  3, been destroyed, the scenario is lost.
+ready. Satha insisted on you being here focusing on moving toward and 
+when the first wagons rolled through, and occupying B. Wagons can only enter At the start of each listed round, spawn 
+you felt honored when you first set out, but road hexes, but can enter occupied hexes the following monsters at the listed 
+now, as you wait for the caravan to arrive, and hexes with obstacles. If any wagon locations based on character count:
+your patience with Droman’s inexhaustible 
+excitement is starting to wear thin. Round Two Characters Three Characters Four Characters
+
+You turn to answer his question for the 3 Each C: One normal Each C: One normal Each C: One elite 
+umpteenth time, but your response is cut Algox Icespeaker Algox Icespeaker Algox Icespeaker 
+off by the snap of a twig from somewhere Each D: One elite Each D: One normal 
+down the path. Droman jumps to attention. Algox Archer Algox Archer
+“Was that them?” He runs off around a bend 
+in the path, waving his arms in greeting. 6 Each C: One normal Each C: One normal Each C: One elite 
+“Hello! Hello, welcome!” No sooner is he Algox Archer Algox Archer Algox Archer 
+out of sight than a series of mighty roars Each D: One normal Each D: One normal Each D: One normal 
+ring out and the excitable tinkerer reappears, Algox Icespeaker Algox Icespeaker  Algox Icespeaker  
+sprinting back toward you. and one normal  and one normal  
+
+Algox Guard Algox Guard
+
+Scenario Key Map Layout
+
+Algox Archer Dungeon 
+Corridor 4 Rubble 5
+
+16-A 13-C
+
+Algox Guard Large Cave Large Snow 
+Corridor 4 Rock 2
+
+Algox Large Dungeon 
+Icespeaker Corridor 3 Snow Rock 4
+
+Algox Scout Large Snow 
+Corridor 2
+
+2023 CEPHALOFAIR GAMES, LLC. ALL RIGHTS RESERVED. USED WITH PERMISSION.
+141
